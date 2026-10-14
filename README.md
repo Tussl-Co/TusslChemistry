@@ -85,7 +85,7 @@ from the gate's regression inputs:
 
 ```json
 {
-  "tool": "TusslChemistry",
+  "tool": "tussl-chemistry",
   "version": "0.1.0",
   "schema_version": "1.1",
   "verdict": "match",
