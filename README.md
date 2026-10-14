@@ -1,6 +1,6 @@
-# tussl-chemistry
+# TusslChemistry
 
-tussl-chemistry tells you which single-cell kit made a set of FASTQ or BAM files. Its command is
+TusslChemistry tells you which single-cell kit made a set of FASTQ or BAM files. Its command is
 `tchem`. It reads the first 100,000 reads and needs no genome index. It also tells you where the
 barcode and UMI are, which barcode list to use, and which strand to count.
 
@@ -85,7 +85,7 @@ from the gate's regression inputs:
 
 ```json
 {
-  "tool": "tussl-chemistry",
+  "tool": "TusslChemistry",
   "version": "0.1.0",
   "schema_version": "1.1",
   "verdict": "match",
@@ -589,7 +589,7 @@ repeat each test.
 - `data/reference/housekeeping_human.fa`: 607 spliced transcripts of 40 genes. Also
   `tcr_bcr_constant_human.fa`: TCR and BCR constant regions. Both come from GENCODE v44 on GRCh38
   (`bench/head_to_head/scripts/build_nuclear_ref.py`).
-- tussl-chemistry does not include barcode lists. `data/lists.tsv` is the register of all lists.
+- TusslChemistry does not include barcode lists. `data/lists.tsv` is the register of all lists.
   For each list, it gives the source (at a fixed upstream commit) and a second source. It also
   gives the barcode count and length, the sha256 of the file, the owner and the terms.
 - `scripts/fetch_whitelists.sh` downloads each list from the register. It refuses a file that
