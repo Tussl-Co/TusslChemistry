@@ -1,5 +1,5 @@
 # Recall on held-out runs: what the binary said, by the run's independent label (bench/coverage/scripts/recall.py).
-# From: Coverage run: tchem 0.1.0, commit 00fffa8, binary sha256 19503cf97578b61b.
+# From: Coverage run: tchem 0.1.0, commit 523a322, binary sha256 62a5772b9531cff0.
 label	read_kind	runs	studies	high_labelled	high_other	medium_low	ambiguous	no_match	refused
 10x 3' v2	short	1308	686	626	607	31	10	34	0
 10x 3' v3/v3.1	long	12	12	11	0	1	0	0	0

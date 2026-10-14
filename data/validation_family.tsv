@@ -1,5 +1,5 @@
 # Validation of each kit family's HIGH calls on held-out runs (bench/coverage).
-# From: Coverage run: tchem 0.1.0, commit 00fffa8, binary sha256 19503cf97578b61b.
+# From: Coverage run: tchem 0.1.0, commit 523a322, binary sha256 62a5772b9531cff0.
 layout	read_kind	exact_runs	exact_studies	family_runs	read_label_runs	disputed	wrong
 BD Rhapsody	short	473	252	0	0	2	0
 Parse Evercode WT	short	202	109	0	0	1	0
