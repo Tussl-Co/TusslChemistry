@@ -17,6 +17,8 @@ barcode list, and the strand. If one fact is wrong, the pipeline does not stop. 
 cells, fewer genes or the wrong genes. Public metadata often does not give these facts, or gives
 them incorrectly.
 
+![The reads of a run its lab records as 10x 3' v3, compared with six 10x barcode lists. Only the 3' v3 list fits.](docs/img/wrong-list.svg)
+
 We could check 295 experiments in Arc Institute's scBaseCount. For 21, it records a 3' kit, but the
 reads are from a 5' kit. The ENA title shows this for 5 of them, and a strand test on nuclear genes
 for the other 16.
@@ -245,6 +247,8 @@ is stable.
 
 ## Supported layouts
 
+![Read layouts of 10x 3' v3, 10x 5' v1/v2 and Parse Evercode WT.](docs/img/read-layouts.svg)
+
 | Layout | Barcode read | Barcode list |
 |---|---|---|
 | 10x 3' v2 | R1: 16 bp barcode, 10 bp UMI | 737K-august-2016 |
@@ -282,6 +286,8 @@ table. To add a kit, follow [the kit recipe](ROADMAP.md#the-kit-recipe). The lev
 is in [How well it works](#how-well-it-works).
 
 ## How tchem decides
+
+![tchem reads the first 100,000 reads, tests each layout, gives a verdict and then a command.](docs/img/how-tchem-decides.svg)
 
 tchem reads the first reads of each file. It compares each known layout with them, in both file
 orders. For each layout, it measures these signals:
