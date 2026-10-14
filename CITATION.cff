@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use tchem, please cite it as below."
+title: "Tussl Chemistry (tchem): names a single-cell RNA library's layout from its first reads"
+type: software
+authors:
+  - name: "Tussl Ltd"
+version: "0.1.0"
+license: Apache-2.0
+repository-code: "https://github.com/Tussl-Co/TusslChemistry"
+abstract: >-
+  tchem names a single-cell RNA library's kit, chemistry, barcode list, cDNA strand and library
+  type from the first reads of its FASTQ or BAM files, across vendors, and prints how far to
+  trust the answer: each layout's record on held-out public runs.
+keywords:
+  - single-cell
+  - bioinformatics
+  - fastq
+  - chemistry detection
+  - barcodes

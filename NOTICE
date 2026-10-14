@@ -1,0 +1,7 @@
+Tussl Chemistry (tussl-chemistry, command tchem)
+Copyright 2026 Tussl Ltd
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+It includes reference sequences from NCBI RefSeq (NC_012920.1, NC_005089.1) and
+GENCODE release 44 (data/reference/, see SOURCES there), which are freely available public data.

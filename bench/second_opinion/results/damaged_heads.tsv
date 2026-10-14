@@ -1,0 +1,7 @@
+file	record	problem
+$TUSSL_CHEMISTRY_DATA/seekgene_heldout/heads/SRR36806516_R2.fq.gz	97139	plus line
+$TUSSL_CHEMISTRY_DATA/tenx_ena_heldout/heads/SRR11268104_R2.fq.gz	172114	plus line
+$TUSSL_CHEMISTRY_DATA/tenx_ena_heldout/heads/SRR16890980_R2.fq.gz	157268	seq/qual length
+$TUSSL_CHEMISTRY_DATA/tenx_ena_heldout/heads/SRR17555092_R1.fq.gz	1	header
+$TUSSL_CHEMISTRY_DATA/tenx_ena_heldout/heads/SRR23036701_R1.fq.gz	82101	seq/qual length
+$TUSSL_CHEMISTRY_DATA/tenx_ena_heldout/heads/SRR40475598_R2.fq.gz	193955	plus line

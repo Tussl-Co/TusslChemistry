@@ -1,0 +1,40 @@
+name: Unknown kit
+description: tchem found a barcode read's structure but matched no known layout.
+title: "Kit request: "
+labels: ["kit request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. The fingerprint holds no reads: only per-position consensus for structured
+        files, and 12-base sequences that at least 15% of reads carry (linkers). See CONTRIBUTING.md.
+  - type: input
+    id: kit
+    attributes:
+      label: Kit and version, as your lab knows them
+      placeholder: e.g. Vendor X 3' kit v2
+    validations:
+      required: true
+  - type: textarea
+    id: fingerprint
+    attributes:
+      label: Fingerprint
+      description: The "fingerprint" object from `tchem --format json` (only that object, not the whole report, which names your files).
+      render: json
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Where the read structure is documented
+      description: The vendor's pipeline or user guide, ideally a link.
+  - type: textarea
+    id: runs
+    attributes:
+      label: Public runs that use it
+      description: SRA, ENA or GEO accessions, one per line.
+  - type: input
+    id: version
+    attributes:
+      label: tchem version
+      placeholder: tchem --version

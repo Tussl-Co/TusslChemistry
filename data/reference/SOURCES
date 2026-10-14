@@ -1,0 +1,11 @@
+Reference sequences built into tchem (include_bytes! in src/signals/kmers.rs). All are public data.
+
+human_chrM.seq               Human mitochondrial genome, revised Cambridge Reference Sequence,
+                             NCBI RefSeq NC_012920.1 (16,569 bp), sequence only.
+mouse_chrM.seq               Mouse mitochondrial genome (C57BL/6J), NCBI RefSeq NC_005089.1
+                             (16,299 bp), sequence only.
+housekeeping_human.fa        607 spliced transcripts of 40 highly and ubiquitously expressed human
+                             genes, GENCODE release 44 on GRCh38, sense orientation. Built by
+                             bench/head_to_head/scripts/build_nuclear_ref.py.
+tcr_bcr_constant_human.fa    TCR and BCR constant-region transcripts (29 transcripts, 20 genes),
+                             GENCODE release 44 on GRCh38, built by the same script with a gene list.

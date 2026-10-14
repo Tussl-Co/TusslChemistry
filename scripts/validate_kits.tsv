@@ -1,0 +1,18 @@
+# One check per row: name, the verdict text wanted, R1 and R2 under $TUSSL_CHEMISTRY_DATA,
+# and why the run may be used (design runs and vendor data, never a held-out set).
+name	want	r1	r2	why
+Singleron V1 (SRR19645295)	Singleron GEXSCOPE V1  (confidence HIGH)	singleron/heads/SRR19645295_R1.fq.gz	singleron/heads/SRR19645295_R2.fq.gz	Singleron GEXSCOPE, one run per version not used in designing the layouts (heads of public runs).
+Singleron V2 (SRR36633509)	Singleron GEXSCOPE V2  (confidence HIGH)	singleron/heads/SRR36633509_R1.fq.gz	singleron/heads/SRR36633509_R2.fq.gz	Singleron GEXSCOPE, one run per version not used in designing the layouts (heads of public runs).
+Singleron V3 (SRR38275575)	Singleron GEXSCOPE V3  (confidence HIGH)	singleron/heads/SRR38275575_R1.fq.gz	singleron/heads/SRR38275575_R2.fq.gz	Singleron GEXSCOPE, one run per version not used in designing the layouts (heads of public runs).
+Multiome GEX (human_brain_3k)	10x Multiome GEX  (confidence HIGH)	vendor_gold/heads/human_brain_3k_R1.fq.gz	vendor_gold/heads/human_brain_3k_R2.fq.gz	10x Multiome GEX: a held-out run from 10x (not the design run).
+Parse WT classic (SRR28407635)	Parse Evercode WT  (confidence HIGH)	parse_heldout/heads/SRR28407635_R1.fq.gz	parse_heldout/heads/SRR28407635_R2.fq.gz	Parse Evercode WT: design runs (never the held-out set), one per layout.
+Parse WT v3 (SRR34855738)	Parse Evercode WT v3  (confidence HIGH)	parse_heldout/heads/SRR34855738_R1.fq.gz	parse_heldout/heads/SRR34855738_R2.fq.gz	Parse Evercode WT: design runs (never the held-out set), one per layout.
+MGI C4 (SRR25532325)	MGI DNBelab C4 / C-series HT  (confidence HIGH)	mgi_heldout/heads/SRR25532325_R1.fq.gz	mgi_heldout/heads/SRR25532325_R2.fq.gz	MGI DNBelab C-series: a design run (never the held-out set).
+PIPseq v4 (SRR25991440)	Illumina Single Cell 3' / PIPseq v3-v4  (confidence HIGH)	pipseq_heldout/heads/SRR25991440_R1.fq.gz	pipseq_heldout/heads/SRR25991440_R2.fq.gz	PIPseq: design runs (never the held-out set); v3's barcode read is its second file.
+PIPseq v3 (ERR12826674)	Illumina Single Cell 3' / PIPseq v3-v4  (confidence HIGH)	pipseq_heldout/heads/ERR12826674_R1.fq.gz	pipseq_heldout/heads/ERR12826674_R2.fq.gz	PIPseq: design runs (never the held-out set); v3's barcode read is its second file.
+BD WTA Next (BD demo 3070)	BD Rhapsody (Enhanced V2/V3 beads)  (confidence HIGH)	vendor_gold/heads/BD_WTANext_3070_R1.fq.gz	vendor_gold/heads/BD_WTANext_3070_R2.fq.gz	BD Enhanced V2/V3 beads: BD's own WTA Next demo (design data).
+QuantumScale (ScaleBio 202506 test)	ScaleBio QuantumScale RNA  (confidence HIGH)	vendor_gold/heads/ScaleBio_test_202506_quantumV1_R1.fq.gz	vendor_gold/heads/ScaleBio_test_202506_quantumV1_R2.fq.gz	ScaleBio QuantumScale: ScaleBio's own test set (design data), R2 alone.
+Flex v1 (Human_Kidney_4k_GEM-X_Flex)	10x Flex v1  (confidence HIGH)	vendor_gold/heads/Human_Kidney_4k_GEM-X_Flex_Multiplex_R1.fq.gz	vendor_gold/heads/Human_Kidney_4k_GEM-X_Flex_Multiplex_R2.fq.gz	10x Flex v1: a held-out vendor run (its list comes from a Cell Ranger install).
+SeekGene DD 3' (SRR27533148)	SeekGene SeekOne DD 3'  (confidence HIGH)	seekgene_design/SRR27533148_R1.fq.gz	seekgene_design/SRR27533148_R2.fq.gz	SeekGene SeekOne DD 3': its design run (bench/seekgene/RESEARCH.md).
+SeekGene DD 5' (SRR23931570)	SeekGene SeekOne DD 5'  (confidence HIGH)	seekgene_design/SRR23931570_R1.fq.gz	seekgene_design/SRR23931570_R2.fq.gz	SeekGene SeekOne DD 5': its design run (bench/seekgene/RESEARCH.md).
+PIPseq V (SRR33161101)	Illumina Single Cell 3' RNA Prep / PIPseq V  (confidence HIGH)	pipseq_heldout/heads/SRR33161101_R1.fq.gz	pipseq_heldout/heads/SRR33161101_R2.fq.gz	PIPseq V: its design run (bench/pipseq, split design).

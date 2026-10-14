@@ -1,0 +1,68 @@
+srx	srr	tech_10x	arc_whitelist	condition	n_files	file_lens	pair_used	verdict	confidence	swapped	polyA	polyT	our_whitelist	our_end	arc_end	wl_agree	end_agree
+SRX28889265	SRR33662591	3_prime_gex	3M-february-2018	single read file	1	90	SRR33662591.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+SRX15541977	SRR19489247	3_prime_gex	3M-february-2018	ok	2	30,98	SRR19489247_1.fastq.gz,SRR19489247_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX15466334	SRR19411795	3_prime_gex	3M-february-2018	ok	2	30,98	SRR19411795_1.fastq.gz,SRR19411795_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX24836524	SRR29319718	3_prime_gex	3M-february-2018	ok	2	101,101	SRR29319718_1.fastq.gz,SRR29319718_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX23769605	SRR28124868	3_prime_gex	3M-february-2018	ok	2	150,150	SRR28124868_1.fastq.gz,SRR28124868_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX12799031	SRR16597749	3_prime_gex	3M-february-2018	ok	2	28,77	SRR16597749_1.fastq.gz,SRR16597749_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX27081840	SRR31719265	3_prime_gex	3M-february-2018	single read file	1	90	SRR31719265.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+ERX13775557		3_prime_gex	3M-february-2018	no ENA fastq													
+SRX15542309	SRR19489405	3_prime_gex	3M-february-2018	ok	2	30,98	SRR19489405_1.fastq.gz,SRR19489405_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX29051034	SRR33830083	3_prime_gex	3M-february-2018	single read file	1	90	SRR33830083.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+SRX24274855	SRR28707459	3_prime_gex	3M-february-2018	single read file	1	98	SRR28707459.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+SRX24258718	SRR28690555	3_prime_gex	3M-february-2018	single read file	1	98	SRR28690555.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+SRX10657829	SRR14300113	3_prime_gex	3M-february-2018	ok	2	150,150	SRR14300113_1.fastq.gz,SRR14300113_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX14977817	SRR18899459	3_prime_gex	3M-february-2018	single read file	1	91	SRR18899459.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+ERX11876767		3_prime_gex	3M-february-2018	no ENA fastq													
+SRX19730921	SRR23919647	3_prime_gex	3M-february-2018	ok	2	28,90	SRR23919647_1.fastq.gz,SRR23919647_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX17504612	SRR21502008	3_prime_gex	3M-february-2018	single read file	1	55	SRR21502008.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+SRX15466852	SRR19412257	3_prime_gex	3M-february-2018	ok	2	30,98	SRR19412257_1.fastq.gz,SRR19412257_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX19976808	SRR24179022	3_prime_gex	3M-february-2018	ok	2	28,44	SRR24179022_1.fastq.gz,SRR24179022_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+ERX9138876		3_prime_gex	3M-february-2018	no ENA fastq													
+SRX22429687	SRR26730865	3_prime_gex	737K-august-2016	single read file	1	90	SRR26730865.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+SRX15444258	SRR19389448	3_prime_gex	737K-august-2016	ok	2	26,91	SRR19389448_1.fastq.gz,SRR19389448_2.fastq.gz	10x 3' v2	HIGH	False			737K-august-2016	3'	3'	True	True
+SRX21311399	SRR25582856	3_prime_gex	737K-august-2016	single read file	1	98	SRR25582856.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+SRX22523180	SRR26826549	3_prime_gex	737K-august-2016	single read file	1	98	SRR26826549.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+SRX14335947	SRR18189078	3_prime_gex	737K-august-2016	single read file	1	55	SRR18189078.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+SRX9770748	SRR13344585	3_prime_gex	737K-august-2016	single read file	1	90	SRR13344585.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+SRX15444275	SRR19389411	3_prime_gex	737K-august-2016	ok	2	26,91	SRR19389411_1.fastq.gz,SRR19389411_2.fastq.gz	10x 3' v2	HIGH	False			737K-august-2016	3'	3'	True	True
+SRX19210663	SRR23266473	3_prime_gex	737K-august-2016	single read file	1	98	SRR23266473.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+SRX9988817	SRR13594300	3_prime_gex	737K-august-2016	ok	2	26,91	SRR13594300_1.fastq.gz,SRR13594300_2.fastq.gz	10x 5' v1/v2	HIGH	False			737K-august-2016	5'	3'	True	False
+SRX9665027	SRR13232952	3_prime_gex	737K-august-2016	ok	2	28,91	SRR13232952_1.fastq.gz,SRR13232952_2.fastq.gz	10x 3' v2	HIGH	False			737K-august-2016	3'	3'	True	True
+SRX9352577	SRR12887309	3_prime_gex	737K-august-2016	ok	2	26,101	SRR12887309_1.fastq.gz,SRR12887309_2.fastq.gz	10x 3' v2	HIGH	False			737K-august-2016	3'	3'	True	True
+SRX14417498	SRR18279653	3_prime_gex	737K-august-2016	ok	2	26,98	SRR18279653_1.fastq.gz,SRR18279653_2.fastq.gz	10x 3' v2	HIGH	False			737K-august-2016	3'	3'	True	True
+SRX13731512	SRR17562225	3_prime_gex	737K-august-2016	single read file	1	91	SRR17562225.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+SRX19985703	SRR24188276	3_prime_gex	737K-august-2016	single read file	1	91	SRR24188276.fastq.gz	no known layout (best support under 30%)		False					3'	False	False
+SRX8722931	SRR12212227	3_prime_gex	737K-august-2016	ok	2	26,98	SRR12212227_1.fastq.gz,SRR12212227_2.fastq.gz	10x 3' v2	HIGH	False			737K-august-2016	3'	3'	True	True
+SRX16731561	SRR20710649	5_prime_gex	737K-august-2016	ok	2	150,150	SRR20710649_1.fastq.gz,SRR20710649_2.fastq.gz	10x 5' v1/v2	HIGH	False			737K-august-2016	5'	5'	True	True
+SRX26490932	SRR31108043	5_prime_gex	737K-august-2016	ok	2	159,159	SRR31108043_1.fastq.gz,SRR31108043_2.fastq.gz	10x 5' v1/v2	HIGH	False			737K-august-2016	5'	5'	True	True
+SRX24811431	SRR29294192	5_prime_gex	737K-august-2016	single read file	1	90	SRR29294192.fastq.gz	no known layout (best support under 30%)		False					5'	False	False
+ERX8792021	ERR9249423	5_prime_gex	737K-august-2016	ok	2	150,150	ERR9249423_1.fastq.gz,ERR9249423_2.fastq.gz	10x 5' v1/v2	HIGH	False			737K-august-2016	5'	5'	True	True
+SRX25261724	SRR29761077	5_prime_gex	737K-august-2016	single read file	1	90	SRR29761077.fastq.gz	no known layout (best support under 30%)		False					5'	False	False
+SRX5914368	SRR9141217	5_prime_gex	737K-august-2016	ok	2	26,91	SRR9141217_1.fastq.gz,SRR9141217_2.fastq.gz	10x 5' v1/v2	HIGH	False			737K-august-2016	5'	5'	True	True
+SRX24475794	SRR28919580	5_prime_gex	737K-august-2016	ok	2	101,101	SRR28919580_1.fastq.gz,SRR28919580_2.fastq.gz	10x 5' v1/v2	HIGH	False			737K-august-2016	5'	5'	True	True
+SRX24404412	SRR28842658	5_prime_gex	737K-august-2016	ok	2	150,150	SRR28842658_1.fastq.gz,SRR28842658_2.fastq.gz	10x 5' v1/v2	MEDIUM	False			737K-august-2016	5'	5'	True	True
+NRX0000030		5_prime_gex	737K-august-2016	error: <HTTPError 400: ''>													
+SRX13940547	SRR17778124	5_prime_gex	737K-august-2016	ok	2	151,151	SRR17778124_1.fastq.gz,SRR17778124_2.fastq.gz	10x 5' v1/v2	HIGH	False			737K-august-2016	5'	5'	True	True
+SRX26487561	SRR31104652	5_prime_gex	737K-august-2016	single read file	1	91	SRR31104652.fastq.gz	no known layout (best support under 30%)		False					5'	False	False
+SRX21924220	SRR26213750	5_prime_gex	737K-august-2016	ok	2	151,151	SRR26213750_1.fastq.gz,SRR26213750_2.fastq.gz	10x 5' v1/v2	HIGH	False			737K-august-2016	5'	5'	True	True
+SRX24404391	SRR28842675	5_prime_gex	737K-august-2016	ok	2	150,150	SRR28842675_1.fastq.gz,SRR28842675_2.fastq.gz	10x 5' v1/v2	HIGH	False			737K-august-2016	5'	5'	True	True
+SRX9756216	SRR13329146	5_prime_gex	737K-august-2016	ok	2	28,91	SRR13329146_1.fastq.gz,SRR13329146_2.fastq.gz	10x 5' v1/v2	MEDIUM	False			737K-august-2016	5'	5'	True	True
+SRX22740639	SRR27051098	5_prime_gex	737K-august-2016	single read file	1	90	SRR27051098.fastq.gz	no known layout (best support under 30%)		False					5'	False	False
+SRX27087130	SRR31724777	5_prime_gex	3M-5pgex-jan-2023	single read file	1	90	SRR31724777.fastq.gz	no known layout (best support under 30%)		False					5'	False	False
+SRX25506647	SRR30027685	5_prime_gex	3M-5pgex-jan-2023	ok	2	28,90	SRR30027685_1.fastq.gz,SRR30027685_2.fastq.gz	10x 5' v3 (GEM-X)	HIGH	False			3M-5pgex-jan-2023	5'	5'	True	True
+SRX28550142	SRR34078838	5_prime_gex	3M-5pgex-jan-2023	single read file	1	90	SRR34078838.fastq.gz	no known layout (best support under 30%)		False					5'	False	False
+SRX28743119	SRR33508243	3_prime_gex	3M-3pgex-may-2023	ok	2	28,151	SRR33508243_1.fastq.gz,SRR33508243_2.fastq.gz	10x 3' v4 (GEM-X)	HIGH	False			3M-3pgex-may-2023	3'	3'	True	True
+SRX27291582	SRR31934508	multiome	unassigned	single read file	1	90	SRR31934508.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+SRX18306640	SRR22333821	multiome	unassigned	ok	2	28,90	SRR22333821_1.fastq.gz,SRR22333821_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+SRX22021743	SRR26313439	multiome	unassigned	ok	2	28,90	SRR26313439_1.fastq.gz,SRR26313439_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+SRX15432977	SRR19374511	multiome	unassigned	ok	2	28,90	SRR19374511_1.fastq.gz,SRR19374511_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+SRX27325568	SRR31970277	multiome	unassigned	single read file	1	90	SRR31970277.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERX11399399	ERR12015103	vdj	737K-august-2016	ok	2	91,26	ERR12015103_1.fastq.gz,ERR12015103_2.fastq.gz	AMBIGUOUS between 10x 3' v2 and 10x 5' v1/v2		True			737K-august-2016	ambiguous	out of scope	True	False
+SRX9568862	SRR13126914	vdj	737K-august-2016	ok	2	26,91	SRR13126914_1.fastq.gz,SRR13126914_2.fastq.gz	10x 5' v1/v2	MEDIUM	False			737K-august-2016	5'	out of scope	True	False
+SRX21101388	SRR25362037	vdj	737K-august-2016	single read file	1	91	SRR25362037.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+SRX12173113	SRR15882155	vdj	737K-august-2016	ok	2	151,151	SRR15882155_1.fastq.gz,SRR15882155_2.fastq.gz	AMBIGUOUS between 10x 5' v1/v2 and 10x 3' v2		False					out of scope	False	False
+SRX15465564	SRR19410898	feature_barcoding	3M-february-2018	ok	2	30,98	SRR19410898_1.fastq.gz,SRR19410898_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	out of scope	True	False
+SRX15540899	SRR19488281	feature_barcoding	3M-february-2018	ok	2	30,98	SRR19488281_1.fastq.gz,SRR19488281_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	out of scope	True	False
+SRX24301936	SRR28735808	feature_barcoding	3M-february-2018	ok	2	28,194	SRR28735808_1.fastq.gz,SRR28735808_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	out of scope	True	False
+SRX25746504	SRR30285848	feature_barcoding	3M-february-2018	single read file	1	89	SRR30285848.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False

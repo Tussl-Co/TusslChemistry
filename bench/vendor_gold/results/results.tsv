@@ -1,0 +1,165 @@
+dataset	vendor	chemistry	species	sample_type	status	verdict	confidence	layout	candidates	swapped	cdna_strand	library	notes	hint
+20k_hgmm_3p_HT_nextgem_Chromium_X	10x Genomics	Chromium Next GEM Single Cell 3' HT Reagent Kits v3.1 User Guide (CG000416 Rev A)	Human+Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+20k_PBMC_3p_HT_nextgem_Chromium_X	10x Genomics	Chromium Next GEM Single Cell 3' HT Reagent Kits v3.1 User Guide (CG000416 Rev A)	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+40k_NSCLC_DTC_3p_HT_nextgem_Multiplex	10x Genomics	Chromium Next GEM Single Cell 3' HT Reagent Kits v3.1 User Guide	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+1k_hgmm_3p_LT	10x Genomics	Chromium Next GEM Single Cell 3' LT Reagent Kits v3.1 (Dual Index) User Guide (CG000399)	Human+Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+1k_PBMCs_TotalSeq_B_3p_LT	10x Genomics	1k Human PBMCs with TotalSeq™-B Human TBNK Antibody Cocktail, 3’ LT v3.1	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+500_hgmm_3p_LT_Chromium_Controller	10x Genomics	Chromium Next GEM Single Cell 3' LT Reagent Kits (v3.1 Dual Index) User Guide (CG000399 RevB)	Human+Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+500_hgmm_3p_LT_Chromium_X	10x Genomics	Chromium Next GEM Single Cell 3' LT Reagent Kits (v3.1 Dual Index) User Guide (CG000399 RevB)	Human+Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+500_PBMC_3p_LT_Chromium_Controller	10x Genomics	Chromium Next GEM Single Cell 3' LT Reagent Kits (v3.1 Dual Index) User Guide (CG000399 RevB)	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+500_PBMC_3p_LT_Chromium_X	10x Genomics	Chromium Next GEM Single Cell 3' LT Reagent Kits (v3.1 Dual Index) User Guide (CG000399 RevB)	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+Brain_Tumor_3p_LT	10x Genomics	Chromium Next GEM Single Cell 3' LT Reagent Kits v3.1 (Dual Index) User Guide (CG000399)	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+Breast_Cancer_3p_LT	10x Genomics	Chromium Next GEM Single Cell 3' LT Reagent Kits v3.1 (Dual Index) User Guide (CG000399)	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+b_cells	10x Genomics	98bp read1 (transcript), 8bp I5 sample barcode, 14bp I7 GemCode barcode and 5bp read2 (UMI)	Human	cells	no head									
+cd14_monocytes	10x Genomics	98bp read1 (transcript), 8bp I5 sample barcode, 14bp I7 GemCode barcode and 5bp read2 (UMI)	Human	cells	no head									
+fresh_68k_pbmc_donor_a	10x Genomics	98bp read1 (transcript), 8bp I5 sample barcode, 14bp I7 GemCode barcode and 5bp read2 (UMI)	Human	cells	no head									
+frozen_pbmc_donor_a	10x Genomics	98bp read1 (transcript), 8bp I5 sample barcode, 14bp I7 GemCode barcode and 5bp read2 (UMI)	Human	cells	no head									
+hgmm	10x Genomics	98bp read1 (transcript), 8bp I5 sample barcode, 14bp I7 GemCode barcode and 10bp read2 (UMI)	Human+Mouse	cells	no head									
+jurkat	10x Genomics	98bp read1 (transcript), 8bp I5 sample barcode, 14bp I7 GemCode barcode and 10bp read2 (UMI)	Human	cells	no head									
+pbmc3k	10x Genomics	98bp read1 (transcript), 8bp I5 sample barcode, 14bp I7 GemCode barcode and 10bp read2 (UMI)	Human	cells	no head									
+heart_1k_v2	10x Genomics	1k Heart Cells from an E18 mouse (v2 chemistry)	Mouse	cells	ok	match	high	10x 3' v2		False	forward	gene expression		
+hgmm_1k	10x Genomics	Single Cell 3' v2	Human+Mouse	cells	ok	match	high	10x 3' v2		False	forward	gene expression		
+hgmm_1k_v2	10x Genomics	Single Cell 3' v2	Human+Mouse	cells	ok	match	high	10x 3' v2		False	forward	gene expression		
+neuron_1k_v2	10x Genomics	1k Brain Cells from an E18 Mouse (v2 chemistry)	Mouse	cells	ok	match	high	10x 3' v2		False	forward	gene expression		
+neuron_9k	10x Genomics	Single Cell 3' v2	Mouse	cells	ok	match	high	10x 3' v2		False	forward	gene expression		
+nuclei_2k	10x Genomics	Single Cell 3' v2	Mouse	nuclei	ok	match	high	10x 3' v2		False	forward	gene expression		
+nuclei_900	10x Genomics	Single Cell 3' v2	Mouse	nuclei	ok	match	high	10x 3' v2		False	forward	gene expression		
+pbmc4k	10x Genomics	Single Cell 3' v2	Human	cells	ok	match	high	10x 3' v2		False	forward	gene expression		
+pbmc8k	10x Genomics	Single Cell 3' v2	Human	cells	ok	match	high	10x 3' v2		False	forward	gene expression		
+t_3k	10x Genomics	Single Cell 3' v2	Human	cells	ok	match	high	10x 3' v2		False	forward	gene expression		
+10k_hgmm_3p_nextgem_Chromium_X	10x Genomics	Chromium Single Cell 3' Reagent Kits User Guide (v3.1 Chemistry Dual Index)	Human+Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+10k_hgmm_v3_nextgem	10x Genomics	Chromium Next GEM Single Cell 3ʹ Reagent Kits v3.1 User Guide (CG000204 RevA)	Human+Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+10k_Mouse_Brain_CNIK_3p_nextgem_Multiplex	10x Genomics	Single Cell 3' v3	Mouse	nuclei	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+10k_PBMC_3p_nextgem_Chromium_X	10x Genomics	Single Cell 3' v3	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+5k_pbmc_v3_nextgem	10x Genomics	Chromium Next GEM Single Cell 3ʹ Reagent Kits v3.1 User Guide (CG000204 RevA)	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+Brain_Tumor_3p	10x Genomics	Chromium Next GEM Single Cell 3ʹ Reagent Kits v3.1 (Dual Index) User Guide (CG000315)	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+1k_mouse_kidney_CNIK_3pv3	10x Genomics	Chromium Single Cell 3' Reagent Kits User Guide (v3.1 Chemistry Dual Index, CG000315)	Mouse	nuclei	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+SC3_v3_NextGem_DI_Nuclei_5K_Multiplex	10x Genomics	Chromium Next GEM Single Cell 3ʹ Reagent Kits v3.1 (Dual Index) User Guide (CG000315)	Human	nuclei	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+SC3_v3_NextGem_DI_PBMC_10K	10x Genomics	Chromium Next GEM Single Cell 3ʹ Reagent Kits v3.1 (Dual Index) User Guide (CG000315)	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+SC3_v3_NextGem_SI_Neuron_10K	10x Genomics	Chromium Next GEM Single Cell 3ʹ Reagent Kits v3.1 User Guide (CG000204)	Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+5k_pbmc_protein_v3	10x Genomics	Chromium Single Cell 3ʹ Reagent Kits v3 with Feature Barcoding technology for Cell Surface Protein User Guide (CG000185 RevB)	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+heart_10k_v3	10x Genomics	10k Heart Cells from an E18 mouse (v3 chemistry)	Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+heart_1k_v3	10x Genomics	1k Heart Cells from an E18 mouse (v3 chemistry)	Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+hgmm_10k_v3	10x Genomics	10k 1:1 Mixture of Fresh Frozen Human (HEK293T) and Mouse (NIH3T3) Cells (v3 chemistry)	Human+Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+hgmm_5k_v3	10x Genomics	5k 1:1 Mixture of Fresh Frozen Human (HEK293T) and Mouse (NIH3T3) Cells (v3 chemistry)	Human+Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+neuron_10k_v3	10x Genomics	10k Brain Cells from an E18 Mouse (v3 chemistry)	Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+neuron_1k_v3	10x Genomics	1k Brain Cells from an E18 Mouse (v3 chemistry)	Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+Parent_SC3v3_Human_Glioblastoma	10x Genomics	Chromium Single Cell 3' Reagent Kits v3 User Guide (CG000183)	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+10k_hgmm_3p_gemx_Multiplex	10x Genomics	Chromium GEM-X Single Cell 3' Reagent Kits v4 User Guide (CG000731)	Human+Mouse	cells	ok	match	high	10x 3' v4 (GEM-X)		False	forward	gene expression		
+10k_Human_PBMC_TotalSeqB_3p_gemx_Multiplex	10x Genomics	Single Cell 3' v4	Human	cells	ok	match	high	10x 3' v4 (GEM-X)		False	forward	gene expression		
+10k_Mouse_Neurons_3p_gemx_Multiplex	10x Genomics	Single Cell 3' v4	Mouse	cells	ok	match	high	10x 3' v4 (GEM-X)		False	forward	gene expression		
+2500_Rhesus_Monkey_PBMCs_Singleplex_3p_gem-x_Universal_Multiplex	10x Genomics	Single Cell 3' v4 (polyA)	Rhesus macaque	cells	ok	match	high	10x 3' v4 (GEM-X)		False	forward	gene expression		
+2500_Wistar_Rat_PBMCs_Singleplex_3p_gem-x_Universal_Multiplex	10x Genomics	Single Cell 3' v4 (polyA)	Rat	cells	ok	match	high	10x 3' v4 (GEM-X)		False	forward	gene expression		
+5k_Human_Donor1_PBMC_3p_gem-x_Multiplex	10x Genomics	Single Cell 3' v4 (polyA)	Human	cells	ok	match	high	10x 3' v4 (GEM-X)		False	forward	gene expression		
+5k_Human_Donor2_PBMC_3p_gem-x_Multiplex	10x Genomics	Single Cell 3' v4 (polyA)	Human	cells	ok	match	high	10x 3' v4 (GEM-X)		False	forward	gene expression		
+5k_Human_Donor3_PBMC_3p_gem-x_Multiplex	10x Genomics	Single Cell 3' v4 (polyA)	Human	cells	no head									
+5k_Human_Donor4_PBMC_3p_gem-x_Multiplex	10x Genomics	Single Cell 3' v4 (polyA)	Human	cells	ok	match	high	10x 3' v4 (GEM-X)		False	forward	gene expression		
+10k_K562sl_5pv2_nextgem_CRISPR_Chromium_X_Multiplex	10x Genomics	Chromium Single Cell 5' Reagent Kits User Guide (v2 Chemistry Dual Index)	Human	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+20k_BMMNC_5pv2_HT_nextgem_Multiplex	10x Genomics	Chromium Next GEM Single Cell 5' HT Reagent Kits v2 User Guide	Human	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+20k_hgmm_5pv2_HT_nextgem_Chromium_X	10x Genomics	Chromium Next GEM Single Cell 5' HT Reagent Kits v2 User Guide (CG000421)	Human+Mouse	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+20k_PBMC_5pv2_HT_nextgem_Chromium_X_Multiplex	10x Genomics	Chromium Next GEM Single Cell 5' HT Reagent Kits v2 User Guide (CG000421)	Human	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+Parent_SC5v1_Human_Glioblastoma	10x Genomics	Chromium Single Cell 5' Reagent Kits v1 User Guide (CG000086)	Human	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+vdj_v1_hs_pbmc2_5gex_protein	10x Genomics	Single Cell V(D)J Reagent Kits User Guide (CG000186 RevA)	Human	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+10k_BMMNC_5pv2_nextgem_Multiplex	10x Genomics	Chromium Single Cell 5' Reagent Kits User Guide (v2 Chemistry Dual Index)	Human	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+10k_hgmm_5pv2_nextgem_Chromium_X	10x Genomics	Chromium Single Cell 5' Reagent Kits User Guide (v2 Chemistry Dual Index)	Human+Mouse	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+10k_Human_DTC_Melanoma_5p_nextgem_Multiplex	10x Genomics	Single Cell 5' R2-only	Human	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+10k_PBMC_5pv2_nextgem_Chromium_Controller_Multiplex	10x Genomics	Chromium Single Cell 5' Reagent Kits User Guide (v2 Chemistry Dual Index)	Human	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+5k_human_kidney_tumor_CNIK_5pv2	10x Genomics	Chromium Single Cell 5'v2 Reagent Kits User Guide (CG000331)	Human	nuclei	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+5k_Mouse_Splenocytes_5p_nextgem_Multiplex	10x Genomics	Single Cell 5' R2-only	Mouse	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+sc5p_v2_mm_balbc_B_1k_multi_5gex_b	10x Genomics	Chromium Next GEM Single Cell 5' Reagent Kits v2 (Dual Index) User Guide (CG000331 Rev A)	Mouse	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+10k_hgmm_5p_gemx_Multiplex	10x Genomics	Chromium GEM-X Single Cell 5' Reagent Kits v3 User Guide (CG000733)	Human+Mouse	cells	ok	match	high	10x 5' v3 (GEM-X)		False	reverse	gene expression		
+10k_Human_DTC_Melanoma_5p_gemx_Multiplex	10x Genomics	Single Cell 5' R2-only v3	Human	cells	ok	match	high	10x 5' v3 (GEM-X)		False	reverse	gene expression		
+20k_Mouse_PBMC_Splenocyte_5p_gem-x_multiplex_Multiplex	10x Genomics	Single Cell 5' R2-only OCM v3	Mouse	cells	ok	match	high	10x 5' v3 (GEM-X)		False	reverse	gene expression		
+5k_Mouse_PBMCs_5p_gem-x_Multiplex	10x Genomics	Single Cell 5' R2-only v3	Mouse	cells	ok	match	high	10x 5' v3 (GEM-X)		False	reverse	gene expression		
+10k_K562_singleplex_Multiplex	10x Genomics	Chromium Fixed RNA Profiling for Singleplexed Samples with Feature Barcode technology for Cell Surface Protein User Guide (CG000477)	Human	cells	ok	no_match				False				
+10k_mouse_kidney_scFFPE_singleplex_Multiplex	10x Genomics	Chromium Fixed RNA Profiling for Singleplexed Samples with Feature Barcode technology for Cell Surface Protein User Guide (CG000477)	Mouse	other	ok	no_match				False				R2 has fixed-position structure (28 fixed columns, CGGTCCTAGCAA in 96% of reads), as a barcode read does, but matches no known layout: probably a single-cell kit not yet supported (or a non-single-cell library such as amplicons). scripts/discover.py can describe it.
+16plex_128k_jurkat_multiplex_Multiplex	10x Genomics	Fixed RNA Profiling	Human	cells	no head									
+4plex_human_lungcancer_glioblastoma_scFFPE_multiplex_Multiplex	10x Genomics	Chromium Fixed RNA Profiling for Multiplexed Samples User Guide (CG000527, Rev C)	Human	other	no head									
+Human_Kidney_4k_GEM-X_Flex_Multiplex	10x Genomics	Flex Gene Expression	Human	cells	ok	no_match				False				R2 has fixed-position structure (28 fixed columns, GCGGTTAGCACG in 94% of reads), as a barcode read does, but matches no known layout: probably a single-cell kit not yet supported (or a non-single-cell library such as amplicons). scripts/discover.py can describe it.
+10k_PBMC_Multiome_nextgem_Chromium_X	10x Genomics	Chromium Next GEM Single Cell Multiome ATAC + Gene Expression Reagent Kits User Guide (CG000338 Rev E) | 10k Human PBMCs, Multiome v1.0, Chromium X	Human	nuclei	ok	no_match				False				
+e18_mouse_brain_fresh_5k	10x Genomics	Chromium Next GEM Single Cell Multiome ATAC + Gene Expression User Guide (CG000338 Rev A)	Mouse	nuclei	ok	no_match				False				
+human_brain_3k	10x Genomics	Chromium Next GEM Single Cell Multiome ATAC + Gene Expression User Guide (CG000338 Rev A)	Human	nuclei	ok	no_match				False				
+lymph_node_lymphoma_14k	10x Genomics	Chromium Next GEM Single Cell Multiome ATAC + Gene Expression User Guide (CG000338 Rev A)	Human	nuclei	ok	no_match				False				
+pbmc_granulocyte_sorted_10k	10x Genomics	Single Cell Multiome ATAC + Gene Expression v1	Human	nuclei	ok	no_match				False				
+pbmc_unsorted_3k	10x Genomics	Chromium Next GEM Single Cell Multiome ATAC + Gene Expression User Guide (CG000338 Rev A)	Human	nuclei	ok	no_match				False				
+vdj_v1_mm_pbmc4	10x Genomics	Chromium Single Cell V(D)J Reagent Kits User Guide | PBMCs from C57BL/6 mice  (v1)	Mouse	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+vdj_nextgem_mm_pbmc4	10x Genomics	Chromium Next GEM Single Cell V(D)J Reagent Kits v1.1 User Guide	Mouse	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+vdj_nextgem_hs_pbmc3	10x Genomics	Chromium Next GEM Single Cell V(D)J Reagent Kits v1.1 User Guide	Human	cells	ok	ambiguous			10x 3' v2;10x 5' v1/v2	False		gene expression		
+vdj_v1_hs_pbmc3	10x Genomics	Chromium Single Cell V(D)J Reagent Kits User Guide | PBMCs of a Healthy Donor (v1)	Human	cells	ok	ambiguous			10x 3' v2;10x 5' v1/v2	False		gene expression		
+5k_neuron_v3_nextgem	10x Genomics	Chromium Next GEM Single Cell 3ʹ Reagent Kits v3.1 User Guide (CG000204 RevA)	Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+20k_NSCLC_DTC_3p_nextgem_Multiplex	10x Genomics	Chromium Single Cell 3' Reagent Kits User Guide (v3.1 Chemistry Dual Index)	Human	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+20k_JurkatMM1S_5pv2_HT_nextgem_Chromium_X_Multiplex	10x Genomics	Chromium Next GEM Single Cell 5' HT Reagent Kits v2 User Guide	Human	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+5k_human_melanoma_tumor_CNIK_5pv2	10x Genomics	Chromium Single Cell 5'v2 Reagent Kits User Guide (CG000331)	Human	nuclei	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+5k_adult_mouse_brain_CNIK	10x Genomics	Chromium Single Cell 3'v3.1 Reagent Kits User Guide (v3.1 Chemistry Dual Index, CG000315)	Mouse	nuclei	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+SC3_v3_NextGem_DI_Neuron_10K	10x Genomics	Chromium Next GEM Single Cell 3ʹ Reagent Kits v3.1 (Dual Index) User Guide (CG000315)	Mouse	cells	ok	match	high	10x 3' v3/v3.1		False	forward	gene expression		
+10k_mouse_spleen_scFFPE_singleplex	10x Genomics	Chromium Fixed RNA Profiling for Singleplexed Samples with Feature Barcode technology for Cell Surface Protein User Guide (CG000477)	Mouse	other	ok	no_match				False				R2 has fixed-position structure (28 fixed columns, CGGTTAGCACGT in 98% of reads), as a barcode read does, but matches no known layout: probably a single-cell kit not yet supported (or a non-single-cell library such as amplicons). scripts/discover.py can describe it.
+5k_hgmm_5p_nextgem_Multiplex	10x Genomics	Chromium Single Cell 5' Reagent Kits User Guide (v2 - Dual Index)	Human+Mouse	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+sc5p_v1p1_hs_PBMC_1k	10x Genomics	Chromium Single Cell V(D)J Reagent Kits v1.1 User Guide	Human	cells	ok	ambiguous			10x 3' v2;10x 5' v1/v2	False		gene expression		
+sc5p_v1p1_hs_melanoma_10k	10x Genomics	Chromium Next GEM Single Cell V(D)J Reagent Kits v1.1 User Guide (CG000207 Rev E)	Human	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+sc5p_v1p1_mm_c57bl6_splenocyte_1k	10x Genomics	Splenocytes from C57BL/6 mice, 1k cells (v1.1)	Mouse	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+vdj_v1_hs_nsclc_5gex	10x Genomics	Single Cell V(D)J Reagent Kits User Guide (CG000086 Rev C)	Human	cells	ok	match	high	10x 5' v1/v2		False	reverse	gene expression		
+BD_04WTA-EB-20kPBMCs	BD Rhapsody	Rhapsody WTA Demo Datasets(Enhanced Beads); BD Rhapsody™ Whole Transcriptome Analysis (WTA) Amplification Kit	human	cells	ok	match	high	BD Rhapsody (Enhanced Beads)		False	forward	gene expression	expected polyT after the UMI, seen in 8% of reads	
+BD_09WTA-ABC-EB-10kPBMC	BD Rhapsody	Rhapsody WTA Demo Datasets(Enhanced Beads); WTA + AbSeq; BD Rhapsody™ Whole Transcriptome Analysis (WTA) Amplification Kit; BD® AbSeq Immune Discovery Panel	human	cells	ok	match	high	BD Rhapsody (Enhanced Beads)		False	forward	gene expression	expected polyT after the UMI, seen in 10% of reads	
+BD_12WTA-ABC-SMK-EB-5kJRT	BD Rhapsody	Rhapsody WTA Demo Datasets(Enhanced Beads); WTA + AbSeq + SMK; BD Rhapsody™ Whole Transcriptome Analysis (WTA) Amplification Kit; BD™ Hu Single Cell Sample Multiplexing Kit	human	cells	ok	match	high	BD Rhapsody (Enhanced Beads)		False	forward	gene expression	expected polyT after the UMI, seen in 7% of reads	
+BD_16HIRP-targeted-EB-20kPBMC	BD Rhapsody	BD Rhapsody™ Targeted mRNA Assay Demo Datasets(Enhanced Beads); BD Rhapsody™ Immune Response Panel HS; BD Rhapsody™ Targeted mRNA and AbSeq Amplification Kit	human	cells	ok	match	high	BD Rhapsody (Enhanced Beads)		False	forward	gene expression	expected polyT after the UMI, seen in 5% of reads	
+BD_21HIRP-targeted-ABC-EB-10kPBMC	BD Rhapsody	BD Rhapsody™ Targeted mRNA Assay Demo Datasets(Enhanced Beads); Targeted mRNA + BD® AbSeq Assay; BD Rhapsody™ Immune Response Panel HS	human	cells	ok	match	high	BD Rhapsody (Enhanced Beads)		False	forward	gene expression	expected polyT after the UMI, seen in 12% of reads	
+BD_24HIRP-targeted-ABC-SMK-EB-5kJRT	BD Rhapsody	BD Rhapsody™ Targeted mRNA Assay Demo Datasets(Enhanced Beads); Targeted mRNA + BD® AbSeq Assay + BD® Single-Cell Multiplexing Kit	human	cells	ok	match	high	BD Rhapsody (Enhanced Beads)		False	forward	gene expression	expected polyT after the UMI, seen in 12% of reads	
+BD_HumanImmResDemo	BD Rhapsody	BD Rhapsody™ Targeted mRNA Assay Demo Datasets(v1 Bead); BD Rhapsody™ Immune Response Panel HS	human	cells	ok	match	high	BD Rhapsody (original V1 beads)		False	forward	gene expression		
+BD_AbSeqDemo	BD Rhapsody	BD Rhapsody™ Targeted mRNA Assay Demo Datasets(v1 Bead); Human Immune Response + AbSeq	human	cells	ok	match	high	BD Rhapsody (original V1 beads)		False	forward	gene expression		
+BD_SampleMultiplexDemo	BD Rhapsody	BD Rhapsody™ Targeted mRNA Assay Demo Datasets(v1 Bead); BD Rhapsody™ Immune Response Panel HS + BD® Single-Cell Multiplexing Kit	human	cells	ok	match	high	BD Rhapsody (original V1 beads)		False	forward	gene expression		
+BD_VDJDemo_CDR3	BD Rhapsody	Rhapsody VDJ CDR3 Assay Demo Dataset(v1 bead); VDJ CDR3 Library Preparation Protocol (Human); Targeted (Human Immune Response)	human	cells	ok	match	high	BD Rhapsody (original V1 beads)		False	forward	gene expression		
+BD_WTA-SMK-Demo	BD Rhapsody	Rhapsody WTA Demo Datasets(V1 Beads); WTA + Sample Multiplexing; BD Rhapsody WTA Amplification kit	human	cells	ok	match	high	BD Rhapsody (original V1 beads)		False	forward	gene expression		
+BD_WTA-AbSeq-SMK-Demo	BD Rhapsody	Rhapsody WTA Demo Datasets(V1 Beads); WTA + Sample Multiplexing + AbSeq; BD Rhapsody WTA Amplification kit	human	cells	ok	match	high	BD Rhapsody (original V1 beads)		False	forward	gene expression		
+BD_RhapTCRBCRdemo	BD Rhapsody	Rhapsody TCR/BCR Full Length Demo Dataset(Enhanced Beads); BD Rhapsody™ TCR/BCR Full Length, mRNA Whole Transcriptome Analysis (WTA), BD AbSeq, and Sample Tag Library Preparation protocol	human	cells	ok	match	high	BD Rhapsody (Enhanced Beads)		False	forward	gene expression		
+BD_MouseWTATCRBCR	BD Rhapsody	Rhapsody TCR/BCR Full Length Demo Dataset(Enhanced Beads); Mouse TCR/BCR Full Length Demo Data	mouse	cells	no head									
+BD_VDJNext-Demo2034	BD Rhapsody	BD Rhapsody™ TCR/BCR Next Full Length Demo Dataset(Enhanced Beads V3); BD Rhapsody™ System TCR/BCR Next and mRNA Whole Transcriptome Analysis (WTA) Library Preparation Protocol	human	cells	ok	match	high	BD Rhapsody (Enhanced Beads)		False	forward	gene expression		
+BD_VDJNext-Demo2041	BD Rhapsody	BD Rhapsody™ TCR/BCR Next Full Length Demo Dataset(Enhanced Beads V3); BD Rhapsody™ System Mouse TCR/BCR Next and mRNA Whole Transcriptome Analysis (WTA) Library Preparation Protocol	mouse	cells	no head									
+BD_WTANext_3070	BD Rhapsody	BD OMICS-One™ WTA Next demo data; WTA only; BD OMICS-One™ WTA Next Assay	human	cells	ok	no_match				False				every file looks like cDNA (no short barcode read). If this is single-cell data, the barcode read was probably dropped by the archive; ENA's two-file export often omits it. Fetch the SRA copy with technical reads (fasterq-dump --include-technical).
+BD_WTANext_AbSeq_3070	BD Rhapsody	BD OMICS-One™ WTA Next demo data; WTA + AbSeq; BD OMICS-One™ WTA Next + BD® AbSeq multiomic assay	human	cells	ok	no_match				False				R2 has fixed-position structure (26 fixed columns, CGTGGAAAAAAA in 33% of reads), as a barcode read does, but matches no known layout: probably a single-cell kit not yet supported (or a non-single-cell library such as amplicons). scripts/discover.py can describe it.
+BD_WTANext_TCRBCR_D40_3074	BD Rhapsody	BD OMICS-One™ WTA Next demo data; WTA + TCR/BCR; BD OMICS-One™ WTA Next + BD Rhapsody™ TCR/BCR Next multiomic assay	human	cells	ok	no_match				False				R1 has fixed-position structure (24 fixed columns, TTTTTTTAAAAA in 11% of reads), as a barcode read does, but matches no known layout: probably a single-cell kit not yet supported (or a non-single-cell library such as amplicons). scripts/discover.py can describe it.
+BD_PBMC_ATAC_WTA_joint	BD Rhapsody	ATAC-Seq Demo Data; Multiomic ATAC-Seq(with WTA); BD Rhapsody™ Single-Cell ATAC-Seq and mRNA Whole Transcriptome Analysis Library Preparation Protocol	human	nuclei	ok	no_match				False				every file looks like cDNA (no short barcode read). If this is single-cell data, the barcode read was probably dropped by the archive; ENA's two-file export often omits it. Fetch the SRA copy with technical reads (fasterq-dump --include-technical).
+BD_FlexSMK_AT	BD Rhapsody	Flex SMK Demo Dataset(Enhanced Beads); Flex SMK + Targeted mRNA Assay; BD Rhapsody™ Targeted mRNA and AbSeq Amplification Kit - 4 pack; BD Rhapsody™ Immune Response Panel HS	human	cells	ok	match	high	BD Rhapsody (Enhanced Beads)		False	forward	antibody/hashtag feature barcodes	expected polyT after the UMI, seen in 4% of reads	
+BD_FlexSMK_Test	BD Rhapsody	Flex SMK Demo Dataset(Enhanced Beads); Flex SMK + WTA + AbSeq; BD Rhapsody™ Whole Transcriptome Analysis (WTA) Amplification Kit – 4 pack	human	cells	ok	match	high	BD Rhapsody (Enhanced Beads)		False	forward	gene expression		
+BD_IC-Day1	BD Rhapsody	BD® AbSeq Ab-Oligo Demo Dataset(Enhanced Beads); BD Rhapsody™ System mRNA Whole Transcriptome Analysis (WTA), AbSeq, and Sample Tag Library Preparation Protocol	human	cells	ok	no_match				False				R2 has fixed-position structure (23 fixed columns, GTTGGTTATTCG in 17% of reads), as a barcode read does, but matches no known layout: probably a single-cell kit not yet supported (or a non-single-cell library such as amplicons). scripts/discover.py can describe it.
+Parse_WTv3_PBMC_4donor	Parse Biosciences	Evercode WT v3	human	cells	no head									
+Parse_WTv2_PBMC_4donor	Parse Biosciences	Evercode WT v2	human	cells	no head									
+Parse_WTv3_PBMC_100k	Parse Biosciences	Evercode WT v3	human	cells	no head									
+Parse_WTMiniv3_PBMC	Parse Biosciences	Evercode WT Mini v3	human	cells	no head									
+Parse_WTMegav3_PBMC	Parse Biosciences	Evercode WT Mega v3	human	cells	no head									
+Parse_WTMegav3_1M_PBMC	Parse Biosciences	Evercode WT Mega v3	human	cells	no head									
+Parse_WTMega_1M_2022	Parse Biosciences	Evercode Whole Transcriptome Mega kit	human	cells	no head									
+Parse_WTv1_E18_brain_nuclei	Parse Biosciences	Evercode WT v1	mouse	nuclei	no head									
+Parse_WTv2_E18_brain_nuclei	Parse Biosciences	Evercode WT v2	mouse	nuclei	no head									
+Parse_WTv1_liver_nuclei	Parse Biosciences	Evercode WT v1	mouse	nuclei	no head									
+Parse_WTv2_liver_nuclei	Parse Biosciences	Evercode WT v2	mouse	nuclei	no head									
+Parse_WTv1_species_mix	Parse Biosciences	Evercode WT v1	human+mouse	cells	no head									
+Parse_WTv2_species_mix	Parse Biosciences	Evercode WT v2	human+mouse	cells	no head									
+Parse_WTv2_adult_brain_cells	Parse Biosciences	Evercode WT v2	mouse	cells	no head									
+Parse_WTMegav2_BMMC	Parse Biosciences	Evercode WT Mega v2	human	cells	no head									
+Parse_WTv3_adult_brain_nuclei	Parse Biosciences	Evercode WT v3	mouse	nuclei	no head									
+Parse_WTv3_lymph_node_nuclei	Parse Biosciences	Evercode WT v3	mouse	nuclei	no head									
+Parse_WTv4_PBMC	Parse Biosciences	Evercode WT v4	human	cells	no head									
+Parse_10M_PBMC_cytokines	Parse Biosciences	Evercode whole transcriptome (GigaLab); Evercode Cell Fixation v3	human	cells	no head									
+ScaleBio_ScaleRNA_600k-PBMC	ScaleBio	libStructure = libV1.1.json	human	cells	ok	match	high	ScaleBio RNA		False	forward	gene expression		
+ScaleBio_QS-SmallKit-PBMC-10k	ScaleBio	libStructure = libQuantumV1.0.json; scalePlexLibStructure = scaleplexlibQuantumV1.0.json	human	cells	no head									
+ScaleBio_ScalePlex_PBMC	ScaleBio	libStructure = libV1.1.json; scalePlexLibStructure = scaleplexlibV1.json	human	cells	ok	match	high	ScaleBio RNA		False	forward	gene expression		
+ScaleBio_test_202308_tinyPipelineTest	ScaleBio	libStructure : libV1.json	human	cells	ok	match	high	ScaleBio RNA		False	forward	gene expression		
+ScaleBio_test_202312_rnaV1.1	ScaleBio	libStructure : libV1.1.json	human	cells	ok	match	high	ScaleBio RNA		False	forward	gene expression		
+ScaleBio_test_202312_extendedThroughput	ScaleBio	libStructure : libV1.1.json	human	cells	ok	match	high	ScaleBio RNA		False	forward	gene expression		
+ScaleBio_test_202504_quantumV1	ScaleBio	libStructure : libQuantumV1.0.json	human	cells	ok	no_match				False				R2 has fixed-position structure (8 fixed columns, GTTAGGAGATTG in 1% of reads), as a barcode read does, but matches no known layout: probably a single-cell kit not yet supported (or a non-single-cell library such as amplicons). scripts/discover.py can describe it.
+ScaleBio_test_202506_quantumV1	ScaleBio	libStructure : libQuantumV1.0.json	human	cells	ok	no_match				False				
+ScaleBio_datasets_page	ScaleBio	QuantumScale RNA / ScaleBio Single Cell RNA kit datasets (page not readable)			no head									
+Singleron_mouse_spleen_1	Singleron	GEXSCOPE-V3	mouse	cells	ok	match	high	Singleron GEXSCOPE V3		False	forward	gene expression		
+Singleron_mouse_bone_marrow_1	Singleron	GEXSCOPE-V3	mouse	cells	ok	match	high	Singleron GEXSCOPE V3		False	forward	gene expression		
+Singleron_mouse_lung_1	Singleron	GEXSCOPE-V3	mouse	cells	ok	match	high	Singleron GEXSCOPE V3		False	forward	gene expression		
+Singleron_mouse_testis_1	Singleron	GEXSCOPE-V3	mouse	cells	ok	match	high	Singleron GEXSCOPE V3		False	forward	gene expression		
+Singleron_FFPE_mouse_thymus_1	Singleron	GEXSCOPE-V3	mouse	nuclei	ok	match	high	Singleron GEXSCOPE V3		False	forward	gene expression		
+Singleron_fixed_mouse_brain_1	Singleron	scopeV3.0.1 (kit V2)	mouse	nuclei	ok	match	high	Singleron GEXSCOPE V2		False	forward	gene expression	expected polyT after the UMI, seen in 17% of reads	
+Singleron_fixed_mouse_spleen_1	Singleron	GEXSCOPE-V3	mouse	cells	ok	match	high	Singleron GEXSCOPE V3		False	forward	gene expression		
+Singleron_MobiuSCOPE_NB4_K562	Singleron	MobiuSCOPE single Cell RNA Sequencing Kit (combines 3′ and 5′ RNA-seq)	human	cells	ok	match	low	Singleron GEXSCOPE V2		False	forward	gene expression	expected polyT after the UMI, seen in 16% of reads	
+Singleron_FocuSCOPE_blood_snp_1	Singleron	FocuSCOPE single Cell Targeted Capture Kit	human	cells	ok	match	high	Singleron GEXSCOPE V1		False	forward	antibody/hashtag feature barcodes		
+Singleron_CLindex_cellline_mix_1	Singleron	CLindex (click-chemistry-based sample tagging)	human	cells	ok	match	high	Singleron GEXSCOPE V1		False	forward	antibody/hashtag feature barcodes		
+Singleron_test_GEXSCOPE-V2-human	Singleron	GEXSCOPE-V2	human	cells	ok	match	high	Singleron GEXSCOPE V2		False	forward	gene expression		
+Singleron_test_GEXSCOPE-V1	Singleron	GEXSCOPE-V1			no head									
+Singleron_test_GEXSCOPE-sCircle	Singleron	GEXSCOPE-sCircle			no head									
+Singleron_BaseSpace_GEXSCOPE_demo	Singleron	Singleron GEXSCOPE Single Cell RNA Library Kit			no head									

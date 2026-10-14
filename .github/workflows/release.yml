@@ -1,0 +1,91 @@
+# Copyright 2026 Tussl Ltd
+# SPDX-License-Identifier: Apache-2.0
+
+# On a version tag (v0.1.0): check the coverage is fresh, build tchem for Linux (static, musl) and
+# macOS, test it, and attach each archive and its sha256 to a draft release. The release stays a
+# draft: a person reads it and publishes it. Each archive holds bin/tchem, scripts/fetch_whitelists.sh with data/lists.tsv
+# (the barcode-list registry it reads), the licence, the docs and the schemas. Barcode lists are
+# never shipped: they belong to their vendors and are fetched by the script.
+# Run by hand (workflow_dispatch), it is a dry run: every check, build, test and package, with no
+# release drafted and nothing uploaded, and the tag check against the crate's version instead.
+name: release
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  draft:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4, resolved 2026-10-08
+        with:
+          fetch-depth: 0  # the coverage check diffs against the commit the coverage ran at
+      - name: The tag names the crate's version, the changelog has it, the coverage is fresh
+        run: |
+          version=$(grep -m1 '^version' Cargo.toml | cut -d'"' -f2)
+          if [ "${GITHUB_EVENT_NAME}" = push ]; then test "${GITHUB_REF_NAME}" = "v${version}"; fi
+          grep -q "^## ${version}" CHANGELOG.md
+          scripts/coverage_fresh.sh
+      - name: Draft release
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          version=${GITHUB_REF_NAME#v}
+          awk -v v="## ${version}" '$0 ~ "^## " {on = index($0, v) == 1} on' CHANGELOG.md > notes.md
+          gh release create "${GITHUB_REF_NAME}" --draft --title "tchem ${version}" --notes-file notes.md
+  build:
+    needs: draft
+    strategy:
+      matrix:
+        # Two runner images only: aarch64 Linux is cross-built with Rust's own linker and tested
+        # under qemu; Intel macOS is cross-built on Apple silicon and not run.
+        include:
+          - { os: ubuntu-24.04, target: x86_64-unknown-linux-musl, run: native }
+          - { os: ubuntu-24.04, target: aarch64-unknown-linux-musl, run: qemu }
+          - { os: macos-14, target: aarch64-apple-darwin, run: native }
+          - { os: macos-14, target: x86_64-apple-darwin, run: none }
+    runs-on: ${{ matrix.os }}
+    env:
+      # The archive's name: the tag on a release, "dry-run" by hand.
+      TAG: ${{ github.event_name == 'push' && github.ref_name || 'dry-run' }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4, resolved 2026-10-08
+      - run: rustup target add ${{ matrix.target }}
+      - name: Cross-linking and qemu for aarch64 Linux
+        if: matrix.run == 'qemu'
+        run: |
+          sudo apt-get update && sudo apt-get install -y qemu-user-static
+          echo "CARGO_TARGET_AARCH64_UNKNOWN_LINUX_MUSL_LINKER=rust-lld" >> "$GITHUB_ENV"
+          echo "CARGO_TARGET_AARCH64_UNKNOWN_LINUX_MUSL_RUNNER=qemu-aarch64-static" >> "$GITHUB_ENV"
+      - if: matrix.run != 'none'
+        run: cargo test --release --locked --target ${{ matrix.target }}
+      - name: Build, stripped
+        run: |
+          cargo build --release --locked --target ${{ matrix.target }} \
+            --config profile.release.debug=0 --config profile.release.strip=true
+      - name: Package
+        run: |
+          name="tchem-${{ env.TAG }}-${{ matrix.target }}"
+          mkdir -p "$name/bin" "$name/scripts" "$name/data"
+          cp "target/${{ matrix.target }}/release/tchem" "$name/bin/"
+          case "${{ matrix.run }}" in
+            native) "$name/bin/tchem" --version ;;
+            qemu) qemu-aarch64-static "$name/bin/tchem" --version ;;
+            none) file "$name/bin/tchem" | grep -q x86_64 ;;
+          esac
+          cp scripts/fetch_whitelists.sh "$name/scripts/"
+          cp data/lists.tsv "$name/data/"
+          cp -R LICENSE NOTICE README.md CHANGELOG.md CONTRIBUTING.md docs schema "$name/"
+          tar czf "$name.tar.gz" "$name"
+          shasum -a 256 "$name.tar.gz" > "$name.tar.gz.sha256"
+          tar tzvf "$name.tar.gz"
+      - name: Attach to the draft
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          name="tchem-${{ env.TAG }}-${{ matrix.target }}"
+          gh release upload "${GITHUB_REF_NAME}" "$name.tar.gz" "$name.tar.gz.sha256"

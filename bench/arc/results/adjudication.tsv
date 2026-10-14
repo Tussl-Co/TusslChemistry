@@ -1,0 +1,13 @@
+# Disagreements inspected by hand, 7 Oct 2026. category: arc_wrong | disputed | out_of_scope_ok
+# evidence: ENA experiment title / library name, chrM strand of the cDNA read (sense = 3', antisense = 5'),
+# feature-barcode capture sequences in R2 (none found in any).
+srx	category	true_label	evidence
+SRX15465564	arc_wrong	3' GEX	ENA "K562 day 8 Perturb-seq ... mRNA"; no FB capture seq; Arc tech_10x = feature_barcoding
+SRX15540899	arc_wrong	3' GEX	ENA "K562 day 8 Perturb-seq p3_mRNA"; chrM sense 8.9% vs 0.7%; no FB capture seq
+SRX24301936	arc_wrong	3' GEX	ENA "Perturb-seq Day 7 mRNA sequencing data"; polyA 11.8% in 194 bp R2; no FB capture seq
+SRX25746504	arc_wrong	3' GEX	ENA "scRNA-seq ... hashed perturbation sample"; chrM sense 6.1% vs 0.1%; no FB capture seq
+SRX21101388	arc_wrong	5' GEX	ENA "... GEX scRNA-seq"; chrM antisense 3.2% vs 0.8%; Arc tech_10x = vdj
+SRX9568862	arc_wrong	5' GEX	ENA "scRNAseq of Blood memory CD8+ T-cells"; chrM antisense 5.1% vs 2.3%; Arc tech_10x = vdj
+SRX26487561	arc_wrong	5' VDJ (TCR)	ENA "MD043-100_normal - TCR"; Arc tech_10x = 5_prime_gex
+SRX9988817	arc_wrong	5' GEX	chrM antisense 25.8% vs 6.8%; polyT 5.4% vs polyA 0.7%; ENA title gives no end; Arc tech_10x = 3_prime_gex
+SRX22429687	disputed	5' (weak)	chrM antisense 3.9% vs 1.4% (2.8x, below our 3x bar); ENA title gives no end; Arc tech_10x = 3_prime_gex

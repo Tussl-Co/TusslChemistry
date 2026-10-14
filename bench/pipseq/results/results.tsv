@@ -1,0 +1,65 @@
+kit	study	gse	run	status	verdict	confidence	r1_length	detail
+pipseq_v3	PRJEB74471		ERR12826675	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 98.7%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v3	PRJNA1089198		SRR28379046	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 99.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v3	PRJNA1089198		SRR28379047	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 99.5%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v3	PRJEB76908		ERR13316846	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 99.4%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v3	PRJEB76908		ERR13316847	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 99.4%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v3	PRJEB88835		ERR14876809	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 98.9%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v3	PRJEB88835		ERR14876810	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 98.6%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v3	PRJNA1322465		SRR35327973	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	54	Illumina Single Cell 3' / PIPseq v3-v4 98.4%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v3	PRJNA1322465		SRR35327974	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	54	Illumina Single Cell 3' / PIPseq v3-v4 97.3%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v3	PRJNA1375676		SRR36326231	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 95.8%; ScaleBio RNA 66.7%
+pipseq_v3	PRJNA1375676		SRR36326232	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 95.9%; inDrops 66.7%
+pipseq_v3	PRJNA1456007		SRR38203246	ok	no known layout (best support under 30%)		101	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 77.9%; inDrops 66.7%
+pipseq_v3	PRJNA1456007		SRR38203247	ok	no known layout (best support under 30%)		101	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 76.6%; inDrops 66.7%
+pipseq_v3	PRJNA1442206		SRR37762148	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	150	Illumina Single Cell 3' / PIPseq v3-v4 98.0%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v3	PRJNA1442206		SRR37762149	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	150	Illumina Single Cell 3' / PIPseq v3-v4 96.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1014494		SRR25991441	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	54	Illumina Single Cell 3' / PIPseq v3-v4 99.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1019718		SRR26140703	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	54	Illumina Single Cell 3' / PIPseq v3-v4 98.6%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v4	PRJNA1049666		SRR27128771	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	54	Illumina Single Cell 3' / PIPseq v3-v4 99.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1049666		SRR27128772	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	54	Illumina Single Cell 3' / PIPseq v3-v4 99.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJEB72813		ERR12670841	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 99.1%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v4	PRJEB72813		ERR12670842	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 99.0%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v4	PRJNA1064870		SRR28266075	ok	no known layout (best support under 30%)		54	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 99.1%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1064870		SRR28266076	ok	no known layout (best support under 30%)		54	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 99.1%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1127479		SRR29524782	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 99.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1127479		SRR29524783	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 99.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1216192		SRR32137176	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	150	Illumina Single Cell 3' / PIPseq v3-v4 98.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1216192		SRR32137177	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	150	Illumina Single Cell 3' / PIPseq v3-v4 98.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1216193		SRR32136496	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 89.6%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1216193		SRR32136497	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 88.9%; ScaleBio RNA 66.7%
+pipseq_v4	PRJEB85866		ERR14374734	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 99.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJEB85866		ERR14374735	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 99.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1251661		SRR33162481	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 98.7%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v4	PRJNA1251661		SRR33162482	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 98.7%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v4	PRJNA1253455		SRR33231803	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 98.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1253455		SRR33231804	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 98.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1013615		SRR25934502	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	150	Illumina Single Cell 3' / PIPseq v3-v4 99.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1013615		SRR25934503	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	150	Illumina Single Cell 3' / PIPseq v3-v4 99.5%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v4	PRJNA1248023		SRR33030054	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	54	Illumina Single Cell 3' / PIPseq v3-v4 99.7%; Drop-seq 100.0%; inDrops 66.7%
+pipseq_v4	PRJNA1248023		SRR33030055	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	54	Illumina Single Cell 3' / PIPseq v3-v4 99.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1223357		SRR32331403	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	100	Illumina Single Cell 3' / PIPseq v3-v4 97.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1370015		SRR36213995	ok	no known layout (best support under 30%)		45	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 98.5%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1370015		SRR36213996	ok	no known layout (best support under 30%)		45	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 98.4%; inDrops 66.7%
+pipseq_v4	PRJNA1013616		SRR25934407	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 97.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1013616		SRR25934408	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 96.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1223357		SRR32331404	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	100	Illumina Single Cell 3' / PIPseq v3-v4 97.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1265683		SRR33641976	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	54	Illumina Single Cell 3' / PIPseq v3-v4 98.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1265683		SRR33641977	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	54	Illumina Single Cell 3' / PIPseq v3-v4 98.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1373237		SRR36291027	ok	no known layout (best support under 30%)		46	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 98.3%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1373237		SRR36291028	ok	no known layout (best support under 30%)		46	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 96.1%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1284836		SRR34321328	ok	no known layout (best support under 30%)		60	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 99.4%; inDrops 66.7%
+pipseq_v4	PRJNA1284836		SRR34321329	ok	no known layout (best support under 30%)		60	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 99.2%; inDrops 66.7%
+pipseq_v4	PRJNA1301333		SRR34858782	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 89.9%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1301333		SRR34858783	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 93.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1423723		SRR37234611	ok	no known layout (best support under 30%)		100	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 27.9%; ScaleBio RNA 16.9%
+pipseq_v4	PRJNA1423723		SRR37234612	ok	no known layout (best support under 30%)		100	Drop-seq 47.1%; Illumina Single Cell 3' / PIPseq v3-v4 21.4%; ScaleBio RNA 10.3%
+pipseq_v4	PRJNA1474477		SRR38977089	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 98.7%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1474477		SRR38977090	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 98.8%; inDrops 66.7%
+pipseq_v4	PRJNA1472464		SRR38898006	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	151	Illumina Single Cell 3' / PIPseq v3-v4 98.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v4	PRJNA1472464		SRR38898007	ok	Illumina Single Cell 3' / PIPseq v3-v4	HIGH	54	Illumina Single Cell 3' / PIPseq v3-v4 98.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+pipseq_v5	PRJNA1251639		SRR33161102	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 99.0%; inDrops 66.7%
+pipseq_v5	PRJNA1252110		SRR33194499	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 98.4%; ScaleBio RNA 66.7%
+pipseq_v5	PRJNA1252110		SRR33194500	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 98.7%; ScaleBio RNA 66.7%
+pipseq_v5	PRJNA1252747		SRR33214701	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 97.1%; inDrops 66.7%
+pipseq_v5	PRJNA1252747		SRR33214702	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 97.1%; inDrops 66.7%

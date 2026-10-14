@@ -1,0 +1,6 @@
+# Copyright 2026 Tussl Ltd
+# SPDX-License-Identifier: Apache-2.0
+
+# TigerStyle: 100 columns, no exceptions (the tidy test enforces it on comments and strings too).
+max_width = 100
+use_small_heuristics = "Max"

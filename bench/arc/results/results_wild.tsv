@@ -1,0 +1,31 @@
+srx	srr	tech_10x	arc_whitelist	condition	n_files	file_lens	pair_used	verdict	confidence	swapped	polyA	polyT	our_whitelist	our_end	arc_end	wl_agree	end_agree
+ERR10146537	ERR10146537	inDrops	out_of_scope	ok	2	76,76	ERR10146537_1.fastq.gz,ERR10146537_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10146539	ERR10146539	inDrops	out_of_scope	ok	2	76,76	ERR10146539_1.fastq.gz,ERR10146539_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10146550	ERR10146550	inDrops	out_of_scope	ok	2	60,50	ERR10146550_1.fastq.gz,ERR10146550_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR12865500	ERR12865500	Singleron	out_of_scope	ok	2	151,151	ERR12865500_1.fastq.gz,ERR12865500_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR12865501	ERR12865501	Singleron	out_of_scope	ok	2	150,150	ERR12865501_1.fastq.gz,ERR12865501_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR12865502	ERR12865502	Singleron	out_of_scope	ok	2	151,151	ERR12865502_1.fastq.gz,ERR12865502_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+SRR28437723	SRR28437723	ScaleBio	out_of_scope	ok	2	151,151	SRR28437723_1.fastq.gz,SRR28437723_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+SRR28438980	SRR28438980	ScaleBio	out_of_scope	ok	2	151,151	SRR28438980_1.fastq.gz,SRR28438980_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+SRR28438982	SRR28438982	ScaleBio	out_of_scope	ok	2	151,151	SRR28438982_1.fastq.gz,SRR28438982_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR13027006	ERR13027006	10x-ATAC	out_of_scope	ok	2	89,28	ERR13027006_1.fastq.gz,ERR13027006_2.fastq.gz	10x 3' v3/v3.1	HIGH	True			3M-february-2018	3'	out of scope	False	False
+ERR13027014	ERR13027014	10x-ATAC	out_of_scope	ok	2	82,28	ERR13027014_1.fastq.gz,ERR13027014_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR13027019	ERR13027019	10x-ATAC	out_of_scope	ok	2	28,89	ERR13027019_1.fastq.gz,ERR13027019_2.fastq.gz	AMBIGUOUS between 10x 3' v2 and 10x 5' v1/v2		False			737K-august-2016	ambiguous	out of scope	False	False
+ERR10030053	ERR10030053	Visium	out_of_scope	ok	2	50,28	ERR10030053_1.fastq.gz,ERR10030053_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10030059	ERR10030059	Visium	out_of_scope	ok	2	28,50	ERR10030059_1.fastq.gz,ERR10030059_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10030061	ERR10030061	Visium	out_of_scope	ok	2	50,28	ERR10030061_1.fastq.gz,ERR10030061_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10092105	ERR10092105	ONT-cDNA	out_of_scope	single read file	1	518	ERR10092105.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10092106	ERR10092106	ONT-cDNA	out_of_scope	single read file	1	522	ERR10092106.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10150458	ERR10150458	ONT-cDNA	out_of_scope	single read file	1	1146	ERR10150458.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10032851	ERR10032851	PacBio-IsoSeq	out_of_scope	single read file	1	1600	ERR10032851.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10088116	ERR10088116	PacBio-IsoSeq	out_of_scope	single read file	1	288	ERR10088116.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10088118	ERR10088118	PacBio-IsoSeq	out_of_scope	single read file	1	1590	ERR10088118.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10015302	ERR10015302	bulk-RNA-PE	out_of_scope	ok	2	75,75	ERR10015302_1.fastq.gz,ERR10015302_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10015304	ERR10015304	bulk-RNA-PE	out_of_scope	ok	2	75,75	ERR10015304_1.fastq.gz,ERR10015304_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10015305	ERR10015305	bulk-RNA-PE	out_of_scope	ok	2	75,75	ERR10015305_1.fastq.gz,ERR10015305_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10007992	ERR10007992	amplicon	out_of_scope	ok	2	301,301	ERR10007992_1.fastq.gz,ERR10007992_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10007998	ERR10007998	amplicon	out_of_scope	ok	2	301,301	ERR10007998_1.fastq.gz,ERR10007998_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10008009	ERR10008009	amplicon	out_of_scope	ok	2	301,301	ERR10008009_1.fastq.gz,ERR10008009_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10025088	ERR10025088	bisulfite	out_of_scope	ok	2	151,151	ERR10025088_1.fastq.gz,ERR10025088_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10025089	ERR10025089	bisulfite	out_of_scope	ok	2	151,151	ERR10025089_1.fastq.gz,ERR10025089_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+ERR10289984	ERR10289984	bisulfite	out_of_scope	ok	2	117,119	ERR10289984_1.fastq.gz,ERR10289984_2.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False

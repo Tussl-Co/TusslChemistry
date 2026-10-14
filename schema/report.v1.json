@@ -1,0 +1,820 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Tussl-Co/TusslChemistry/blob/master/schema/report.v1.json",
+  "title": "tussl-chemistry report, schema 1.x",
+  "description": "One object per run of `tchem --format json`, for short and long reads alike. Every key is always present; a key that does not apply is null or empty. Consumers must ignore keys they do not know: a minor schema version adds keys, a major one renames, removes or retypes them. See docs/json.md.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "tool",
+    "version",
+    "schema_version",
+    "verdict",
+    "confidence",
+    "layout",
+    "candidates",
+    "files",
+    "cdna_strand",
+    "library",
+    "swapped",
+    "strand_evidence",
+    "contradictions",
+    "notes",
+    "hint",
+    "not_checked",
+    "reads_sampled",
+    "read_kind",
+    "long_read_evidence",
+    "fingerprint",
+    "instrument"
+  ],
+  "properties": {
+    "tool": {
+      "const": "tussl-chemistry"
+    },
+    "version": {
+      "type": "string",
+      "description": "The tool's version (Cargo package version)."
+    },
+    "schema_version": {
+      "type": "string",
+      "pattern": "^1\\.[0-9]+$",
+      "description": "This contract's version. Key on it, not on `version`."
+    },
+    "verdict": {
+      "enum": [
+        "match",
+        "ambiguous",
+        "no_match"
+      ]
+    },
+    "confidence": {
+      "enum": [
+        "high",
+        "medium",
+        "low",
+        null
+      ],
+      "description": "A match's confidence; null otherwise."
+    },
+    "layout": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/$defs/layout"
+        }
+      ],
+      "description": "The matched layout; null unless verdict is match."
+    },
+    "candidates": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Layout names the reads cannot separate; non-empty only when verdict is ambiguous."
+    },
+    "files": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/$defs/files"
+        }
+      ],
+      "description": "Which input file is the barcode read and which the cDNA, after swap detection."
+    },
+    "cdna_strand": {
+      "enum": [
+        "forward",
+        "reverse",
+        null
+      ],
+      "description": "The strand to give the mapper: forward for 3' kits, reverse for 5'."
+    },
+    "library": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/$defs/library"
+        }
+      ]
+    },
+    "swapped": {
+      "type": "boolean",
+      "description": "True when the file labelled R1 holds what the layout puts on R2."
+    },
+    "strand_evidence": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/$defs/strand_evidence"
+        }
+      ]
+    },
+    "contradictions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "hint": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Why nothing matched, in one sentence; only when verdict is no_match."
+    },
+    "not_checked": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Layouts not scored because their barcode list is absent from the list directory."
+    },
+    "reads_sampled": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "read_kind": {
+      "enum": [
+        "short",
+        "long"
+      ]
+    },
+    "long_read_evidence": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/$defs/long_read_evidence"
+        }
+      ],
+      "description": "Present only when read_kind is long."
+    },
+    "fingerprint": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/$defs/fingerprint"
+        }
+      ],
+      "description": "Only when verdict is no_match: what each file shows, to share when asking for a kit the tool does not know. Holds no read (see docs/json.md)."
+    },
+    "instrument": {
+      "$ref": "#/$defs/instrument",
+      "description": "Which instrument read the sample, as its source records it (read names, a BAM read group) and as an archive states it. Detection never reads this."
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "verdict": {
+            "const": "match"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low"
+            ]
+          },
+          "layout": {
+            "$ref": "#/$defs/layout"
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "confidence": {
+            "const": null
+          },
+          "layout": {
+            "const": null
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "verdict": {
+            "const": "ambiguous"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "candidates": {
+            "minItems": 2
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "candidates": {
+            "maxItems": 0
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "verdict": {
+            "const": "no_match"
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "hint": {
+            "const": null
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "read_kind": {
+            "const": "long"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "long_read_evidence": {
+            "$ref": "#/$defs/long_read_evidence"
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "long_read_evidence": {
+            "const": null
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "verdict": {
+            "const": "no_match"
+          },
+          "read_kind": {
+            "const": "short"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "fingerprint": {
+            "$ref": "#/$defs/fingerprint"
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "fingerprint": {
+            "const": null
+          }
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "share": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "layout": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "geometry",
+        "barcode_lists",
+        "note",
+        "long_read_kit",
+        "validation",
+        "family_validation"
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "geometry": {
+          "type": "string",
+          "pattern": "^1\\{.*\\}2\\{.*\\}",
+          "description": "simpleaf / piscem / alevin-fry geometry string."
+        },
+        "barcode_lists": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "description": "Paths of the barcode list files to correct against, under the list directory."
+        },
+        "note": {
+          "type": "string",
+          "description": "What processing must know beyond the geometry; may be empty."
+        },
+        "long_read_kit": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Oxford Nanopore wf-single-cell's --kit value, for 10x kits it supports."
+        },
+        "validation": {
+          "$ref": "#/$defs/validation"
+        },
+        "family_validation": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "$ref": "#/$defs/family_validation"
+            }
+          ],
+          "description": "For a layout in a kit family whose labels rarely name the version (BD Rhapsody, Parse Evercode WT, Singleron GEXSCOPE): how often a HIGH call naming any layout of the family is that family. Null otherwise. Added in 1.1."
+        }
+      }
+    },
+    "files": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "barcode_read",
+        "cdna_read"
+      ],
+      "properties": {
+        "barcode_read": {
+          "type": "string",
+          "minLength": 1
+        },
+        "cdna_read": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1
+        }
+      }
+    },
+    "library": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "kind",
+        "gene_expression",
+        "constant_region_share",
+        "housekeeping_share",
+        "scaffold_share",
+        "tag_start_cover"
+      ],
+      "properties": {
+        "kind": {
+          "enum": [
+            "gene expression",
+            "immune receptor (VDJ: TCR/BCR)",
+            "CRISPR guide capture",
+            "tag or amplicon (antibody, hashtag, guide or barcode)"
+          ]
+        },
+        "gene_expression": {
+          "type": "boolean"
+        },
+        "constant_region_share": {
+          "$ref": "#/$defs/share"
+        },
+        "housekeeping_share": {
+          "$ref": "#/$defs/share"
+        },
+        "scaffold_share": {
+          "$ref": "#/$defs/share"
+        },
+        "tag_start_cover": {
+          "$ref": "#/$defs/share"
+        }
+      }
+    },
+    "strand_evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "poly_a",
+        "poly_t",
+        "chrm_sense",
+        "chrm_antisense",
+        "nuclear_sense",
+        "nuclear_antisense"
+      ],
+      "properties": {
+        "poly_a": {
+          "$ref": "#/$defs/share"
+        },
+        "poly_t": {
+          "$ref": "#/$defs/share"
+        },
+        "chrm_sense": {
+          "$ref": "#/$defs/share"
+        },
+        "chrm_antisense": {
+          "$ref": "#/$defs/share"
+        },
+        "nuclear_sense": {
+          "$ref": "#/$defs/share"
+        },
+        "nuclear_antisense": {
+          "$ref": "#/$defs/share"
+        }
+      }
+    },
+    "long_read_evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "reads_examined",
+        "usable_reads",
+        "adapter_share",
+        "adapter_at_start_share",
+        "barcode_list_shares",
+        "poly_t_share",
+        "tso_share",
+        "umi_length",
+        "read_length_mode"
+      ],
+      "properties": {
+        "reads_examined": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "usable_reads": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "adapter_share": {
+          "$ref": "#/$defs/share"
+        },
+        "adapter_at_start_share": {
+          "$ref": "#/$defs/share"
+        },
+        "barcode_list_shares": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "list",
+              "share",
+              "exclusive_share"
+            ],
+            "properties": {
+              "list": {
+                "type": "string"
+              },
+              "share": {
+                "$ref": "#/$defs/share"
+              },
+              "exclusive_share": {
+                "$ref": "#/$defs/share"
+              }
+            }
+          }
+        },
+        "poly_t_share": {
+          "$ref": "#/$defs/share"
+        },
+        "tso_share": {
+          "$ref": "#/$defs/share"
+        },
+        "umi_length": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "read_length_mode": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "validation": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "How far this layout's HIGH calls have been checked on held-out runs (bench/coverage). It describes the layout for this read kind, not this run, and vouches for HIGH calls only.",
+      "required": [
+        "applies_to",
+        "level",
+        "held_out_high_calls",
+        "studies",
+        "family_only_calls",
+        "disputed",
+        "wrong",
+        "error_bound_95"
+      ],
+      "properties": {
+        "applies_to": {
+          "const": "high",
+          "description": "The confidence the record vouches for."
+        },
+        "level": {
+          "enum": [
+            "unvalidated",
+            "checked",
+            "validated",
+            "error_under_3pct",
+            "contradicted"
+          ],
+          "description": "From studies: checked under 30, validated from 30 (error under 10%), error_under_3pct from 100; contradicted if any held-out HIGH call was wrong."
+        },
+        "held_out_high_calls": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "HIGH calls on held-out runs whose own record names exactly this layout."
+        },
+        "studies": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "The studies those runs come from; the level counts these."
+        },
+        "family_only_calls": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "HIGH calls right only at the kit-family level (the record does not name the version)."
+        },
+        "disputed": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "HIGH calls whose label names another kit, supported only by the reads' own barcode evidence."
+        },
+        "wrong": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Held-out HIGH calls the run's own record contradicts."
+        },
+        "error_bound_95": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "$ref": "#/$defs/share"
+            }
+          ],
+          "description": "3 / studies (rule of three): the 95% upper bound on the error rate of a HIGH call; null when unvalidated or contradicted."
+        }
+      }
+    },
+    "fingerprint": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fingerprint_version",
+        "files"
+      ],
+      "properties": {
+        "fingerprint_version": {
+          "const": 1
+        },
+        "files": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 2,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "file",
+              "reads",
+              "length_min",
+              "length_mode",
+              "length_max",
+              "structured",
+              "fixed_columns",
+              "sketch",
+              "anchor"
+            ],
+            "properties": {
+              "file": {
+                "enum": [
+                  "R1",
+                  "R2"
+                ]
+              },
+              "reads": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "length_min": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "length_mode": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "length_max": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "structured": {
+                "type": "boolean",
+                "description": "Whether the file shows a barcode read's positional structure."
+              },
+              "fixed_columns": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "sketch": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "pattern": "^[.ACGTacgt-]*$",
+                "description": "Per position, a consensus over every read: '.' random, upper case one base over 70%, lower case leads, '-' mixed. Only for structured files sampled with at least 1,000 reads."
+              },
+              "anchor": {
+                "oneOf": [
+                  {
+                    "type": "null"
+                  },
+                  {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "required": [
+                      "kmer",
+                      "share"
+                    ],
+                    "properties": {
+                      "kmer": {
+                        "type": "string",
+                        "pattern": "^[ACGT]{12}$"
+                      },
+                      "share": {
+                        "type": "number",
+                        "minimum": 0.15,
+                        "maximum": 1
+                      }
+                    }
+                  }
+                ],
+                "description": "The commonest 12-mer near the read start, only when at least 15% of at least 1,000 reads carry it (a linker)."
+              }
+            }
+          }
+        }
+      }
+    },
+    "instrument": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "platform",
+        "model",
+        "id",
+        "from",
+        "archive_model"
+      ],
+      "properties": {
+        "platform": {
+          "enum": [
+            "illumina",
+            "element",
+            "mgi",
+            "ultima",
+            "pacbio",
+            "oxford_nanopore",
+            null
+          ],
+          "description": "null when the read names carry none (an archive often strips them) and there is no read group."
+        },
+        "model": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "The model when the name's instrument prefix or the read group's PM tag fixes it, e.g. NovaSeq 6000."
+        },
+        "id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "The instrument, flowcell or read identifier the name carries."
+        },
+        "from": {
+          "enum": [
+            "read_name",
+            "read_group",
+            null
+          ],
+          "description": "What platform rests on; null when unknown."
+        },
+        "archive_model": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "The instrument_model ENA records, for a run read by accession. Shown beside the reads' answer: the two can disagree."
+        }
+      }
+    },
+    "family_validation": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "How far HIGH calls naming any layout of this kit family have been checked on held-out runs: right when the run's independent label names any layout of the family (bench/VALIDATION.md).",
+      "required": [
+        "family",
+        "applies_to",
+        "level",
+        "held_out_high_calls",
+        "studies",
+        "disputed",
+        "wrong",
+        "error_bound_95"
+      ],
+      "properties": {
+        "family": {
+          "type": "string",
+          "minLength": 1,
+          "description": "The kit family's name."
+        },
+        "applies_to": {
+          "const": "high",
+          "description": "The confidence the record vouches for."
+        },
+        "level": {
+          "enum": [
+            "unvalidated",
+            "checked",
+            "validated",
+            "error_under_3pct",
+            "contradicted"
+          ],
+          "description": "From studies: checked under 30, validated from 30 (error under 10%), error_under_3pct from 100; contradicted if any held-out HIGH call was wrong."
+        },
+        "held_out_high_calls": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "HIGH calls naming a layout of this family on held-out runs whose independent label names a layout of the family."
+        },
+        "studies": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "The studies those runs come from; the level counts these."
+        },
+        "disputed": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "HIGH calls whose label names another kit, supported only by the reads' own barcode evidence."
+        },
+        "wrong": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Held-out HIGH calls the run's own record contradicts."
+        },
+        "error_bound_95": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "$ref": "#/$defs/share"
+            }
+          ],
+          "description": "3 / studies (rule of three): the 95% upper bound on the error rate of a HIGH call; null when unvalidated or contradicted."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+srx	srr	tech_10x	arc_whitelist	condition	n_files	file_lens	pair_used	verdict	confidence	swapped	polyA	polyT	our_whitelist	our_end	arc_end	wl_agree	end_agree
+SRX28889265	SRR33662592	3_prime_gex	3M-february-2018	sra ok	4	10,10,28,90	SRR33662592_3.fastq.gz,SRR33662592_4.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX27081840	SRR31719265	3_prime_gex	3M-february-2018	sra ok	4	10,10,28,90	SRR31719265_3.fastq.gz,SRR31719265_4.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+ERX13775557	ERR14374608	3_prime_gex	3M-february-2018	sra ok	4	10,10,28,90	ERR14374608_3.fastq.gz,ERR14374608_4.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX29051034	SRR33830083	3_prime_gex	3M-february-2018	sra ok	3	8,28,90	SRR33830083_2.fastq.gz,SRR33830083_3.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX24274855	SRR28707459	3_prime_gex	3M-february-2018	sra ok	3	8,30,98	SRR28707459_2.fastq.gz,SRR28707459_3.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX24258718	SRR28690555	3_prime_gex	3M-february-2018	sra ok	3	8,30,98	SRR28690555_2.fastq.gz,SRR28690555_3.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX14977817	SRR18899459	3_prime_gex	3M-february-2018	sra ok	3	28,91,8	SRR18899459_1.fastq.gz,SRR18899459_2.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+ERX11876767	ERR12500680	3_prime_gex	3M-february-2018	sra ok	3	8,28,91	ERR12500680_2.fastq.gz,ERR12500680_3.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX17504612	SRR21502006	3_prime_gex	3M-february-2018	sra ok	3	8,29,55	SRR21502006_2.fastq.gz,SRR21502006_3.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+ERX9138876	ERR9589017	3_prime_gex	3M-february-2018	sra ok	3	8,28,91	ERR9589017_2.fastq.gz,ERR9589017_3.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	3'	True	True
+SRX22429687	SRR26730865	3_prime_gex	737K-august-2016	sra ok	4	10,10,28,90	SRR26730865_3.fastq.gz,SRR26730865_4.fastq.gz	10x 5' v1/v2	MEDIUM	False			737K-august-2016	5'	3'	True	False
+SRX21311399	SRR25582856	3_prime_gex	737K-august-2016	sra ok	3	8,26,98	SRR25582856_2.fastq.gz,SRR25582856_3.fastq.gz	10x 3' v2	HIGH	False			737K-august-2016	3'	3'	True	True
+SRX22523180	SRR26826549	3_prime_gex	737K-august-2016	sra ok	3	8,26,98	SRR26826549_2.fastq.gz,SRR26826549_3.fastq.gz	10x 3' v2	HIGH	False			737K-august-2016	3'	3'	True	True
+SRX14335947	SRR18189078	3_prime_gex	737K-august-2016	sra ok	3	8,26,55	SRR18189078_2.fastq.gz,SRR18189078_3.fastq.gz	10x 3' v2	HIGH	False			737K-august-2016	3'	3'	True	True
+SRX9770748	SRR13344585	3_prime_gex	737K-august-2016	sra ok	3	26,90,8	SRR13344585_1.fastq.gz,SRR13344585_2.fastq.gz	10x 3' v2	HIGH	False			737K-august-2016	3'	3'	True	True
+SRX19210663	SRR23266473	3_prime_gex	737K-august-2016	sra ok	3	8,26,98	SRR23266473_2.fastq.gz,SRR23266473_3.fastq.gz	10x 3' v2	HIGH	False			737K-august-2016	3'	3'	True	True
+SRX13731512	SRR17562225	3_prime_gex	737K-august-2016	sra ok	3	8,26,91	SRR17562225_2.fastq.gz,SRR17562225_3.fastq.gz	10x 3' v2	HIGH	False			737K-august-2016	3'	3'	True	True
+SRX19985703	SRR24188276	3_prime_gex	737K-august-2016	sra ok	3	8,26,91	SRR24188276_2.fastq.gz,SRR24188276_3.fastq.gz	AMBIGUOUS between 10x 3' v2 and 10x 5' v1/v2		False			737K-august-2016	ambiguous	3'	True	False
+SRX24811431	SRR29294193	5_prime_gex	737K-august-2016	sra ok	4	28,90,10,10	SRR29294193_1.fastq.gz,SRR29294193_2.fastq.gz	10x 5' v1/v2	HIGH	False			737K-august-2016	5'	5'	True	True
+SRX25261724	SRR29761077	5_prime_gex	737K-august-2016	sra ok	4	10,10,28,90	SRR29761077_3.fastq.gz,SRR29761077_4.fastq.gz	10x 5' v1/v2	HIGH	False			737K-august-2016	5'	5'	True	True
+NRX0000030		5_prime_gex	737K-august-2016	sra error: <HTTPError 400: ''>													
+SRX26487561	SRR31104652	5_prime_gex	737K-august-2016	sra ok	4	10,10,26,91	SRR31104652_3.fastq.gz,SRR31104652_4.fastq.gz	AMBIGUOUS between 10x 3' v2 and 10x 5' v1/v2		False			737K-august-2016	ambiguous	5'	True	False
+SRX22740639	SRR27051098	5_prime_gex	737K-august-2016	sra ok	4	10,10,26,90	SRR27051098_3.fastq.gz,SRR27051098_4.fastq.gz	10x 5' v1/v2	HIGH	False			737K-august-2016	5'	5'	True	True
+SRX27087130	SRR31724777	5_prime_gex	3M-5pgex-jan-2023	sra ok	4	10,10,28,90	SRR31724777_3.fastq.gz,SRR31724777_4.fastq.gz	10x 5' v3 (GEM-X)	HIGH	False			3M-5pgex-jan-2023	5'	5'	True	True
+SRX28550142	SRR34078840	5_prime_gex	3M-5pgex-jan-2023	sra ok	4	10,10,28,90	SRR34078840_3.fastq.gz,SRR34078840_4.fastq.gz	10x 5' v3 (GEM-X)	HIGH	False			3M-5pgex-jan-2023	5'	5'	True	True
+SRX27291582	SRR31934508	multiome	unassigned	sra ok	3	10,28,90	SRR31934508_2.fastq.gz,SRR31934508_3.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+SRX27325568	SRR31970277	multiome	unassigned	sra ok	4	10,10,28,90	SRR31970277_3.fastq.gz,SRR31970277_4.fastq.gz	no known layout (best support under 30%)		False					out of scope	False	False
+SRX21101388	SRR25362037	vdj	737K-august-2016	sra ok	3	8,28,91	SRR25362037_2.fastq.gz,SRR25362037_3.fastq.gz	10x 5' v1/v2	HIGH	False			737K-august-2016	5'	out of scope	True	False
+SRX25746504	SRR30285848	feature_barcoding	3M-february-2018	sra ok	4	10,10,28,89	SRR30285848_3.fastq.gz,SRR30285848_4.fastq.gz	10x 3' v3/v3.1	HIGH	False			3M-february-2018	3'	out of scope	True	False

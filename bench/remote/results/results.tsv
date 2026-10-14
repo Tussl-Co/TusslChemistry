@@ -1,0 +1,22 @@
+# Runs read by accession from ENA vs their cached heads (tchem 0.1.0, 2026-10-08).
+source	run	local	remote	agree	seconds	megabytes
+flex	SRR24968068	match 10x Flex v1 high	match 10x Flex v1 high	True	2.9	5.5
+flex	SRR24968072	match 10x Flex v1 high	match 10x Flex v1 high	True	2.7	5.5
+flex	SRR28902817	match 10x Flex v1 high	match 10x Flex v1 high	True	2.7	4.9
+flex	SRR28902818	match 10x Flex v1 high	match 10x Flex v1 high	True	2.6	4.8
+bd	DRR1033572	match BD Rhapsody (original V1 beads) high	match BD Rhapsody (original V1 beads) high	True	3.0	11.9
+bd	DRR1033573	match BD Rhapsody (original V1 beads) high	match BD Rhapsody (original V1 beads) high	True	3.8	12.7
+bd	DRR527911	match BD Rhapsody (original V1 beads) high	match BD Rhapsody (original V1 beads) high	True	3.0	5.2
+bd	DRR527912	match BD Rhapsody (original V1 beads) high	match BD Rhapsody (original V1 beads) high	True	3.8	13.5
+mgi	ERR16065158	match MGI DNBelab C4 / C-series HT high	match MGI DNBelab C4 / C-series HT high	True	3.3	9.6
+mgi	ERR16065159	match MGI DNBelab C4 / C-series HT high	match MGI DNBelab C4 / C-series HT high	True	3.8	9.6
+mgi	ERR17025864	match MGI DNBelab C4 / C-series HT high	match MGI DNBelab C4 / C-series HT high	True	3.7	11.1
+mgi	ERR17025865	match MGI DNBelab C4 / C-series HT high	match MGI DNBelab C4 / C-series HT high	True	3.5	10.9
+parse	ERR12736507	match Parse Evercode WT high	match Parse Evercode WT high	True	3.2	7.7
+parse	ERR12736508	match Parse Evercode WT high	match Parse Evercode WT high	True	2.9	7.6
+parse	ERR14667660	match Parse Evercode WT high	match Parse Evercode WT high	True	3.4	12.1
+parse	ERR14667661	match Parse Evercode WT high	match Parse Evercode WT high	True	3.4	11.8
+pipseq	ERR12670841	match Illumina Single Cell 3' / PIPseq v3-v4 high	match Illumina Single Cell 3' / PIPseq v3-v4 high	True	3.7	13.3
+pipseq	ERR12670842	match Illumina Single Cell 3' / PIPseq v3-v4 high	match Illumina Single Cell 3' / PIPseq v3-v4 high	True	3.5	13.1
+pipseq	ERR12826675	match Illumina Single Cell 3' / PIPseq v3-v4 high	match Illumina Single Cell 3' / PIPseq v3-v4 high	True	3.7	13.5
+pipseq	ERR13316846	match Illumina Single Cell 3' / PIPseq v3-v4 high	match Illumina Single Cell 3' / PIPseq v3-v4 high	True	3.7	13.2

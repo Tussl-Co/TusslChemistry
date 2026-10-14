@@ -1,0 +1,23 @@
+# Runs whose protocol cites a BD part or kit that BD's own documents tie to one bead type
+# (bench/bd/results/bead_parts.tsv, bench/bd/BEAD_PARTS.md; built 9 Oct 2026 from metadata only).
+# They override the catalogue's family truth (bench/coverage/scripts/sources.py, heldout_cases).
+run	layout	referee	evidence
+ERR13255856	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+ERR13255857	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+ERR13304888	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+ERR13304889	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+SRR29362528	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+SRR29362529	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+SRR31273785	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+SRR31273786	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+SRR34797688	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+SRR34797689	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+ERR13620654	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+ERR13620655	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+SRR22066164	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+ERR15096938	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+ERR15096939	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+SRR36055142	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+SRR36055143	BD Rhapsody (original V1 beads)	BD part number in the run's protocol	633731 (BD Rhapsody Cartridge Reagent Kit)
+SRR38282167	BD Rhapsody (Enhanced V2/V3 beads)	BD part number in the run's protocol	enhanced cartridge reagent kit v3 (BD Rhapsody Enhanced Cartridge Reagent Kit V3 (667052))
+SRR38282168	BD Rhapsody (Enhanced V2/V3 beads)	BD part number in the run's protocol	enhanced cartridge reagent kit v3 (BD Rhapsody Enhanced Cartridge Reagent Kit V3 (667052))

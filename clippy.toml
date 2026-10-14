@@ -1,0 +1,12 @@
+# Copyright 2026 Tussl Ltd
+# SPDX-License-Identifier: Apache-2.0
+
+# Panicking is how a test reports failure, so the panic-avoidance lints that guard production code
+# do not apply inside #[cfg(test)] modules and #[test] functions.
+allow-unwrap-in-tests = true
+allow-expect-in-tests = true
+allow-indexing-slicing-in-tests = true
+allow-panic-in-tests = true
+
+# Names in prose, not code.
+doc-valid-idents = ["TigerStyle", "TigerBeetle", "ScaleBio", "PacBio", "HiFi", ".."]

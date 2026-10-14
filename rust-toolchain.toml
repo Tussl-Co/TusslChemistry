@@ -1,0 +1,8 @@
+# Copyright 2026 Tussl Ltd
+# SPDX-License-Identifier: Apache-2.0
+
+# The toolchain every gate, oracle and release build ran on, so a build months later is the same
+# code generation (Cargo.toml's rust-version is the oldest that compiles it).
+[toolchain]
+channel = "1.96.1"
+components = ["clippy", "rustfmt"]

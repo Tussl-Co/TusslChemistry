@@ -1,0 +1,6 @@
+# Runs put through tchem in the wild sweep before this catalogue was drawn (9 Oct
+# 2026); their studies are never held out (bench/heldout/scripts/catalogue.py).
+run	study	what
+ERR10146537	PRJEB55757	run through tchem in the wild sweep (bench data root wild/results.tsv) or validate.sh
+ERR10146539	PRJEB55757	run through tchem in the wild sweep (bench data root wild/results.tsv) or validate.sh
+ERR10146550	PRJEB55757	run through tchem in the wild sweep (bench data root wild/results.tsv) or validate.sh

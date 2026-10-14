@@ -1,0 +1,13 @@
+# Rule 7 (bench/VALIDATION.md, step 7): held-out runs used to change the code are design data from
+# then on, and their studies leave the held-out set (rule 2). Read by bench/coverage/scripts/sources.py.
+run	study	date	why
+ERR16932653	PRJEB110934	2026-10-09	HIGH BD at 8deef59, LOW SeekGene DD 3' at c157518: a constant tag-library read vouched the SeekGene list; SRR28702390 was read with --all; the list-diversity rule followed
+SRR28700120	PRJNA1100565	2026-10-09	HIGH BD at 8deef59, LOW SeekGene DD 3' at c157518: a constant tag-library read vouched the SeekGene list; SRR28702390 was read with --all; the list-diversity rule followed
+SRR28702390	PRJNA1100490	2026-10-09	HIGH BD at 8deef59, LOW SeekGene DD 3' at c157518: a constant tag-library read vouched the SeekGene list; SRR28702390 was read with --all; the list-diversity rule followed
+SRR28702391	PRJNA1100490	2026-10-09	HIGH BD at 8deef59, LOW SeekGene DD 3' at c157518: a constant tag-library read vouched the SeekGene list; SRR28702390 was read with --all; the list-diversity rule followed
+SRR29152067	PRJNA1115717	2026-10-09	HIGH BD at 8deef59, LOW SeekGene DD 3' at c157518: a constant tag-library read vouched the SeekGene list; SRR28702390 was read with --all; the list-diversity rule followed
+SRR30296201	PRJNA1149742	2026-10-09	HIGH BD at 8deef59, LOW SeekGene DD 3' at c157518: a constant tag-library read vouched the SeekGene list; SRR28702390 was read with --all; the list-diversity rule followed
+SRR32868200	PRJNA1242283	2026-10-09	HIGH BD at 8deef59, LOW SeekGene DD 3' at c157518: a constant tag-library read vouched the SeekGene list; SRR28702390 was read with --all; the list-diversity rule followed
+SRR34142094	PRJNA1281535	2026-10-09	HIGH BD at 8deef59, LOW SeekGene DD 3' at c157518: a constant tag-library read vouched the SeekGene list; SRR28702390 was read with --all; the list-diversity rule followed
+SRR38804271	PRJNA1469556	2026-10-09	HIGH BD at 8deef59, LOW SeekGene DD 3' at c157518: a constant tag-library read vouched the SeekGene list; SRR28702390 was read with --all; the list-diversity rule followed
+SRR28829166	PRJNA1105904	2026-10-12	no match (Parse on Nanopore, given as two files) in a user test of the master of 12 Oct: it showed that two files of long reads went to the short-read detector; src/lib.rs now sends them to the long-read detector

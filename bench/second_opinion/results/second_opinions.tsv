@@ -1,0 +1,1000 @@
+source	run	study	species	label	call	heads	sanger_id	sanger_error	strand_sense	strand_anti	strand_end
+flex	SRR28401021	PRJNA1090137	Homo sapiens	10x Flex v1	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09585	0.02606	3'
+flex	SRR31350080	PRJNA1183379	Mus musculus	10x Flex v1	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00973	0.00480	
+flex	SRR31350081	PRJNA1183379	Mus musculus	10x Flex v1	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00899	0.00512	
+flex	SRR30693050	PRJNA1162108	Homo sapiens	10x Flex v1	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+flex	SRR30693051	PRJNA1162108	Homo sapiens	10x Flex v1	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02452	0.00823	
+flex	SRR34444196	PRJNA1289087	Mus musculus	10x Flex v1	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01081	0.00426	
+flex	SRR34444197	PRJNA1289087	Mus musculus	10x Flex v1	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01593	0.00429	3'
+flex	ERR15157656	PRJEB91037	Homo sapiens	10x Flex v1	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02670	0.04759	
+flex	ERR15157657	PRJEB91037	Homo sapiens	10x Flex v1	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03372	0.05917	
+flex	SRR34108040	PRJNA1203896	Mus musculus	10x Flex v1	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02864	0.00367	3'
+flex	SRR36104463	PRJNA1366488	Homo sapiens	10x Flex v1	10x Multiome GEX	True	10x_multiome_arc_gex		0.02668	0.04707	
+flex	SRR36104464	PRJNA1366488	Homo sapiens	10x Flex v1	10x Multiome GEX	True	10x_multiome_arc_gex		0.02796	0.04269	
+flex	SRR36804933	PRJNA1402258	Homo sapiens	10x Flex v1	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06685	0.05221	
+flex	SRR36804934	PRJNA1402258	Homo sapiens	10x Flex v1	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06720	0.05444	
+flex	SRR34266458	PRJNA1283071	Mus musculus		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00207	5'
+flex	SRR34266459	PRJNA1283071	Mus musculus		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00212	5'
+flex	SRR34531897	PRJNA1291219	Mus musculus		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00265	5'
+flex	SRR34531898	PRJNA1291219	Mus musculus		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00281	5'
+flex	SRR34871707	PRJNA1301792	Mus musculus		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00523	5'
+flex	SRR34871708	PRJNA1301792	Mus musculus		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00459	5'
+flex	SRR35407255	PRJNA1328742	Mus musculus		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00211	5'
+flex	SRR35407256	PRJNA1328742	Mus musculus		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00230	5'
+flex	SRR35408642	PRJNA1328797	Mus musculus		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00395	5'
+flex	SRR35408622	PRJNA1328801	Mus musculus		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00303	5'
+flex	SRR35636406	PRJNA1335212			10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+flex	SRR35636407	PRJNA1335212			10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+flex	SRR36272097	PRJNA1372671			10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+flex	SRR36272098	PRJNA1372671			10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+flex	SRR33692071	PRJNA1265500			10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+flex	SRR33692072	PRJNA1265500			10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+flex	SRR36513309	PRJNA1390830	Homo sapiens		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00403	5'
+flex	SRR38313361	PRJNA1459226	Mus musculus		10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+flex	SRR38313362	PRJNA1459226	Mus musculus		10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+flex	ERR15368634	PRJEB94946	Homo sapiens		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00002	0.00263	5'
+flex	ERR15368635	PRJEB94946	Homo sapiens		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00003	0.00242	5'
+flex	SRR37192257	PRJNA1185647			10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+flex	SRR37192258	PRJNA1185647			10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+flex	SRR39155892	PRJNA1478675	Mus musculus		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00039	
+flex	SRR39155893	PRJNA1478675	Mus musculus		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00038	
+flex	SRR39260647	PRJNA1480691	Homo sapiens		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00000	
+flex	SRR39260648	PRJNA1480691	Homo sapiens		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00000	
+flex	SRR39616781	PRJNA1494943	Homo sapiens		10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00001	0.00026	
+flex	SRR40150001	PRJNA1512366			10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+flex	SRR40150002	PRJNA1512366			10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+flex	SRR39996226	PRJNA1507184	Mus musculus		10x 3' v3/v3.1	True		SRR39996226_R2.fq.gz: biological read has variable read lengths {90: 125500, 87: 5355, 89: 52047, 88	0.11385	0.00242	3'
+flex	SRR39996227	PRJNA1507184	Mus musculus		10x 3' v3/v3.1	True		SRR39996227_R2.fq.gz: biological read has variable read lengths {90: 125536, 89: 51907, 88: 15784, 8	0.10957	0.00241	3'
+flex	SRR36426719	PRJNA1380397			10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+flex	SRR36426720	PRJNA1380397			10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+bd	SRR17171645	PRJNA787272	Mus musculus	BD Rhapsody (original V1 beads) | BD Rhapsody (Enhanced Beads) | BD Rhapsody (Enhanced V2/V3 beads)	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.06958	0.00505	3'
+bd	SRR27500596	PRJNA1063697		BD Rhapsody (original V1 beads) | BD Rhapsody (Enhanced Beads) | BD Rhapsody (Enhanced V2/V3 beads)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2				
+bd	SRR27500597	PRJNA1063697		BD Rhapsody (original V1 beads) | BD Rhapsody (Enhanced Beads) | BD Rhapsody (Enhanced V2/V3 beads)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2				
+bd	ERR15096938	PRJEB90159	Homo sapiens	BD Rhapsody (original V1 beads)	BD Rhapsody (Enhanced V2/V3 beads)	True		No file matched a known 10x whitelist with expected read geometry	0.02137	0.00488	3'
+bd	ERR15096939	PRJEB90159	Homo sapiens	BD Rhapsody (original V1 beads)	BD Rhapsody (Enhanced V2/V3 beads)	True		No file matched a known 10x whitelist with expected read geometry	0.02896	0.00647	3'
+bd	SRR35618484	PRJNA1334314		BD Rhapsody (original V1 beads) | BD Rhapsody (Enhanced Beads) | BD Rhapsody (Enhanced V2/V3 beads)	10x 3' v3/v3.1	True	10x_3p_v3_family				
+bd	SRR36055142	PRJNA1365156		BD Rhapsody (original V1 beads)	BD Rhapsody (Enhanced V2/V3 beads)	True		No file matched a known 10x whitelist with expected read geometry			
+bd	SRR36055143	PRJNA1365156		BD Rhapsody (original V1 beads)	BD Rhapsody (Enhanced V2/V3 beads)	True		No file matched a known 10x whitelist with expected read geometry			
+bd	DRR983898	PRJDB39562	Mus musculus	BD Rhapsody (original V1 beads) | BD Rhapsody (Enhanced Beads) | BD Rhapsody (Enhanced V2/V3 beads)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10570	0.00313	3'
+bd	DRR983899	PRJDB39562	Mus musculus	BD Rhapsody (original V1 beads) | BD Rhapsody (Enhanced Beads) | BD Rhapsody (Enhanced V2/V3 beads)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10191	0.00329	3'
+mgi	SRR32457043	PRJNA1227140	Equus asinus	MGI DNBelab C4 / C-series HT	10x 3' v3/v3.1	True	10x_3p_v3_family				
+mgi	SRR32457045	PRJNA1227140	Equus asinus	MGI DNBelab C4 / C-series HT	10x 3' v3/v3.1	True	10x_3p_v3_family				
+parse	SRR33790034	PRJNA1271001		Parse Evercode WT | Parse Evercode WT v3	10x 3' v3/v3.1	True	10x_3p_v3_family				
+parse	SRR33790035	PRJNA1271001		Parse Evercode WT | Parse Evercode WT v3	10x 3' v3/v3.1	True	10x_3p_v3_family				
+pipseq	SRR36326231	PRJNA1375676		Illumina Single Cell 3' / PIPseq v3-v4	Illumina Single Cell 3' RNA Prep / PIPseq V	True		No file matched a known 10x whitelist with expected read geometry			
+pipseq	SRR36326232	PRJNA1375676		Illumina Single Cell 3' / PIPseq v3-v4	Illumina Single Cell 3' RNA Prep / PIPseq V	True		No file matched a known 10x whitelist with expected read geometry			
+singleron	SRR31441581	PRJNA1189442	Mus musculus	Singleron GEXSCOPE V1 | Singleron GEXSCOPE V2 | Singleron GEXSCOPE V3	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05510	0.00813	3'
+singleron	SRR31441582	PRJNA1189442	Mus musculus	Singleron GEXSCOPE V1 | Singleron GEXSCOPE V2 | Singleron GEXSCOPE V3	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05577	0.00832	3'
+seekgene	SRR32868472	PRJNA1242336	Mus musculus		SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry	0.09791	0.00420	3'
+seekgene	SRR32868473	PRJNA1242336	Mus musculus		SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry	0.09676	0.00430	3'
+seekgene	SRR26849506	PRJNA1041312	Mus musculus		SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry	0.05428	0.03811	
+seekgene	SRR26849507	PRJNA1041312	Mus musculus		SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry	0.05589	0.03923	
+seekgene	SRR29228443	PRJNA1117954	Mus musculus		SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry	0.04083	0.00666	3'
+seekgene	SRR29228444	PRJNA1117954	Mus musculus		SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry	0.03373	0.00346	3'
+seekgene	SRR35668201	PRJNA1336120	Mus musculus		SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry	0.06161	0.00441	3'
+seekgene	SRR35668202	PRJNA1336120	Mus musculus		SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry	0.06443	0.00523	3'
+seekgene	SRR36226025	PRJNA1370888	Mus musculus		10x 3' v3/v3.1	True	10x_3p_v3_family		0.07590	0.00299	3'
+seekgene	SRR36226026	PRJNA1370888	Mus musculus		10x 3' v3/v3.1	True	10x_3p_v3_family		0.07352	0.00349	3'
+tenx_lab	SRR21201140	PRJNA873684	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04517	0.01004	3'
+tenx_lab	SRR21201150	PRJNA873684	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05076	0.01038	3'
+tenx_lab	SRR21777502	PRJNA886085	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07033	0.01586	3'
+tenx_lab	SRR21777503	PRJNA886085	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07111	0.01658	3'
+tenx_lab	SRR22096443	PRJNA895710	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06457	0.01620	3'
+tenx_lab	SRR23648813	PRJNA939719	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04821	0.01791	
+tenx_lab	SRR24681953	PRJNA974847	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05304	0.02866	
+tenx_lab	SRR22235218	PRJNA899548	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08935	0.03546	
+tenx_lab	SRR22235219	PRJNA899548	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08977	0.03592	
+tenx_lab	SRR25030499	PRJNA987618	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03720	0.01052	3'
+tenx_lab	SRR25474741	PRJNA1000909	Homo sapiens	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00174	0.10353	5'
+tenx_lab	SRR23230529	PRJNA927330	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09290	0.00478	3'
+tenx_lab	SRR28198727	PRJNA1082742	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03957	0.03057	
+tenx_lab	SRR28198728	PRJNA1082742	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03959	0.03010	
+tenx_lab	SRR28196890	PRJNA1082689	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09941	0.03872	
+tenx_lab	SRR28538217	PRJNA1095818	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08811	0.00633	3'
+tenx_lab	SRR29927666	PRJNA1082689	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10119	0.03947	
+tenx_lab	SRR22845685	PRJNA914686	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05989	0.01462	3'
+tenx_lab	SRR22845686	PRJNA914686	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06099	0.01499	3'
+tenx_lab	SRR22870157	PRJNA915073	Homo sapiens	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00254	0.03772	5'
+tenx_lab	SRR28810728	PRJNA1104745	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04146	0.02917	
+tenx_lab	SRR29454072	PRJNA1125368	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06574	0.00916	3'
+tenx_lab	SRR29454073	PRJNA1125368	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06574	0.00908	3'
+tenx_lab	SRR27442853	PRJNA1061642	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05528	0.00536	3'
+tenx_lab	SRR27442854	PRJNA1061642	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05431	0.00525	3'
+tenx_lab	SRR28810727	PRJNA1104745	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04916	0.02724	
+tenx_lab	SRR29820162	PRJNA1135481	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05808	0.03870	
+tenx_lab	SRR29820164	PRJNA1135481	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06322	0.04502	
+tenx_lab	SRR30575000	PRJNA1157844	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08070	0.02043	3'
+tenx_lab	SRR30575002	PRJNA1157844	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07140	0.02130	3'
+tenx_lab	SRR29754944	PRJNA1133674	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04766	0.02444	
+tenx_lab	SRR29754945	PRJNA1133674	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04614	0.02280	
+tenx_lab	SRR29914405	PRJNA1138692	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08780	0.01727	3'
+tenx_lab	SRR29914406	PRJNA1138692	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08970	0.01991	3'
+tenx_lab	SRR30015431	PRJNA1141154	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01379	0.02188	
+tenx_lab	SRR30015432	PRJNA1141154	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True		No file matched a known 10x whitelist with expected read geometry	0.01429	0.02356	
+tenx_lab	SRR30213394	PRJNA1147216	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05646	0.02398	
+tenx_lab	SRR30213395	PRJNA1147216	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05705	0.02241	
+tenx_lab	SRR22696367	PRJNA911302	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04382	0.01723	
+tenx_lab	SRR31958402	PRJNA1209070	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10195	0.02849	3'
+tenx_lab	SRR32190120	PRJNA1217853	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02941	0.00789	3'
+tenx_lab	SRR32190121	PRJNA1217853	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02963	0.00939	3'
+tenx_lab	SRR33852055	PRJNA1272602	Homo sapiens	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00305	0.04729	5'
+tenx_lab	SRR33852056	PRJNA1272602	Homo sapiens	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00316	0.04828	5'
+tenx_lab	SRR11596786	PRJNA627656	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.05221	0.01012	3'
+tenx_lab	SRR12588731	PRJNA661452	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.11502	0.02660	3'
+tenx_lab	SRR12588732	PRJNA661452	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.10997	0.02771	3'
+tenx_lab	SRR13633754	PRJNA699542	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.06789	0.02149	3'
+tenx_lab	SRR13633755	PRJNA699542	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.07255	0.03150	
+tenx_lab	SRR15425753	PRJNA754136	Homo sapiens	10x 3' v3/v3.1	10x Multiome GEX	True	10x_multiome_arc_gex		0.06198	0.01945	3'
+tenx_lab	SRR20277813	PRJNA859437	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00421	0.11439	5'
+tenx_lab	SRR20277814	PRJNA859437	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00387	0.11517	5'
+tenx_lab	SRR23278637	PRJNA929553	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00226	0.07446	5'
+tenx_lab	SRR12526219	PRJNA659558	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.10727	0.00769	3'
+tenx_lab	SRR12526220	PRJNA659558	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.14449	0.00882	3'
+tenx_lab	SRR24541977	PRJNA972288	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.00033	0.00155	
+tenx_lab	SRR27129507	PRJNA1049768	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00307	0.06667	5'
+tenx_lab	SRR27129508	PRJNA1049768	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00296	0.06669	5'
+tenx_lab	SRR26994126	PRJNA1047004	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00349	0.09874	5'
+tenx_lab	SRR29487834	PRJNA1126626		10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_lab	SRR29487835	PRJNA1126626		10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_lab	SRR32621889	PRJNA1233630		10x 3' v3/v3.1	10x 5' v3 (GEM-X)	True	10x_5p_v3_gemx				
+tenx_lab	SRR33834333	PRJNA1271999	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.07280	0.01200	3'
+tenx_lab	SRR33834334	PRJNA1271999	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.07273	0.01096	3'
+tenx_lab	SRR33316953	PRJNA1255557	Homo sapiens	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00124	0.00684	5'
+tenx_lab	SRR33316954	PRJNA1255557	Homo sapiens	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00001	0.00003	
+tenx_lab	SRR23931540	PRJNA947155	Homo sapiens	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00338	0.05909	5'
+tenx_lab	SRR27674066	PRJNA1067353	Homo sapiens	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00161	0.00200	
+tenx_lab	SRR27674067	PRJNA1067353	Homo sapiens	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00187	0.00190	
+tenx_lab	ERR11580783	PRJEB63326	Homo sapiens	10x Multiome GEX	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.07549	0.00899	3'
+tenx_lab	ERR11580814	PRJEB63326	Homo sapiens	10x Multiome GEX	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.00000	0.00000	
+tenx_ena	SRR10741188	PRJNA596675	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00000	0.00000	
+tenx_ena	SRR11802121	PRJNA633281	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10984	0.01534	3'
+tenx_ena	SRR11802122	PRJNA633281	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05081	0.01542	3'
+tenx_ena	SRR12604355	PRJNA662082	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09921	0.00460	3'
+tenx_ena	SRR12604356	PRJNA662082	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09194	0.00443	3'
+tenx_ena	SRR12820281	PRJNA669050	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04186	0.01905	
+tenx_ena	SRR12820282	PRJNA669050	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04293	0.01773	
+tenx_ena	SRR13125391	PRJNA680505	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.12614	0.00234	3'
+tenx_ena	SRR13125392	PRJNA680505	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.12539	0.00260	3'
+tenx_ena	SRR13506170	PRJNA694049	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02629	0.00623	3'
+tenx_ena	SRR13506171	PRJNA694049	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02573	0.00442	3'
+tenx_ena	SRR12525880	PRJNA659543	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06716	0.00664	3'
+tenx_ena	SRR12525881	PRJNA659543	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06552	0.00612	3'
+tenx_ena	SRR13324039	PRJNA688465	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06326	0.02673	
+tenx_ena	SRR13324040	PRJNA688465	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06408	0.02778	
+tenx_ena	SRR14851107	PRJNA738692	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03412	0.00220	3'
+tenx_ena	SRR14851108	PRJNA738692	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03495	0.00317	3'
+tenx_ena	SRR14008818	PRJNA715715	Macaca mulatta	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR14008819	PRJNA715715	Macaca mulatta	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR15102750	PRJNA668812	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06704	0.01459	3'
+tenx_ena	SRR15102751	PRJNA668812	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06663	0.01426	3'
+tenx_ena	SRR17761216	PRJNA800646	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07547	0.00436	3'
+tenx_ena	SRR17761217	PRJNA800646	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07645	0.00487	3'
+tenx_ena	SRR20352862	PRJNA860965	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04199	0.00859	3'
+tenx_ena	SRR20352863	PRJNA860965	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04228	0.00945	3'
+tenx_ena	SRR21831555	PRJNA887779	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05135	0.00252	3'
+tenx_ena	SRR21831556	PRJNA887779	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06794	0.00193	3'
+tenx_ena	SRR21351994	PRJNA875100	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01308	0.00738	
+tenx_ena	SRR21351996	PRJNA875100	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01214	0.00733	
+tenx_ena	SRR22221998	PRJNA899102	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04700	0.00781	3'
+tenx_ena	SRR22221999	PRJNA899102	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04708	0.00734	3'
+tenx_ena	SRR22220880	PRJNA899079	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00896	0.00004	3'
+tenx_ena	SRR22220881	PRJNA899079	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00960	0.00004	3'
+tenx_ena	SRR21226571	PRJNA872112	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.12227	0.03419	3'
+tenx_ena	SRR21226572	PRJNA872112	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04924	0.03914	
+tenx_ena	SRR13493667	PRJNA693620	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05926	0.00535	3'
+tenx_ena	SRR13493668	PRJNA693620	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06167	0.00513	3'
+tenx_ena	SRR19626875	PRJNA847992	Mus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR19626876	PRJNA847992	Mus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR21397810	PRJNA876121	Homo sapiens	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00043	0.00055	
+tenx_ena	SRR21536815	PRJNA879735	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08318	0.00552	3'
+tenx_ena	SRR21536816	PRJNA879735	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08483	0.00245	3'
+tenx_ena	SRR23185773	PRJNA926342	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08481	0.00342	3'
+tenx_ena	SRR23185774	PRJNA926342	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08706	0.00376	3'
+tenx_ena	SRR18653957	PRJNA823929	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06456	0.03559	
+tenx_ena	SRR18653958	PRJNA823929	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06400	0.03565	
+tenx_ena	SRR15216331	PRJNA749013	Macaca fascicularis	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR15216332	PRJNA749013	Macaca fascicularis	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	ERR10162487	PRJEB55841	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00754	0.00416	
+tenx_ena	ERR10162488	PRJEB55841	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00702	0.00392	
+tenx_ena	SRR22734147	PRJNA912163	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06327	0.00471	3'
+tenx_ena	SRR22734148	PRJNA912163	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04267	0.00466	3'
+tenx_ena	SRR23052428	PRJNA922998	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02521	0.01824	
+tenx_ena	SRR23052429	PRJNA922998	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02674	0.01933	
+tenx_ena	SRR23291403	PRJNA930010	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05342	0.00341	3'
+tenx_ena	SRR23291404	PRJNA930010	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05464	0.00324	3'
+tenx_ena	SRR23892003	PRJNA945873	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00152	0.07866	5'
+tenx_ena	SRR22926474	PRJNA916694	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.13094	0.00402	3'
+tenx_ena	SRR19227108	PRJNA838620	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07705	0.00704	3'
+tenx_ena	SRR19227109	PRJNA838620	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07795	0.00747	3'
+tenx_ena	SRR22926475	PRJNA916694	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.13170	0.00401	3'
+tenx_ena	SRR21091734	PRJNA870096	Danio rerio	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR21091735	PRJNA870096	Danio rerio	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR24786990	PRJNA978333	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05766	0.00359	3'
+tenx_ena	SRR24786991	PRJNA978333	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05639	0.00368	3'
+tenx_ena	SRR19649867	PRJNA849179	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02428	0.00190	3'
+tenx_ena	SRR19649866	PRJNA849179	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02318	0.00208	3'
+tenx_ena	SRR14865991	PRJNA739372	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03154	0.00470	3'
+tenx_ena	SRR25180728	PRJNA991992	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10710	0.02398	3'
+tenx_ena	SRR25180729	PRJNA991992	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08732	0.02443	3'
+tenx_ena	SRR14865990	PRJNA739372	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03135	0.00484	3'
+tenx_ena	SRR18516565	PRJNA821073	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04347	0.00412	3'
+tenx_ena	SRR18516566	PRJNA821073	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03689	0.00356	3'
+tenx_ena	SRR21008156	PRJNA868377	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.11178	0.02546	3'
+tenx_ena	SRR21008157	PRJNA868377	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.11277	0.02657	3'
+tenx_ena	SRR25083462	PRJNA989533	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05707	0.00276	3'
+tenx_ena	SRR25083463	PRJNA989533	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05675	0.00267	3'
+tenx_ena	SRR25777540	PRJNA1009432	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10941	0.01505	3'
+tenx_ena	SRR25777541	PRJNA1009432	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08706	0.02469	3'
+tenx_ena	SRR21427351	PRJNA877013	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05842	0.00371	3'
+tenx_ena	SRR21427352	PRJNA877013	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05908	0.00375	3'
+tenx_ena	SRR22592450	PRJNA910551	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06695	0.00183	3'
+tenx_ena	SRR22592453	PRJNA910551	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06260	0.00203	3'
+tenx_ena	SRR19159949	PRJNA836956	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06676	0.00366	3'
+tenx_ena	SRR19159950	PRJNA836956	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04136	0.00324	3'
+tenx_ena	SRR19920174	PRJNA854918	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+tenx_ena	SRR19920175	PRJNA854918	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09919	0.00237	3'
+tenx_ena	SRR15896689	PRJNA763195	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05273	0.00171	3'
+tenx_ena	SRR22566333	PRJNA909789	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09496	0.00236	3'
+tenx_ena	SRR24461589	PRJNA968167	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.12036	0.00261	3'
+tenx_ena	SRR24461590	PRJNA968167	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.12287	0.00256	3'
+tenx_ena	SRR23262643	PRJNA929058	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09316	0.00746	3'
+tenx_ena	SRR23262644	PRJNA929058	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09454	0.00667	3'
+tenx_ena	SRR25424870	PRJNA998714	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04031	0.05957	
+tenx_ena	SRR25424871	PRJNA998714	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04234	0.05315	
+tenx_ena	SRR27497783	PRJNA1063625	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04293	0.00991	3'
+tenx_ena	SRR27497784	PRJNA1063625	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04268	0.01008	3'
+tenx_ena	SRR26866006	PRJNA1041864	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03299	0.00412	3'
+tenx_ena	SRR26866007	PRJNA1041864	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03294	0.00385	3'
+tenx_ena	SRR27780921	PRJNA1071002	Oryctolagus cuniculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR27780922	PRJNA1071002	Oryctolagus cuniculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR19887916	PRJNA853761	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10129	0.00106	3'
+tenx_ena	SRR19887917	PRJNA853761	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10603	0.00107	3'
+tenx_ena	SRR25501380	PRJNA1001664	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+tenx_ena	SRR25501381	PRJNA1001664	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+tenx_ena	SRR25649540	PRJNA1005683	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.11984	0.00123	3'
+tenx_ena	SRR25649541	PRJNA1005683	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.12024	0.00116	3'
+tenx_ena	SRR27117524	PRJNA1049438	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08253	0.00770	3'
+tenx_ena	SRR27117525	PRJNA1049438	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07872	0.00505	3'
+tenx_ena	SRR27788839	PRJNA1071130	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08082	0.00796	3'
+tenx_ena	SRR27788840	PRJNA1071130	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04966	0.00640	3'
+tenx_ena	SRR23919775	PRJNA946665	Danio rerio	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR23919776	PRJNA946665	Danio rerio	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR23955929	PRJNA948387	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06488	0.00972	3'
+tenx_ena	SRR23955930	PRJNA948387	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06011	0.01084	3'
+tenx_ena	SRR24295158	PRJNA961151	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01925	0.01598	
+tenx_ena	SRR24295159	PRJNA961151	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02153	0.01711	
+tenx_ena	SRR28027045	PRJNA1078417	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03866	0.00246	3'
+tenx_ena	SRR28902621	PRJNA1107954	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04368	0.00803	3'
+tenx_ena	SRR28902622	PRJNA1107954	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04247	0.00899	3'
+tenx_ena	SRR28027044	PRJNA1078417	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04341	0.00281	3'
+tenx_ena	SRR22383261	PRJNA904358	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05267	0.00819	3'
+tenx_ena	SRR22383262	PRJNA904358	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06210	0.00423	3'
+tenx_ena	SRR28610488	PRJNA1097480	Mus musculus	10x 3' v2	SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry	0.00796	0.00100	3'
+tenx_ena	SRR28867670	PRJNA1106828	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04003	0.00588	3'
+tenx_ena	SRR28867671	PRJNA1106828	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04047	0.00550	3'
+tenx_ena	SRR29198181	PRJNA1117063	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03856	0.00120	3'
+tenx_ena	SRR29198182	PRJNA1117063	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05026	0.00154	3'
+tenx_ena	SRR30009030	PRJNA1140648	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03909	0.01243	3'
+tenx_ena	SRR30009031	PRJNA1140648	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03962	0.01256	3'
+tenx_ena	SRR23373695	PRJNA932789	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08203	0.00564	3'
+tenx_ena	SRR23373696	PRJNA932789	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08341	0.00567	3'
+tenx_ena	SRR30416967	PRJNA1152976	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02997	0.00189	3'
+tenx_ena	SRR30416968	PRJNA1152976	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02639	0.00199	3'
+tenx_ena	SRR30586038	PRJNA1157901	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.14500	0.00570	3'
+tenx_ena	SRR30586039	PRJNA1157901	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.13793	0.00765	3'
+tenx_ena	SRR27907720	PRJNA1074408	Danio rerio	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR27907721	PRJNA1074408	Danio rerio	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR25528713	PRJNA1002338	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.12003	0.00265	3'
+tenx_ena	SRR25528714	PRJNA1002338	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.12067	0.00267	3'
+tenx_ena	SRR31047453	PRJNA1175026	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02475	0.00178	3'
+tenx_ena	SRR31047454	PRJNA1175026	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02434	0.00207	3'
+tenx_ena	SRR30872956	PRJNA1168495	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08380	0.00291	3'
+tenx_ena	SRR30872957	PRJNA1168495	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08442	0.00270	3'
+tenx_ena	SRR28906836	PRJNA1108219	Schmidtea mediterranea	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR28906837	PRJNA1108219	Schmidtea mediterranea	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR26952600	PRJNA1045531	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06367	0.00263	3'
+tenx_ena	SRR26952601	PRJNA1045531	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06349	0.00186	3'
+tenx_ena	SRR23881512	PRJNA945453	Tupaia belangeri	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31555067	PRJNA1192283	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05151	0.00284	3'
+tenx_ena	SRR31555068	PRJNA1192283	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05244	0.00350	3'
+tenx_ena	SRR23829568	PRJNA944146	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05100	0.03171	
+tenx_ena	SRR28516452	PRJNA1094929		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR28516453	PRJNA1094929		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR22560516	PRJNA909593	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09226	0.05570	
+tenx_ena	SRR22560517	PRJNA909593	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09064	0.05875	
+tenx_ena	SRR23881513	PRJNA945453	Tupaia belangeri	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR28471139	PRJNA1092595	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+tenx_ena	SRR28471140	PRJNA1092595	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+tenx_ena	SRR19848227	PRJNA852604		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR19848228	PRJNA852604	Macaca mulatta	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR24446528	PRJNA967696		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR24446529	PRJNA967696	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04836	0.00383	3'
+tenx_ena	SRR26841267	PRJNA1040812	Mus musculus	10x 3' v2	Singleron GEXSCOPE V2	True		No file matched a known 10x whitelist with expected read geometry	0.10527	0.00291	3'
+tenx_ena	SRR26841268	PRJNA1040812	Mus musculus	10x 3' v2	Singleron GEXSCOPE V2	True		No file matched a known 10x whitelist with expected read geometry	0.10412	0.00280	3'
+tenx_ena	SRR32229515	PRJNA1219181	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08547	0.00530	3'
+tenx_ena	SRR32229516	PRJNA1219181	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08811	0.00367	3'
+tenx_ena	SRR32230503	PRJNA1219193	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06227	0.00376	3'
+tenx_ena	SRR32230504	PRJNA1219193	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06176	0.00335	3'
+tenx_ena	SRR23615064	PRJNA938496	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05779	0.00266	3'
+tenx_ena	SRR23615065	PRJNA938496	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07823	0.00235	3'
+tenx_ena	SRR27674005	PRJNA1067337	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04509	0.01182	3'
+tenx_ena	SRR27674006	PRJNA1067337	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04009	0.01331	3'
+tenx_ena	SRR30057330	PRJNA1142510	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00000	0.00000	
+tenx_ena	SRR24084551	PRJNA952622	Tupaia belangeri	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR24084552	PRJNA952622	Tupaia belangeri	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR23700992	PRJNA940995	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00094	0.06077	5'
+tenx_ena	SRR23700993	PRJNA940995	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00089	0.06138	5'
+tenx_ena	SRR32590675	PRJNA1232670	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00117	0.04679	5'
+tenx_ena	SRR32590676	PRJNA1232670	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00180	0.06146	5'
+tenx_ena	SRR30057329	PRJNA1142510	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00150	0.05266	5'
+tenx_ena	SRR31942388	PRJNA1208507	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07541	0.00232	3'
+tenx_ena	SRR30247720	PRJNA1147257	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True		SRR30247720_R2.fq.gz: biological read has variable read lengths {89: 49688, 90: 129276, 87: 4736, 88	0.06917	0.00128	3'
+tenx_ena	SRR30247721	PRJNA1147257	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True		SRR30247721_R2.fq.gz: biological read has variable read lengths {88: 14744, 90: 129196, 89: 49767, 8	0.06790	0.00174	3'
+tenx_ena	SRR31266136	PRJNA1183301	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00024	0.00258	5'
+tenx_ena	SRR31266138	PRJNA1183301	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00008	0.00127	
+tenx_ena	SRR33291371	PRJNA1254606	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02885	0.00544	3'
+tenx_ena	SRR33291372	PRJNA1254606	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04022	0.00786	3'
+tenx_ena	SRR31145943	PRJNA1179314	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00667	0.00515	
+tenx_ena	SRR31145944	PRJNA1179314	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00622	0.00432	
+tenx_ena	SRR33999253	PRJNA1277120	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06749	0.00565	3'
+tenx_ena	SRR33999254	PRJNA1277120	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07681	0.00584	3'
+tenx_ena	SRR34344686	PRJNA1285394	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06130	0.00688	3'
+tenx_ena	SRR34344687	PRJNA1285394	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06119	0.00734	3'
+tenx_ena	SRR30857558	PRJNA1167743	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04567	0.00445	3'
+tenx_ena	SRR30857559	PRJNA1167743	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03672	0.00536	3'
+tenx_ena	SRR34947958	PRJNA1304554	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01559	0.01188	
+tenx_ena	SRR34947959	PRJNA1304554	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01556	0.01206	
+tenx_ena	SRR26400218	PRJNA1028612	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09861	0.00527	3'
+tenx_ena	SRR26400219	PRJNA1028612	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09776	0.00568	3'
+tenx_ena	SRR35224521	PRJNA1314165	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01928	0.01127	
+tenx_ena	SRR35224522	PRJNA1314165	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02327	0.01350	
+tenx_ena	DRR762145	PRJDB36216	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05950	0.00691	3'
+tenx_ena	DRR762146	PRJDB36216	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05955	0.00683	3'
+tenx_ena	SRR33009477	PRJNA1247446	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05861	0.01319	3'
+tenx_ena	SRR33009478	PRJNA1247446	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05777	0.01303	3'
+tenx_ena	SRR31896238	PRJNA1206712	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03429	0.00317	3'
+tenx_ena	SRR31896239	PRJNA1206712	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03447	0.00330	3'
+tenx_ena	SRR24899349	PRJNA982789	Homo sapiens	10x 3' v2	Singleron GEXSCOPE V1	True		No file matched a known 10x whitelist with expected read geometry	0.05590	0.01034	3'
+tenx_ena	SRR24899350	PRJNA982789	Homo sapiens	10x 3' v2	Singleron GEXSCOPE V2	True		No file matched a known 10x whitelist with expected read geometry	0.04614	0.00253	3'
+tenx_ena	ERR13916285	PRJEB81952	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04326	0.00466	3'
+tenx_ena	SRR36563527	PRJNA1392546	Clostridium perfringens	10x 3' v2	10x 3' v3/v3.1	True		SRR36563527_R2.fq.gz: biological read has variable read lengths {80: 2010, 28: 29195, 78: 66, 29: 17			
+tenx_ena	SRR36563528	PRJNA1392546	Clostridium perfringens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR32132815	PRJNA1215984		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR32132816	PRJNA1215984		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31153738	PRJNA1179494		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31153740	PRJNA1179494		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR34494944	PRJNA1290320		10x 3' v2	10x 3' v3/v3.1	True		No file matched a known 10x whitelist with expected read geometry			
+tenx_ena	SRR34494945	PRJNA1290320		10x 3' v2	10x 3' v3/v3.1	True		No file matched a known 10x whitelist with expected read geometry			
+tenx_ena	SRR37236099	PRJNA1423731	Macaca fascicularis	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR37236100	PRJNA1423731	Macaca fascicularis	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR37885938	PRJNA1446710	Homo sapiens	10x 3' v2	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.05268	0.00897	3'
+tenx_ena	SRR37885939	PRJNA1446710	Homo sapiens	10x 3' v2	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.04230	0.01003	3'
+tenx_ena	SRR25439164	PRJNA999297	Sus scrofa	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR25439165	PRJNA999297	Sus scrofa	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR28453794	PRJNA1091658	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00005	0.00000	
+tenx_ena	SRR28453795	PRJNA1091658	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00009	0.00003	
+tenx_ena	SRR40392517	PRJNA1520123	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01327	0.00837	
+tenx_ena	SRR40392518	PRJNA1520123	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01303	0.00843	
+tenx_ena	SRR10317223	PRJNA556226	Drosophila melanogaster	10x 3' v3/v3.1	10x 3' v2	True		SRR10317223_R2.fq.gz: biological read has variable read lengths {91: 124423, 90: 57469, 89: 13166, 8			
+tenx_ena	SRR10317224	PRJNA556226	Drosophila melanogaster	10x 3' v3/v3.1	10x 3' v2	True		SRR10317224_R2.fq.gz: biological read has variable read lengths {89: 13316, 91: 123653, 90: 58189, 8			
+tenx_ena	SRR9669980	PRJNA554015	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.05473	0.00381	3'
+tenx_ena	SRR9669981	PRJNA554015	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.05383	0.00292	3'
+tenx_ena	SRR12615659	PRJNA662503	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.08756	0.04018	
+tenx_ena	SRR12615660	PRJNA662503	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.08190	0.03290	
+tenx_ena	SRR12681886	PRJNA588620	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.08946	0.02313	3'
+tenx_ena	SRR12681887	PRJNA588620	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.08870	0.02314	3'
+tenx_ena	SRR12607397	PRJNA662313	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.01627	0.01483	
+tenx_ena	SRR12607398	PRJNA662313	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.01591	0.01145	
+tenx_ena	SRR15030327	PRJNA743317	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.12849	0.02835	3'
+tenx_ena	SRR15030328	PRJNA743317	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.12696	0.02713	3'
+tenx_ena	SRR13515215	PRJNA694306	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.09821	0.02319	3'
+tenx_ena	SRR16496110	PRJNA772954	Ovis aries	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	SRR16496111	PRJNA772954	Ovis aries	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	SRR17979071	PRJNA805298	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.07408	0.01719	3'
+tenx_ena	SRR17979072	PRJNA805298	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.07500	0.01664	3'
+tenx_ena	SRR13082352	PRJNA679322	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00227	0.09131	5'
+tenx_ena	SRR13082353	PRJNA679322	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00213	0.09975	5'
+tenx_ena	SRR21545390	PRJNA880245	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00296	0.00446	
+tenx_ena	SRR21545391	PRJNA880245	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00109	0.00126	
+tenx_ena	SRR19020979	PRJNA833855	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.10129	0.00469	3'
+tenx_ena	SRR19020980	PRJNA833855	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.10035	0.00460	3'
+tenx_ena	SRR26686579	PRJNA1036218	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.07978	0.01477	3'
+tenx_ena	SRR26686580	PRJNA1036218	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.07853	0.01394	3'
+tenx_ena	SRR24188041	PRJNA956471	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00068	0.02384	5'
+tenx_ena	SRR24188042	PRJNA956471	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00087	0.04902	5'
+tenx_ena	SRR22999012	PRJNA919013	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00212	0.03126	5'
+tenx_ena	SRR22999013	PRJNA919013	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00233	0.03065	5'
+tenx_ena	SRR24887486	PRJNA982131	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True		SRR24887486_R1.fq.gz: RNA barcode read has variable read lengths {150: 157218, 148: 5592, 149: 32044	0.00000	0.00000	
+tenx_ena	SRR30299099	PRJNA1149809	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00000	0.00000	
+tenx_ena	SRR30299100	PRJNA1149809	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00621	0.07911	5'
+tenx_ena	SRR30298488	PRJNA1149800	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.06402	0.01984	3'
+tenx_ena	SRR30298489	PRJNA1149800	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.06504	0.02064	3'
+tenx_ena	SRR23036700	PRJNA922493		10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	SRR23036701	PRJNA922493		10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	SRR27723470	PRJNA1068964	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00172	0.01491	5'
+tenx_ena	SRR27723471	PRJNA1068964		10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	SRR27116084	PRJNA1049436	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00299	0.10973	5'
+tenx_ena	SRR27116085	PRJNA1049436	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00273	0.10110	5'
+tenx_ena	SRR30863958	PRJNA1166183	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True		SRR30863958_R1.fq.gz: RNA barcode read has variable read lengths {151: 148112, 150: 51888}; this loo	0.13817	0.01638	3'
+tenx_ena	SRR30863959	PRJNA1166183	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True		SRR30863959_R1.fq.gz: RNA barcode read has variable read lengths {151: 149261, 150: 50739}; this loo	0.13704	0.01614	3'
+tenx_ena	SRR33123868	PRJNA1250490	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00171	0.00249	
+tenx_ena	SRR33123867	PRJNA1250490	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00644	0.00628	
+tenx_ena	SRR28878572	PRJNA1107257	Homo sapiens	10x 3' v3/v3.1	SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry	0.10512	0.00816	3'
+tenx_ena	SRR32222035	PRJNA1219078	Homo sapiens	10x 3' v3/v3.1	10x Multiome GEX	True	10x_multiome_arc_gex		0.03208	0.02647	
+tenx_ena	SRR33510833	PRJNA1261070	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.03955	0.02816	
+tenx_ena	SRR33510835	PRJNA1261070	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.01016	0.00808	
+tenx_ena	SRR34733888	PRJNA1297635	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.03348	0.00183	3'
+tenx_ena	SRR34733889	PRJNA1297635	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.03710	0.00222	3'
+tenx_ena	SRR29041661	PRJNA1111841	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00082	0.00074	
+tenx_ena	SRR29041662	PRJNA1111841	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00066	0.00091	
+tenx_ena	SRR32570917	PRJNA1231596	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00000	0.00000	
+tenx_ena	SRR32570918	PRJNA1231596	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00000	0.00000	
+tenx_ena	SRR35330855	PRJNA1322423	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.04299	0.00203	3'
+tenx_ena	SRR35330856	PRJNA1322423	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.03861	0.00191	3'
+tenx_ena	SRR31839904	PRJNA1203621	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00137	0.01332	5'
+tenx_ena	SRR31839905	PRJNA1203621	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00095	0.01184	5'
+tenx_ena	SRR35153844	PRJNA1311488		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR35153845	PRJNA1311488		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR28573339	PRJNA1096703		10x 3' v3/v3.1	10x Multiome GEX	True	10x_multiome_arc_gex				
+tenx_ena	SRR28573340	PRJNA1096703		10x 3' v3/v3.1	10x Multiome GEX	True	10x_multiome_arc_gex				
+tenx_ena	SRR36155568	PRJNA1368608	Danio rerio	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR36155569	PRJNA1368608	Danio rerio	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR30421795	PRJNA1152977	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00259	0.07896	5'
+tenx_ena	SRR36672514	PRJNA1398198	Homo sapiens	10x 3' v3/v3.1	SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry	0.00739	0.00497	
+tenx_ena	SRR36672515	PRJNA1398198	Homo sapiens	10x 3' v3/v3.1	SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry	0.00701	0.00648	
+tenx_ena	SRR36104531	PRJNA1366508		10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	SRR36104532	PRJNA1366508		10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	SRR36403492	PRJNA1379351		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR36403493	PRJNA1379351		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR36581314	PRJNA1393024	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.03696	0.00390	3'
+tenx_ena	SRR36581315	PRJNA1393024	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.03576	0.00365	3'
+tenx_ena	SRR38151958	PRJNA1454870	Homo sapiens	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.06613	0.00871	3'
+tenx_ena	DRR994816	PRJDB35177	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00187	0.10165	5'
+tenx_ena	DRR994817	PRJDB35177	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00222	0.09572	5'
+tenx_ena	SRR38746259	PRJNA1468156	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.02272	0.01292	
+tenx_ena	SRR38746260	PRJNA1468156	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.01455	0.00858	
+tenx_ena	SRR36700694	PRJNA1399358		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR36700696	PRJNA1399358		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR34345503	PRJNA1283950		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR39945782	PRJNA1505650	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.05288	0.00345	3'
+tenx_ena	SRR39945783	PRJNA1505650	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.05298	0.00395	3'
+tenx_ena	SRR38802201	PRJNA1469542	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05503	0.00147	3'
+tenx_ena	SRR38802202	PRJNA1469542	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05474	0.00142	3'
+tenx_ena	SRR38207610	PRJNA1456114	Astyanax mexicanus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR38207611	PRJNA1456114	Astyanax mexicanus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR13302214	PRJNA687677	Mus musculus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08364	0.00201	3'
+tenx_ena	SRR13302215	PRJNA687677	Mus musculus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08163	0.00167	3'
+tenx_ena	SRR19917180	PRJNA854825	Mus musculus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06458	0.00673	3'
+tenx_ena	SRR19917181	PRJNA854825	Mus musculus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06258	0.00620	3'
+tenx_ena	SRR18220499	PRJNA812863	Mus musculus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02506	0.02566	
+tenx_ena	SRR18220500	PRJNA812863	Mus musculus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+tenx_ena	SRR26844939	PRJNA1040904	Homo sapiens	10x 5' v1/v2	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.00000	0.00000	
+tenx_ena	SRR26185964	PRJNA1021143	Mus musculus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+tenx_ena	SRR26185965	PRJNA1021143	Mus musculus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+tenx_ena	ERR15935149	PRJEB104173	Mus musculus	10x 5' v1/v2	10x 5' v3 (GEM-X)	True	10x_5p_v3_gemx		0.00125	0.02985	5'
+tenx_ena	ERR15935151	PRJEB104173	Mus musculus	10x 5' v1/v2	10x 5' v3 (GEM-X)	True	10x_5p_v3_gemx		0.00110	0.02890	5'
+tenx_ena	SRR37145820	PRJNA1419837		10x 5' v1/v2	10x 5' v3 (GEM-X)	True	10x_5p_v3_gemx				
+tenx_ena	SRR37145821	PRJNA1419837		10x 5' v1/v2	10x 5' v3 (GEM-X)	True	10x_5p_v3_gemx				
+tenx_ena	SRR30407516	PRJNA1152640	Mus musculus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08667	0.00797	3'
+tenx_ena	SRR30407517	PRJNA1152640	Mus musculus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08941	0.00790	3'
+tenx_ena	SRR39012201	PRJNA1475273	Mus musculus	10x 5' v1/v2	10x 5' v3 (GEM-X)	True	10x_5p_v3_gemx		0.00009	0.00044	
+tenx_ena	SRR39012202	PRJNA1475273	Mus musculus	10x 5' v1/v2	10x 5' v3 (GEM-X)	True	10x_5p_v3_gemx		0.00111	0.06578	5'
+tenx_ena	SRR11796981	PRJNA633109	Mus musculus	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00111	0.11695	5'
+tenx_ena	SRR11796982	PRJNA633109	Mus musculus	10x 5' v3 (GEM-X)	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.00005	0.00015	
+tenx_ena	SRR23928770	PRJNA947098	Mus musculus	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00010	0.00065	
+tenx_ena	SRR23928772	PRJNA947098	Mus musculus	10x 5' v3 (GEM-X)	10x 5' v1/v2	True		SRR23928772_R1.fq.gz: RNA barcode read has variable read lengths {151: 134471, 149: 15612, 150: 4224	0.00093	0.09150	5'
+tenx_ena	SRR34965024	PRJNA1304988	Mus musculus	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00069	0.09649	5'
+tenx_ena	SRR34965025	PRJNA1304988	Mus musculus	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00084	0.09750	5'
+tenx_ena	SRR28025598	PRJNA1078349	Homo sapiens	10x Multiome GEX	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03696	0.01694	
+tenx_ena	ERR13670569	PRJEB80230	Bos taurus	10x Multiome GEX	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	ERR13670570	PRJEB80230	Bos taurus	10x Multiome GEX	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31416636	PRJNA1188594	Rattus norvegicus	10x Multiome GEX	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31416637	PRJNA1188594	Rattus norvegicus	10x Multiome GEX	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR10662111	PRJNA594724	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06228	0.00257	3'
+tenx_ena	SRR11470655	PRJNA622691	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09209	0.01315	3'
+tenx_ena	SRR11470656	PRJNA622691	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07765	0.01094	3'
+tenx_ena	SRR12620940	PRJNA662716	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03109	0.01220	
+tenx_ena	SRR12620939	PRJNA662716	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06448	0.01156	3'
+tenx_ena	SRR12772372	PRJNA667348	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07054	0.00202	3'
+tenx_ena	SRR12772373	PRJNA667348	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07198	0.00201	3'
+tenx_ena	SRR11934376	PRJNA637579	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05245	0.01317	3'
+tenx_ena	SRR11934377	PRJNA637579	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01003	0.00272	3'
+tenx_ena	ERR4972593	PRJEB41844	Pan paniscus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	ERR4972594	PRJEB41844	Pan paniscus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR12522006	PRJNA659528	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05295	0.03411	
+tenx_ena	SRR12522007	PRJNA659528	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06942	0.03858	
+tenx_ena	SRR16676989	PRJNA776834	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07785	0.00282	3'
+tenx_ena	SRR16676990	PRJNA776834	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09304	0.00261	3'
+tenx_ena	SRR10150296	PRJNA568200	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03674	0.01592	
+tenx_ena	SRR10150297	PRJNA568200	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04392	0.01059	3'
+tenx_ena	SRR16201064	PRJNA751500	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10431	0.00593	3'
+tenx_ena	SRR16201066	PRJNA751500	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10530	0.00591	3'
+tenx_ena	SRR13238783	PRJNA684305	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10984	0.01534	3'
+tenx_ena	SRR13610013	PRJNA698818	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05526	0.01594	3'
+tenx_ena	SRR13238784	PRJNA684305	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05081	0.01542	3'
+tenx_ena	SRR18793092	PRJNA827791	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05626	0.02695	
+tenx_ena	SRR18793093	PRJNA827791	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05572	0.02784	
+tenx_ena	SRR18338532	PRJNA816883	Danio rerio	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR18338533	PRJNA816883	Danio rerio	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR19204584	PRJNA837953	Drosophila melanogaster	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR19204585	PRJNA837953	Drosophila melanogaster	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR20173380	PRJNA858549	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05057	0.00206	3'
+tenx_ena	SRR20173381	PRJNA858549	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03765	0.00197	3'
+tenx_ena	SRR20336809	PRJNA860646	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02957	0.02100	
+tenx_ena	SRR16638346	PRJNA776279	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05791	0.00392	3'
+tenx_ena	SRR16638348	PRJNA776279	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02800	0.00181	3'
+tenx_ena	SRR19697620	PRJNA849989	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03681	0.00277	3'
+tenx_ena	SRR19697621	PRJNA849989	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01190	0.00083	3'
+tenx_ena	SRR21212343	PRJNA872403	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07251	0.00215	3'
+tenx_ena	SRR21212344	PRJNA872403	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07200	0.00203	3'
+tenx_ena	SRR20653314	PRJNA862525	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08141	0.00111	3'
+tenx_ena	SRR20653315	PRJNA862525	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08050	0.00071	3'
+tenx_ena	SRR20336810	PRJNA860646	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03056	0.02255	
+tenx_ena	SRR21283849	PRJNA874429	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02933	0.00873	3'
+tenx_ena	SRR21283850	PRJNA874429	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03035	0.00890	3'
+tenx_ena	SRR17313607	PRJNA656781	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05981	0.00180	3'
+tenx_ena	SRR17313609	PRJNA656781	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05766	0.00149	3'
+tenx_ena	SRR16100997	PRJNA767066	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.11437	0.00206	3'
+tenx_ena	SRR16100998	PRJNA767066	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.11416	0.00213	3'
+tenx_ena	SRR20210978	PRJNA858838	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06146	0.00225	3'
+tenx_ena	SRR20210979	PRJNA858838	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.12127	0.00281	3'
+tenx_ena	SRR22586451	PRJNA910476	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+tenx_ena	SRR22586452	PRJNA910476	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06420	0.00554	3'
+tenx_ena	SRR22254647	PRJNA900216	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04310	0.01439	
+tenx_ena	SRR22254648	PRJNA900216	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04292	0.01453	
+tenx_ena	SRR19850730	PRJNA852800	Mus musculus	10x 3' v2	10x 5' v1/v2	True		SRR19850730_R2.fq.gz: biological read has variable read lengths {98: 131016, 97: 51547, 96: 12923, 9	0.00073	0.03461	5'
+tenx_ena	SRR19850731	PRJNA852800	Mus musculus	10x 3' v2	10x 5' v1/v2	True		SRR19850731_R2.fq.gz: biological read has variable read lengths {96: 12858, 98: 130085, 97: 52601, 9	0.00094	0.03390	5'
+tenx_ena	SRR23239852	PRJNA928315	Clostridium perfringens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR23239853	PRJNA928315	Clostridium perfringens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR23290214	PRJNA929967	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06164	0.02250	
+tenx_ena	SRR23962233	PRJNA948662	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02892	0.00137	3'
+tenx_ena	SRR23962234	PRJNA948662	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02614	0.00135	3'
+tenx_ena	SRR20990870	PRJNA867680	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06690	0.00238	3'
+tenx_ena	SRR20990871	PRJNA867680	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05998	0.00237	3'
+tenx_ena	SRR22426871	PRJNA906018	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.11837	0.00314	3'
+tenx_ena	SRR22426872	PRJNA906018	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06683	0.00331	3'
+tenx_ena	SRR22354937	PRJNA903774	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04586	0.00224	3'
+tenx_ena	SRR22354938	PRJNA903774	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04484	0.00195	3'
+tenx_ena	SRR16991447	PRJNA782187	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05655	0.00641	3'
+tenx_ena	SRR16991448	PRJNA782187	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05992	0.00644	3'
+tenx_ena	SRR20993404	PRJNA867674	Drosophila melanogaster	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR20993405	PRJNA867674	Drosophila melanogaster	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR23633815	PRJNA939217	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04638	0.03724	
+tenx_ena	SRR23633816	PRJNA939217	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04612	0.03745	
+tenx_ena	SRR21657571	PRJNA882770	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08649	0.01802	3'
+tenx_ena	SRR21657572	PRJNA882770	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05972	0.01373	3'
+tenx_ena	SRR25236702	PRJNA993658	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05694	0.00506	3'
+tenx_ena	SRR25236703	PRJNA993658	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05662	0.00499	3'
+tenx_ena	SRR16342667	PRJNA771015		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR16342668	PRJNA771015		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR21423927	PRJNA876909	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05073	0.00308	3'
+tenx_ena	SRR21423928	PRJNA876909	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05101	0.00322	3'
+tenx_ena	SRR24108370	PRJNA953336	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06613	0.00272	3'
+tenx_ena	SRR24108371	PRJNA953336	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06617	0.00247	3'
+tenx_ena	SRR23908487	PRJNA946316	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09880	0.00186	3'
+tenx_ena	SRR23908488	PRJNA946316	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07020	0.00246	3'
+tenx_ena	SRR19159784	PRJNA836945	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05366	0.00315	3'
+tenx_ena	SRR19159785	PRJNA836945	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05343	0.00297	3'
+tenx_ena	SRR24299941	PRJNA854901	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+tenx_ena	SRR24299942	PRJNA854901	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+tenx_ena	SRR24332091	PRJNA962726	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04682	0.02031	
+tenx_ena	SRR24332093	PRJNA962726	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03782	0.01656	
+tenx_ena	SRR19159852	PRJNA836955	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07066	0.00671	3'
+tenx_ena	SRR19159853	PRJNA836955	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07882	0.00716	3'
+tenx_ena	SRR20983286	PRJNA867569	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03143	0.00252	3'
+tenx_ena	SRR18653185	PRJNA823910	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02928	0.00057	3'
+tenx_ena	SRR18653186	PRJNA823910	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02572	0.00055	3'
+tenx_ena	SRR26204110	PRJNA1021976	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02850	0.02089	
+tenx_ena	SRR26204111	PRJNA1021976	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02909	0.02079	
+tenx_ena	SRR20983287	PRJNA867569	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04114	0.00304	3'
+tenx_ena	SRR26525725	PRJNA1032122	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03286	0.02271	
+tenx_ena	SRR26525726	PRJNA1032122	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03116	0.02168	
+tenx_ena	SRR25607758	PRJNA1004411	Drosophila melanogaster	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR25195119	PRJNA992517	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06463	0.00162	3'
+tenx_ena	SRR25195120	PRJNA992517	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06528	0.00154	3'
+tenx_ena	SRR26071611	PRJNA1017828	Homo sapiens	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00271	0.04927	5'
+tenx_ena	SRR26071613	PRJNA1017828	Homo sapiens	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00328	0.04083	5'
+tenx_ena	SRR25454290	PRJNA999676	Bos taurus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR25454291	PRJNA999676	Bos taurus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR24883958	PRJNA982117	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04673	0.00548	3'
+tenx_ena	SRR24883959	PRJNA982117	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04502	0.00538	3'
+tenx_ena	SRR24184797	PRJNA956256	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05598	0.00129	3'
+tenx_ena	SRR24184798	PRJNA956256	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05616	0.00167	3'
+tenx_ena	SRR25438762	PRJNA999227	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05104	0.00423	3'
+tenx_ena	SRR25438763	PRJNA999227	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04954	0.00597	3'
+tenx_ena	SRR26877741	PRJNA1042805	Arabidopsis thaliana	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR26877742	PRJNA1042805	Arabidopsis thaliana	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR25346027	PRJNA996554	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05886	0.00933	3'
+tenx_ena	SRR25346028	PRJNA996554	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05912	0.00852	3'
+tenx_ena	SRR21983442	PRJNA892527	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05290	0.00752	3'
+tenx_ena	SRR21983443	PRJNA892527	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06476	0.00630	3'
+tenx_ena	SRR22543782	PRJNA909179	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True		SRR22543782_R2.fq.gz: biological read has variable read lengths {90: 123226, 88: 14329, 89: 55446, 8	0.05098	0.00517	3'
+tenx_ena	SRR22543783	PRJNA909179	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True		SRR22543783_R2.fq.gz: biological read has variable read lengths {90: 102219, 89: 76800, 87: 4549, 88	0.04487	0.00813	3'
+tenx_ena	SRR13450192	PRJNA692727	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06254	0.04036	
+tenx_ena	SRR13450193	PRJNA692727	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06188	0.04019	
+tenx_ena	SRR21344734	PRJNA874949	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07693	0.02987	
+tenx_ena	SRR21344735	PRJNA874949	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07527	0.03022	
+tenx_ena	SRR22797181	PRJNA913427	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06929	0.02574	
+tenx_ena	SRR25445825	PRJNA999595	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06499	0.01721	3'
+tenx_ena	SRR25445826	PRJNA999595	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06540	0.01813	3'
+tenx_ena	SRR21492413	PRJNA884396	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01851	0.03435	
+tenx_ena	SRR21492414	PRJNA884396	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02424	0.02214	
+tenx_ena	SRR27868651	PRJNA1073249	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06150	0.00868	3'
+tenx_ena	SRR27868652	PRJNA1073249	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06214	0.00873	3'
+tenx_ena	SRR23934028	PRJNA947200	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00125	0.06893	5'
+tenx_ena	SRR23934029	PRJNA947200	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00130	0.05878	5'
+tenx_ena	SRR25868015	PRJNA1011833	Danio rerio	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR25868016	PRJNA1011833	Danio rerio	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR24162914	PRJNA955260	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06974	0.00263	3'
+tenx_ena	SRR24162915	PRJNA955260	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06134	0.00214	3'
+tenx_ena	SRR27931365	PRJNA1075109	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04488	0.00155	3'
+tenx_ena	SRR27931366	PRJNA1075109	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05071	0.00157	3'
+tenx_ena	SRR25940026	PRJNA1013932	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07581	0.00787	3'
+tenx_ena	SRR27139409	PRJNA1049901	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04748	0.00316	3'
+tenx_ena	SRR27139410	PRJNA1049901	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04737	0.00321	3'
+tenx_ena	SRR25940025	PRJNA1013932	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07547	0.00870	3'
+tenx_ena	SRR22350153	PRJNA903394	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03084	0.01901	
+tenx_ena	SRR22350154	PRJNA903394	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03170	0.01891	
+tenx_ena	SRR24471259	PRJNA970364	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08680	0.00490	3'
+tenx_ena	SRR26919203	PRJNA1044045	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09056	0.00723	3'
+tenx_ena	SRR26919204	PRJNA1044045	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08853	0.00716	3'
+tenx_ena	SRR19100246	PRJNA835454	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03369	0.01021	3'
+tenx_ena	SRR19100247	PRJNA835454	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03481	0.00521	3'
+tenx_ena	SRR22730770	PRJNA912117	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00003	0.00000	
+tenx_ena	SRR22730771	PRJNA912117	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+tenx_ena	SRR24471258	PRJNA970364	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08803	0.00513	3'
+tenx_ena	SRR24321494	PRJNA962329	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.14968	0.00367	3'
+tenx_ena	SRR24321495	PRJNA962329	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.14845	0.00390	3'
+tenx_ena	SRR25041748	PRJNA988140	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05993	0.00326	3'
+tenx_ena	SRR28356389	PRJNA1088458	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04267	0.01707	
+tenx_ena	SRR28356390	PRJNA1088458	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04191	0.01767	
+tenx_ena	SRR23624659	PRJNA938968	Glycine max	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR23624660	PRJNA938968	Glycine max	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR24911327	PRJNA983388	Glycine max	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR24911334	PRJNA983388	Glycine max	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR25306245	PRJNA995593	Rattus norvegicus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR25306246	PRJNA995593	Rattus norvegicus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR25573150	PRJNA1003482	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00993	0.00677	
+tenx_ena	SRR25573151	PRJNA1003482	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00974	0.00652	
+tenx_ena	SRR24476586	PRJNA970659	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00149	0.05266	5'
+tenx_ena	SRR24476587	PRJNA970659	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00156	0.04865	5'
+tenx_ena	SRR25041747	PRJNA988140	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06480	0.00330	3'
+tenx_ena	SRR25585012	PRJNA1003824		10x 3' v2	10x 3' v3/v3.1	True		SRR25585012_R1.fq.gz: RNA barcode read has variable read lengths {151: 134271, 150: 50870, 149: 9984			
+tenx_ena	SRR25585013	PRJNA1003824		10x 3' v2	10x 3' v3/v3.1	True		SRR25585013_R1.fq.gz: RNA barcode read has variable read lengths {151: 134200, 150: 50755, 149: 1025			
+tenx_ena	SRR30252608	PRJNA1148487	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07493	0.00271	3'
+tenx_ena	SRR30252609	PRJNA1148487	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08635	0.00265	3'
+tenx_ena	SRR25988543	PRJNA1014497	Homo sapiens	10x 3' v2	10x 5' v1/v2	True		No file matched a known 10x whitelist with expected read geometry	0.00355	0.06884	5'
+tenx_ena	SRR25988544	PRJNA1014497	Homo sapiens	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00247	0.05867	5'
+tenx_ena	SRR30401119	PRJNA1152555	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05188	0.01067	3'
+tenx_ena	SRR30401120	PRJNA1152555	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05177	0.01113	3'
+tenx_ena	SRR28478379	PRJNA1092693	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08460	0.00262	3'
+tenx_ena	SRR28478380	PRJNA1092693	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08263	0.00304	3'
+tenx_ena	SRR28376556	PRJNA1089174	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00358	0.01019	
+tenx_ena	SRR30632020	PRJNA1159718	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08024	0.00421	3'
+tenx_ena	SRR30632021	PRJNA1159718	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08702	0.00530	3'
+tenx_ena	SRR25462438	PRJNA1000443	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07366	0.00257	3'
+tenx_ena	SRR27277429	PRJNA1054289	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06062	0.03448	
+tenx_ena	SRR27277430	PRJNA1054289	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04100	0.04253	
+tenx_ena	SRR28376555	PRJNA1089174	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00367	0.00982	
+tenx_ena	SRR26780423	PRJNA1037516		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR26780424	PRJNA1037516		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR27882408	PRJNA1073582	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06859	0.00610	3'
+tenx_ena	SRR27882409	PRJNA1073582	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06977	0.00618	3'
+tenx_ena	SRR22756091	PRJNA912745	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04106	0.00621	3'
+tenx_ena	SRR22756092	PRJNA912745	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04072	0.00581	3'
+tenx_ena	SRR24820300	PRJNA979139	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05365	0.00146	3'
+tenx_ena	SRR24820301	PRJNA979139	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05412	0.00173	3'
+tenx_ena	SRR22301188	PRJNA901952	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04036	0.02763	
+tenx_ena	SRR22301189	PRJNA901952	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03913	0.02650	
+tenx_ena	SRR22836041	PRJNA914334	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04808	0.00911	3'
+tenx_ena	SRR22836042	PRJNA914334	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04936	0.00953	3'
+tenx_ena	SRR30680698	PRJNA1161718	Mus musculus	10x 3' v2	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.04112	0.00144	3'
+tenx_ena	SRR30680699	PRJNA1161718	Mus musculus	10x 3' v2	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.04205	0.00144	3'
+tenx_ena	SRR25469352	PRJNA1000604	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08684	0.02395	3'
+tenx_ena	SRR25469353	PRJNA1000604	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09450	0.02181	3'
+tenx_ena	SRR23360570	PRJNA934485	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06402	0.00272	3'
+tenx_ena	SRR23360571	PRJNA934485	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06466	0.00318	3'
+tenx_ena	SRR30357145	PRJNA1151684	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06713	0.00529	3'
+tenx_ena	SRR30357146	PRJNA1151684	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06133	0.00416	3'
+tenx_ena	SRR27437239	PRJNA1061471	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01578	0.00016	3'
+tenx_ena	SRR27437240	PRJNA1061471	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01715	0.00014	3'
+tenx_ena	SRR30670196	PRJNA1161391	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06717	0.00108	3'
+tenx_ena	SRR30670198	PRJNA1161391	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05890	0.00100	3'
+tenx_ena	SRR24554813	PRJNA972474		10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	SRR24554814	PRJNA972474		10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	SRR32203224	PRJNA1218426	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09824	0.00422	3'
+tenx_ena	SRR32203225	PRJNA1218426	Mus musculus	10x 3' v2	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00093	0.03781	5'
+tenx_ena	SRR27558699	PRJNA1064921	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10252	0.00210	3'
+tenx_ena	SRR27558700	PRJNA1064921	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10082	0.00223	3'
+tenx_ena	SRR26628133	PRJNA1034557	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06890	0.00502	3'
+tenx_ena	SRR27673903	PRJNA1067335	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05933	0.01220	3'
+tenx_ena	SRR27673904	PRJNA1067335	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05736	0.01267	3'
+tenx_ena	SRR25491002	PRJNA1001298	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04758	0.01922	
+tenx_ena	SRR25491003	PRJNA1001298	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04630	0.01935	
+tenx_ena	SRR30716482	PRJNA1162554		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR30716483	PRJNA1162554		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR28101868	PRJNA1080631	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05918	0.00377	3'
+tenx_ena	SRR28101869	PRJNA1080631	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06925	0.00338	3'
+tenx_ena	SRR29090454	PRJNA1113678	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04022	0.00786	3'
+tenx_ena	SRR29090455	PRJNA1113678		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR32937768	PRJNA1244881	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06867	0.00207	3'
+tenx_ena	SRR32937769	PRJNA1244881	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06607	0.00221	3'
+tenx_ena	SRR32312781	PRJNA1222439		10x 3' v2	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR32312782	PRJNA1222439		10x 3' v2	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR33634460	PRJNA1265123	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07613	0.00508	3'
+tenx_ena	SRR33634461	PRJNA1265123	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08338	0.00580	3'
+tenx_ena	SRR28901340	PRJNA1107940	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08112	0.00692	3'
+tenx_ena	SRR28901341	PRJNA1107940	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08759	0.00490	3'
+tenx_ena	SRR30649329	PRJNA1160293	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06413	0.00547	3'
+tenx_ena	SRR30649330	PRJNA1160293	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07383	0.00511	3'
+tenx_ena	SRR31769117	PRJNA1200128	Danio rerio	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31769118	PRJNA1200128	Danio rerio	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR33245425	PRJNA1253968	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03319	0.00513	3'
+tenx_ena	SRR33245426	PRJNA1253968	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02949	0.00730	3'
+tenx_ena	SRR32853198	PRJNA767901	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05923	0.03025	
+tenx_ena	SRR32853199	PRJNA767901	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05840	0.03111	
+tenx_ena	SRR33842752	PRJNA1272531	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04730	0.00248	3'
+tenx_ena	SRR33842753	PRJNA1272531	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05730	0.00355	3'
+tenx_ena	SRR31192917	PRJNA1180996	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09204	0.00964	3'
+tenx_ena	SRR31192918	PRJNA1180996	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09037	0.00834	3'
+tenx_ena	SRR33259250	PRJNA1254128	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09255	0.00497	3'
+tenx_ena	SRR33259251	PRJNA1254128	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.11711	0.00305	3'
+tenx_ena	SRR25401877	PRJNA997947	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01288	0.00873	
+tenx_ena	SRR25401878	PRJNA997947	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00857	0.00537	
+tenx_ena	SRR33734850	PRJNA1269028	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06450	0.01562	3'
+tenx_ena	SRR26639003	PRJNA1034987	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05538	0.00681	3'
+tenx_ena	SRR26639004	PRJNA1034987	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04197	0.01067	3'
+tenx_ena	SRR25397426	PRJNA997946	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07910	0.00532	3'
+tenx_ena	SRR25397427	PRJNA997946	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08027	0.00536	3'
+tenx_ena	SRR30675687	PRJNA1161624	Mus musculus	10x 3' v2	Singleron GEXSCOPE V2	True		No file matched a known 10x whitelist with expected read geometry	0.05443	0.00288	3'
+tenx_ena	SRR30675688	PRJNA1161624	Mus musculus	10x 3' v2	Singleron GEXSCOPE V2	True		No file matched a known 10x whitelist with expected read geometry	0.04944	0.00319	3'
+tenx_ena	SRR31905304	PRJNA1207061	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05606	0.00211	3'
+tenx_ena	SRR31905305	PRJNA1207061	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05348	0.00232	3'
+tenx_ena	SRR27498341	PRJNA1063358	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07603	0.00606	3'
+tenx_ena	SRR27498342	PRJNA1063358	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06524	0.00465	3'
+tenx_ena	SRR30187974	PRJNA1146386	Drosophila melanogaster	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR30187975	PRJNA1146386	Drosophila melanogaster	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31835723	PRJNA1203257	Gallus gallus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31835724	PRJNA1203257	Gallus gallus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR21753542	PRJNA885442	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03762	0.00142	3'
+tenx_ena	SRR30736222	PRJNA1163336	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09263	0.01724	3'
+tenx_ena	SRR30736223	PRJNA1163336	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09216	0.01792	3'
+tenx_ena	SRR31542537	PRJNA1191818	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00002	
+tenx_ena	SRR31542538	PRJNA1191818	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00004	0.00002	
+tenx_ena	SRR35332601	PRJNA1322524	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05805	0.00300	3'
+tenx_ena	SRR35332602	PRJNA1322524	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05817	0.00284	3'
+tenx_ena	SRR34405755	PRJNA1287791	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04588	0.00489	3'
+tenx_ena	SRR34405756	PRJNA1287791	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01446	0.00412	3'
+tenx_ena	SRR33004406	PRJNA1247455	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00000	0.00000	
+tenx_ena	SRR33004407	PRJNA1247455	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00002	0.00000	
+tenx_ena	SRR30071190	PRJNA1142881	Melopsittacus undulatus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31379901	PRJNA1187514	Mus musculus	10x 3' v2	BD Rhapsody (Enhanced V2/V3 beads)	True		No file matched a known 10x whitelist with expected read geometry	0.03302	0.00361	3'
+tenx_ena	SRR31379902	PRJNA1187514	Mus musculus	10x 3' v2	BD Rhapsody (Enhanced Beads)	True		No file matched a known 10x whitelist with expected read geometry	0.03162	0.00319	3'
+tenx_ena	SRR27993197	PRJNA1077357	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00515	0.00007	3'
+tenx_ena	SRR27993198	PRJNA1077357	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.00587	0.00006	3'
+tenx_ena	SRR30631434	PRJNA1159702	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06880	0.00646	3'
+tenx_ena	SRR32011585	PRJNA1211077	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10052	0.01926	3'
+tenx_ena	SRR32011586	PRJNA1211077	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.10360	0.02152	3'
+tenx_ena	SRR32280012	PRJNA1221288	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05063	0.00394	3'
+tenx_ena	SRR32280013	PRJNA1221288	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04661	0.00393	3'
+tenx_ena	SRR34442783	PRJNA1289067	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04058	0.04383	
+tenx_ena	SRR34442784	PRJNA1289067	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03684	0.04199	
+tenx_ena	SRR37178446	PRJNA1420900		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR37178447	PRJNA1420900		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31760861	PRJNA1200032		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31760862	PRJNA1200032		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR30312912	PRJNA1150139	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.02940	0.01381	
+tenx_ena	SRR33155847	PRJNA1251359		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR33155848	PRJNA1251359		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR34561852	PRJNA1292265	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06439	0.02217	
+tenx_ena	SRR34561853	PRJNA1292265	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06494	0.02140	3'
+tenx_ena	SRR32568213	PRJNA1231470		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR32568214	PRJNA1231470		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR29375238	PRJNA1123177	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06722	0.00252	3'
+tenx_ena	SRR29375239	PRJNA1123177	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06501	0.00228	3'
+tenx_ena	SRR33129614	PRJNA1250567		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31254201	PRJNA1182795	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03145	0.00527	3'
+tenx_ena	SRR31254202	PRJNA1182795	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03113	0.00553	3'
+tenx_ena	SRR35227754	PRJNA1314142	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05797	0.00633	3'
+tenx_ena	SRR35227755	PRJNA1314142	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05594	0.00603	3'
+tenx_ena	SRR37267891	PRJNA1425065	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09161	0.00874	3'
+tenx_ena	SRR37267892	PRJNA1425065	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09357	0.00827	3'
+tenx_ena	SRR35678582	PRJNA1336657	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07633	0.01133	3'
+tenx_ena	SRR35678583	PRJNA1336657	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06259	0.01477	3'
+tenx_ena	SRR38836851	PRJNA1470571	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07422	0.02683	
+tenx_ena	SRR38836852	PRJNA1470571	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07434	0.02841	
+tenx_ena	SRR30999033	PRJNA1173132	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03835	0.00548	3'
+tenx_ena	SRR35159555	PRJNA1311543	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07492	0.01312	3'
+tenx_ena	SRR35159556	PRJNA1311543	Homo sapiens	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08028	0.01133	3'
+tenx_ena	SRR40475598	PRJNA1522356	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09840	0.00234	3'
+tenx_ena	SRR40475599	PRJNA1522356	Mus musculus	10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09233	0.00213	3'
+tenx_ena	SRR36244725	PRJNA1371755		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR39769783	PRJNA1499255		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR8497655	PRJNA517508	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.12346	0.01101	3'
+tenx_ena	SRR8497656	PRJNA517508	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.12309	0.01117	3'
+tenx_ena	SRR10009999	PRJNA561347	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.08372	0.00224	3'
+tenx_ena	SRR10010000	PRJNA561347	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.07306	0.00233	3'
+tenx_ena	SRR11167747	PRJNA563578	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.02183	0.00057	3'
+tenx_ena	SRR11167748	PRJNA563578	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.02093	0.00029	3'
+tenx_ena	SRR12083582	PRJNA641702	Mus musculus	10x 3' v3/v3.1	inDrops	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00000	
+tenx_ena	SRR12083583	PRJNA641702	Mus musculus	10x 3' v3/v3.1	inDrops	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00000	
+tenx_ena	ERR4898566	PRJEB41637	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.06596	0.00416	3'
+tenx_ena	ERR4898567	PRJEB41637	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.06769	0.00279	3'
+tenx_ena	SRR13649029	PRJNA700456	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00156	0.11974	5'
+tenx_ena	SRR13044124	PRJNA677943	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00294	0.05704	5'
+tenx_ena	SRR13044125	PRJNA677943	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00378	0.05625	5'
+tenx_ena	SRR19603240	PRJNA847598	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True		SRR19603240_R1.fq.gz: RNA barcode read has variable read lengths {149: 7901, 150: 59035, 151: 130922	0.12307	0.00300	3'
+tenx_ena	SRR19603241	PRJNA847598	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True		SRR19603241_R1.fq.gz: RNA barcode read has variable read lengths {150: 59561, 151: 130536, 149: 7717	0.12207	0.00307	3'
+tenx_ena	SRR18579970	PRJNA822099	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00164	0.00954	5'
+tenx_ena	SRR18579971	PRJNA822099	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00191	0.00823	5'
+tenx_ena	SRR19685911	PRJNA763826	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True		SRR19685911_R1.fq.gz: RNA barcode read has variable read lengths {101: 139804, 100: 51215, 98: 3633,	0.04689	0.00707	3'
+tenx_ena	SRR19685912	PRJNA763826	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True		SRR19685912_R1.fq.gz: RNA barcode read has variable read lengths {98: 1380, 101: 140737, 100: 53797,	0.04389	0.00739	3'
+tenx_ena	SRR14996444	PRJNA742428	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.06702	0.01840	3'
+tenx_ena	SRR12905948	PRJNA672313	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.03467	0.05349	
+tenx_ena	SRR12905949	PRJNA672313	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.02072	0.01742	
+tenx_ena	SRR24084682	PRJNA952664	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00048	0.00450	5'
+tenx_ena	SRR24084683	PRJNA952664	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00058	0.00458	5'
+tenx_ena	SRR17920647	PRJNA804199	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.09105	0.00781	3'
+tenx_ena	SRR17920648	PRJNA804199	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.09761	0.00737	3'
+tenx_ena	SRR27276267	PRJNA1054187	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.07661	0.00488	3'
+tenx_ena	SRR27276268	PRJNA1054187	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.07536	0.00446	3'
+tenx_ena	SRR21229100	PRJNA873093	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.00000	0.00000	
+tenx_ena	SRR21229101	PRJNA873093	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.00000	0.00000	
+tenx_ena	SRR26992439	PRJNA1046489	Homo sapiens	10x 3' v3/v3.1	10x Multiome GEX	True	10x_multiome_arc_gex		0.01251	0.02532	
+tenx_ena	SRR31665689	PRJNA1196347	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00176	0.08588	5'
+tenx_ena	SRR31665690	PRJNA1196347	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00160	0.07202	5'
+tenx_ena	SRR28226871	PRJNA1076461	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.13251	0.01757	3'
+tenx_ena	SRR28226872	PRJNA1076461	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.13239	0.01797	3'
+tenx_ena	SRR30544883	PRJNA1156602	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00151	0.08414	5'
+tenx_ena	SRR30544884	PRJNA1156602	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00115	0.09378	5'
+tenx_ena	SRR31592202	PRJNA1193532	Mus musculus	10x 3' v3/v3.1	10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00118	
+tenx_ena	SRR31592203	PRJNA1193532	Mus musculus	10x 3' v3/v3.1	10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00146	
+tenx_ena	SRR32481540	PRJNA1227983		10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	SRR32481539	PRJNA1227983		10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	DRR493610	PRJDB16244	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00091	0.04829	5'
+tenx_ena	DRR493611	PRJDB16244	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00113	0.04937	5'
+tenx_ena	SRR29974735	PRJNA1139835	Rattus norvegicus	10x 3' v3/v3.1	Singleron GEXSCOPE V2	True		No file matched a known 10x whitelist with expected read geometry			
+tenx_ena	SRR29974736	PRJNA1139835	Rattus norvegicus	10x 3' v3/v3.1	Singleron GEXSCOPE V2	True		No file matched a known 10x whitelist with expected read geometry			
+tenx_ena	SRR31903183	PRJNA1207025	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.02039	0.01369	
+tenx_ena	SRR34695658	PRJNA1295503	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00085	0.00054	
+tenx_ena	SRR31903182	PRJNA1207025	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.02199	0.01333	
+tenx_ena	SRR31314008	PRJNA1185149	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00032	0.00043	
+tenx_ena	SRR31314009	PRJNA1185149	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00016	0.00036	
+tenx_ena	SRR32752107	PRJNA1237690	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.08294	0.00484	3'
+tenx_ena	SRR32752108	PRJNA1237690	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.07874	0.00546	3'
+tenx_ena	SRR32762578	PRJNA1237691	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.03835	0.00239	3'
+tenx_ena	SRR32762579	PRJNA1237691	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.04395	0.00232	3'
+tenx_ena	SRR30953775	PRJNA1171841	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00030	0.00042	
+tenx_ena	SRR30953776	PRJNA1171841	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00024	0.00034	
+tenx_ena	SRR31936021	PRJNA1206194	Homo sapiens	10x 3' v3/v3.1	Parse Evercode WT	True		No file matched a known 10x whitelist with expected read geometry	0.00161	0.00227	
+tenx_ena	SRR34656986	PRJNA1294785		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR34656987	PRJNA1294785		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR32383474	PRJNA1225245		10x 3' v3/v3.1	10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+tenx_ena	SRR32383475	PRJNA1225245		10x 3' v3/v3.1	10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry			
+tenx_ena	SRR32581579	PRJNA1232148	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.02477	0.01047	
+tenx_ena	SRR32581580	PRJNA1232148	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.02765	0.01113	
+tenx_ena	SRR36332069	PRJNA1373163		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR36332070	PRJNA1373163		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR37528650	PRJNA1434181		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR37528651	PRJNA1434181		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR38148465	PRJNA1454813	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.03106	0.00098	3'
+tenx_ena	SRR38148466	PRJNA1454813	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.03174	0.00110	3'
+tenx_ena	SRR37330019	PRJNA1427176		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR37330020	PRJNA1427176		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR34072012	PRJNA1279986	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00144	0.04957	5'
+tenx_ena	SRR34072013	PRJNA1279986	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00173	0.05629	5'
+tenx_ena	SRR32162701	PRJNA1216786	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.06590	0.00500	3'
+tenx_ena	SRR32162702	PRJNA1216786	Mus musculus	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.04944	0.00527	3'
+tenx_ena	SRR37846299	PRJNA1445076	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00447	0.02808	5'
+tenx_ena	SRR37846300	PRJNA1445076	Homo sapiens	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00441	0.02948	5'
+tenx_ena	SRR30648965	PRJNA1160280	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00213	0.05380	5'
+tenx_ena	SRR30648966	PRJNA1160280	Mus musculus	10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00222	0.05215	5'
+tenx_ena	SRR36805702	PRJNA1402282	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.07700	0.00362	3'
+tenx_ena	SRR36805703	PRJNA1402282	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.07315	0.00326	3'
+tenx_ena	SRR39095016	PRJNA1477108	Mus musculus	10x 3' v3/v3.1	MGI DNBelab C4 / C-series HT	True		No file matched a known 10x whitelist with expected read geometry	0.05301	0.00111	3'
+tenx_ena	SRR39095017	PRJNA1477108	Mus musculus	10x 3' v3/v3.1	MGI DNBelab C4 / C-series HT	True		No file matched a known 10x whitelist with expected read geometry	0.05006	0.00128	3'
+tenx_ena	SRR39210729	PRJNA849028	Homo sapiens	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.02367	0.00665	3'
+tenx_ena	SRR39210730	PRJNA849028	Homo sapiens	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.02961	0.00822	3'
+tenx_ena	SRR38856788	PRJNA1471074	Danio rerio	10x 3' v3/v3.1	SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry			
+tenx_ena	SRR39088521	PRJNA1476972	Drosophila melanogaster	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR39088522	PRJNA1476972	Drosophila melanogaster	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR39278639	PRJNA1481117	Mus musculus	10x 3' v3/v3.1	10x 5' v3 (GEM-X)	True	10x_5p_v3_gemx		0.00050	0.00118	
+tenx_ena	SRR39278642	PRJNA1481117	Mus musculus	10x 3' v3/v3.1	10x 5' v3 (GEM-X)	True	10x_5p_v3_gemx		0.00067	0.00091	
+tenx_ena	SRR36184954	PRJNA1368868	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.04607	0.00324	3'
+tenx_ena	SRR39408325	PRJNA1484462	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.03509	0.00335	3'
+tenx_ena	SRR39408326	PRJNA1484462	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.03914	0.00275	3'
+tenx_ena	SRR37332877	PRJNA1427218		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR37332878	PRJNA1427218		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR39492065	PRJNA1490615	Homo sapiens	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.07084	0.00762	3'
+tenx_ena	SRR39492066	PRJNA1490615	Homo sapiens	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.01967	0.00246	3'
+tenx_ena	SRR38340809	PRJNA1460582	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.02368	0.00584	3'
+tenx_ena	SRR38340810	PRJNA1460582	Mus musculus	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.02243	0.00565	3'
+tenx_ena	SRR34799144	PRJNA1299384	Homo sapiens	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.08238	0.01011	3'
+tenx_ena	SRR34799145	PRJNA1299384	Homo sapiens	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx		0.08473	0.00943	3'
+tenx_ena	SRR38373318	PRJNA1461984	Danio rerio	10x 3' v3/v3.1	SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry			
+tenx_ena	SRR38373319	PRJNA1461984	Danio rerio	10x 3' v3/v3.1	SeekGene SeekOne DD 3'	True		No file matched a known 10x whitelist with expected read geometry			
+tenx_ena	SRR38880998	PRJNA1471638	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.08085	0.02272	3'
+tenx_ena	SRR38880999	PRJNA1471638	Homo sapiens	10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.07492	0.04427	
+tenx_ena	SRR39407651	PRJNA1484445		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR39407657	PRJNA1484445		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+tenx_ena	SRR40377204	PRJNA1519901	Mus musculus	10x 3' v3/v3.1	10x Flex v1	True		No file matched a known 10x whitelist with expected read geometry	0.00000	0.00208	5'
+tenx_ena	SRR40571757	PRJNA1525750	Mus musculus	10x 3' v3/v3.1	10x 5' v3 (GEM-X)	True	10x_5p_v3_gemx		0.00074	0.00136	
+tenx_ena	SRR40571759	PRJNA1525750	Mus musculus	10x 3' v3/v3.1	10x 5' v3 (GEM-X)	True	10x_5p_v3_gemx		0.00059	0.00113	
+tenx_ena	SRR32816560	PRJNA1240658	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08264	0.00137	3'
+tenx_ena	SRR32816561	PRJNA1240658	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08264	0.00139	3'
+tenx_ena	SRR35559998	PRJNA1332791	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True		SRR35559998_R2.fq.gz: biological read has variable read lengths {90: 123052, 89: 55371, 88: 14796, 8	0.05016	0.00263	3'
+tenx_ena	SRR35559999	PRJNA1332791	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True		SRR35559999_R2.fq.gz: biological read has variable read lengths {90: 123211, 88: 14574, 89: 55581, 8	0.04423	0.00266	3'
+tenx_ena	SRR32229849	PRJNA1219190	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05249	0.00412	3'
+tenx_ena	SRR32229850	PRJNA1219190	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04562	0.00414	3'
+tenx_ena	SRR32215311	PRJNA1218772	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07877	0.00279	3'
+tenx_ena	SRR32215312	PRJNA1218772	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.09277	0.00356	3'
+tenx_ena	SRR36186297	PRJNA1368911	Homo sapiens	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04584	0.02401	
+tenx_ena	SRR36186298	PRJNA1368911	Homo sapiens	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05962	0.02297	
+tenx_ena	SRR36402830	PRJNA1379337	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04764	0.00240	3'
+tenx_ena	SRR36402831	PRJNA1379337	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.04139	0.00224	3'
+tenx_ena	SRR38697439	PRJNA1467710	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01537	0.00974	
+tenx_ena	SRR38697440	PRJNA1467710	Mus musculus	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	True	10x_3p_v3_family		0.01467	0.00883	
+tenx_ena	SRR15251484	PRJNA749799	Mus musculus	10x 5' v1/v2	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.08950	0.00059	3'
+tenx_ena	SRR15251485	PRJNA749799	Mus musculus	10x 5' v1/v2	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.05260	0.00088	3'
+tenx_ena	SRR19217853	PRJNA838553	Homo sapiens	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05016	0.00880	3'
+tenx_ena	SRR19217854	PRJNA838553	Homo sapiens	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05014	0.00903	3'
+tenx_ena	SRR22989532	PRJNA918679	Mus musculus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.03505	0.00104	3'
+tenx_ena	SRR22989533	PRJNA918679	Mus musculus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.06572	0.00218	3'
+tenx_ena	SRR26844929	PRJNA1040903	Homo sapiens	10x 5' v1/v2	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2		0.00000	0.00000	
+tenx_ena	SRR26389375	PRJNA1028316	Macaca mulatta	10x 5' v1/v2	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	SRR26389376	PRJNA1028316	Macaca mulatta	10x 5' v1/v2	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	SRR25669275	PRJNA1006396	Homo sapiens	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07482	0.02866	
+tenx_ena	SRR25669276	PRJNA1006396	Homo sapiens	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05241	0.02758	
+tenx_ena	SRR27024458	PRJNA1047678	Homo sapiens	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.08896	0.01095	3'
+tenx_ena	SRR27755735	PRJNA1070279		10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR27755736	PRJNA1070279		10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31352723	PRJNA1186204	Rattus norvegicus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR31352724	PRJNA1186204	Rattus norvegicus	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR27374318	PRJNA1051007	Homo sapiens	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05959	0.04033	
+tenx_ena	SRR27374319	PRJNA1051007	Homo sapiens	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.05970	0.04059	
+tenx_ena	SRR31955869	PRJNA1208962	Homo sapiens	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07616	0.01840	3'
+tenx_ena	SRR31955872	PRJNA1208962	Homo sapiens	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family		0.07851	0.01464	3'
+tenx_ena	ERR15912153	PRJEB104121	Caenorhabditis elegans	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	ERR15912154	PRJEB104121	Caenorhabditis elegans	10x 5' v1/v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+tenx_ena	SRR26779857	PRJNA1037506	Mus musculus	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00003	0.00035	
+tenx_ena	SRR26779858	PRJNA1037506	Mus musculus	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00000	0.00010	
+tenx_ena	SRR16640857	PRJNA776330	Mus musculus	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00163	0.12015	5'
+tenx_ena	SRR16640858	PRJNA776330	Mus musculus	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00160	0.12072	5'
+tenx_ena	SRR17230453	PRJNA788905	Homo sapiens	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00158	0.00165	
+tenx_ena	SRR17230452	PRJNA788905	Homo sapiens	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00147	0.00180	
+tenx_ena	DRR735763	PRJDB30485	Mus musculus	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00000	0.00015	
+tenx_ena	DRR735764	PRJDB30485	Mus musculus	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00000	0.00014	
+tenx_ena	SRR35499330	PRJNA1330796		10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2				
+tenx_ena	SRR38939392	PRJNA1473299	Homo sapiens	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00078	0.00087	
+tenx_ena	SRR38939393	PRJNA1473299	Homo sapiens	10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2		0.00093	0.00105	
+head_to_head	SRX25710654	PRJNA1059053		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+head_to_head	SRX27429291	PRJNA1138789		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+head_to_head	SRX8726758	PRJNA646199		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+head_to_head	SRX18207826	PRJNA899508		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+head_to_head	SRX25624708	PRJNA912132		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+head_to_head	SRX24059908	PRJNA1091880		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+head_to_head	SRX24755708	PRJNA1118304		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+head_to_head	SRX25737228	PRJNA1149046		10x 3' v2	10x 3' v3/v3.1	True	10x_3p_v3_family				
+head_to_head	SRX24854475	PRJNA1121908		10x 5' v3 (GEM-X)	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2				
+head_to_head	SRX24836427	PRJNA1121237		10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+head_to_head	SRX24836429	PRJNA1121237		10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+head_to_head	SRX22749119	PRJNA1048421		10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2				
+head_to_head	SRX27523566	PRJNA1213849		10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2				
+head_to_head	SRX24836477	PRJNA1121237		10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+head_to_head	SRX27523568	PRJNA1213849		10x 3' v3/v3.1	10x 5' v1/v2	True	10x_3p_v2_or_5p_v1_v2				
+head_to_head	SRX24836432	PRJNA1121237		10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+head_to_head	SRX24836412	PRJNA1121237		10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+head_to_head	SRX24836454	PRJNA1121237		10x 3' v3/v3.1	10x 3' v2	True	10x_3p_v2_or_5p_v1_v2				
+head_to_head	SRX27878548	PRJNA1231523		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+head_to_head	SRX27878549	PRJNA1231523		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+head_to_head	SRX28971814	PRJNA1269513		10x 3' v2	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+head_to_head	SRX28971817	PRJNA1269513		10x 3' v2	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+head_to_head	SRX28971816	PRJNA1269513		10x 3' v2	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+head_to_head	SRX28971811	PRJNA1269513		10x 3' v2	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+head_to_head	SRX27449475	PRJNA1214857		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True		No file matched a known 10x whitelist with expected read geometry			
+head_to_head	SRX27449473	PRJNA1214857		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True		No file matched a known 10x whitelist with expected read geometry			
+head_to_head	SRX27878551	PRJNA1231523		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+head_to_head	SRX27878550	PRJNA1231523		10x 3' v3/v3.1	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+head_to_head	SRX28971818	PRJNA1269513		10x 3' v2	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+head_to_head	SRX28971812	PRJNA1269513		10x 3' v2	10x 3' v4 (GEM-X)	True	10x_3p_v4_gemx				
+vendor_gold	BD_IC-Day1	vendor:BD Rhapsody		BD Rhapsody (Enhanced Beads)	BD Rhapsody (Enhanced V2/V3 beads)	True		No file matched a known 10x whitelist with expected read geometry			

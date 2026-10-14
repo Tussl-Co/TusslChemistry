@@ -1,0 +1,3 @@
+kit	study	run	r1_url	r2_url	split	evidence
+scale_quantum	ScaleBio test data	quantum_202506	https://s3.us-east-2.amazonaws.com/scale.pub/testData/rna/202506_quantumV1/fastq/QSR-1_R1_001.fastq.gz	https://s3.us-east-2.amazonaws.com/scale.pub/testData/rna/202506_quantumV1/fastq/QSR-1_R2_001.fastq.gz	design	ScaleRna README test set (QuantumScale v1.0 library structure)
+scale_quantum	ScaleBio test data	quantum_202504	https://s3.us-east-2.amazonaws.com/scale.pub/testData/rna/202504_quantumV1/fastq/QSR-1_R1_001.fastq.gz	https://s3.us-east-2.amazonaws.com/scale.pub/testData/rna/202504_quantumV1/fastq/QSR-1_R2_001.fastq.gz	held_out	ScaleRna pipeline test data (QuantumScale v1.0)

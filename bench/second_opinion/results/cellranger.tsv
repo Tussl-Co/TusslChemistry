@@ -1,0 +1,41 @@
+run	study	label	call	cellranger	status	seconds	message
+SRR29820164	PRJNA1135481	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	99	
+SRR25469352	PRJNA1000604	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	61	
+SRR12607398	PRJNA662313	10x 3' v3/v3.1	10x 3' v2	Single Cell 3' v2	ok	90	
+SRR26071613	PRJNA1017828	10x 3' v2	10x 5' v1/v2	Single Cell 5' R2-only	ok	82	
+SRR22235218	PRJNA899548	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	65	
+SRR23633815	PRJNA939217	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	60	
+SRR22096443	PRJNA895710	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	60	
+SRR22586452	PRJNA910476	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	144	
+SRR21008156	PRJNA868377	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	142	
+SRR28198727	PRJNA1082742	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	91	
+SRR36804933	PRJNA1402258	10x Flex v1	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	57	
+SRR15102751	PRJNA668812	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	52	
+SRR15030328	PRJNA743317	10x 3' v3/v3.1	10x 3' v2	Single Cell 3' v2	ok	68	
+SRR23278637	PRJNA929553	10x 3' v3/v3.1	10x 5' v1/v2	Single Cell 5' R2-only	ok	86	
+SRR30863959	PRJNA1166183	10x 3' v3/v3.1	10x 3' v2	Single Cell 3' v2	ok	90	
+SRR25424871	PRJNA998714	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	62	
+ERR11580783	PRJEB63326	10x Multiome GEX	10x 3' v2	Single Cell 3' v2	ok	89	
+SRR31542538	PRJNA1191818	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	64	
+SRR27129508	PRJNA1049768	10x 3' v3/v3.1	10x 5' v1/v2	Single Cell 5' R2-only	ok	89	
+SRR39210729	PRJNA849028	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	Single Cell 3' v4 (polyA)	ok	61	
+SRR21545390	PRJNA880245	10x 3' v3/v3.1	10x 5' v1/v2	Single Cell 5' PE	ok	78	
+SRR38880999	PRJNA1471638	10x 3' v3/v3.1	10x 3' v2	Single Cell 3' v2	ok	91	
+SRR25030499	PRJNA987618	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	48	
+SRR27674006	PRJNA1067337	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	55	
+SRR31542537	PRJNA1191818	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	51	
+SRR15102750	PRJNA668812	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	52	
+SRR17230453	PRJNA788905	10x 5' v3 (GEM-X)	10x 5' v1/v2	Single Cell 5' PE	ok	74	
+SRR22560516	PRJNA909593	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	62	
+SRR21492414	PRJNA884396	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	59	
+SRR21545391	PRJNA880245	10x 3' v3/v3.1	10x 5' v1/v2	Single Cell 5' PE	ok	83	
+SRR12820282	PRJNA669050	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	83	
+SRR30736223	PRJNA1163336	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	66	
+SRR12615660	PRJNA662503	10x 3' v3/v3.1	10x 3' v2	Single Cell 3' v2	ok	83	
+SRR29041662	PRJNA1111841	10x 3' v3/v3.1	10x 5' v1/v2	Single Cell 5' PE	ok	78	
+SRR12522007	PRJNA659528	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	58	
+SRR39210730	PRJNA849028	10x 3' v3/v3.1	10x 3' v4 (GEM-X)	Single Cell 3' v4 (polyA)	ok	68	
+SRR21226571	PRJNA872112	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	80	
+SRR21983442	PRJNA892527	10x 3' v2	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	69	
+SRR33316953	PRJNA1255557	10x 3' v4 (GEM-X)	10x 3' v3/v3.1	Single Cell 3' v3 (polyA)	ok	58	
+SRR37846300	PRJNA1445076	10x 3' v3/v3.1	10x 5' v1/v2	Single Cell 5' PE	ok	100	

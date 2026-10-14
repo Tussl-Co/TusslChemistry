@@ -1,0 +1,70 @@
+4,5c4,8
+< """Build statements.tsv and labels.tsv from the audit's raw ENA/GEO records.
+< Usage: python3 -I build.py <auditdir> <outdir>"""
+---
+> """Copy of bench/head_to_head/scripts/lab_labels/build.py (diff: work/build.diff). Changes: label10x imported
+> from the committed directory; input = every ENA run of the remaining SRX (srx, srr, study); labels.tsv gains a
+> run column and loses conflict_reason (no reasons.tsv); the 465 assert is dropped; each run's label, evidence
+> (first sentence that stated its exact label) and missing records are saved to work/run_labels.json.
+> Usage: python3 -I -B build.py <W> <outdir>"""
+10c13
+< sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+---
+> sys.path.insert(0, os.path.join(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".."), "head_to_head", "scripts", "lab_labels"))
+51c54,55
+< inp = list(csv.DictReader(open(f"{A}/input_runs.tsv", encoding="utf-8"), delimiter="\t"))
+---
+> csv.field_size_limit(10**8)
+> inp = list(csv.DictReader(open(f"{A}/work/input_runs.tsv", encoding="utf-8"), delimiter="\t"))
+73a78
+> info = {}
+79a85,86
+>     first_exact = {}
+>     run_missing = []
+92c99
+<                 missing.append(g); continue
+---
+>                 missing.append(g); run_missing.append(g); continue
+96c103
+<         missing.append(srr)
+---
+>         missing.append(srr); run_missing.append(srr)
+114a122
+>                 first_exact.setdefault(m, (q, s, source, rid, url, fname))
+131,143c139,140
+<     labels.append([srx, study, lab, len(exact) + len(partial), ""])
+< 
+< # conflict reasons written by hand after reading the quoted sentences (reasons.tsv: srx<TAB>reason)
+< reasons = {}
+< if os.path.exists(f"{OUT}/reasons.tsv"):
+<     for line in open(f"{OUT}/reasons.tsv", encoding="utf-8"):
+<         if line.strip() and not line.startswith("#"):
+<             k, _, v = line.rstrip("\n").partition("\t")
+<             reasons[k] = v
+< for row in labels:
+<     if row[2] == "conflict":
+<         row[4] = reasons.get(row[0], "")
+< 
+---
+>     labels.append([srx, srr, study, lab, len(exact) + len(partial)])
+>     info[srr] = {"srx": srx, "study": study, "label": lab, "evidence": first_exact.get(lab), "missing": run_missing}
+152c149,150
+< w("labels.tsv", ["srx", "study", "label", "n_statements", "conflict_reason"], labels)
+---
+> w("labels.tsv", ["srx", "run", "study", "label", "n_statements"], labels)
+> json.dump(info, open(f"{A}/work/run_labels.json", "w", encoding="utf-8"), indent=0)
+155c153
+< assert len(labels) == len(inp) == 465
+---
+> assert len(labels) == len(inp)
+157,159c155,157
+< c = Counter(r[2] for r in labels)
+< studies = {k: len({r[1] for r in labels if r[2] == k}) for k in c}
+< print(f"{len(stm)} statement rows; {len(labels)} runs; missing records: {missing or 'none'}")
+---
+> c = Counter(r[3] for r in labels)
+> studies = {k: len({r[2] for r in labels if r[3] == k}) for k in c}
+> print(f"{len(stm)} statement rows; {len(labels)} runs; missing records: {len(set(missing))} {sorted(set(missing))[:20] or 'none'}")
+167,168d164
+< unr = [r[0] for r in labels if r[2] == "conflict" and not r[4]]
+< print(f"conflicts without a written reason: {len(unr)}")

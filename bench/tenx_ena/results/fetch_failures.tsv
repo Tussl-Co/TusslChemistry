@@ -1,0 +1,6 @@
+source	accession	url	error
+read_length	SRR31815262	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR318/062/SRR31815262/SRR31815262_1.fastq.gz	0: unreachable on 2 attempts, or not gzip
+srx_lookup	SRX14779154	NCBI runinfo, ENA browser xml	no study found (ENA 404); post-draw check
+srx_lookup	SRX14779158	NCBI runinfo, ENA browser xml	no study found (ENA 404); post-draw check
+srx_lookup	SRX19902442	NCBI runinfo, ENA browser xml	no study found (ENA 404); post-draw check
+read_length	SRR37573406	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR375/006/SRR37573406/SRR37573406_2.fastq.gz	0: unreachable on 2 attempts, or not gzip

@@ -1,0 +1,7 @@
+# Validation of each kit family's HIGH calls on held-out runs (bench/coverage).
+# From: Coverage run: tchem 0.1.0, commit 00fffa8, binary sha256 19503cf97578b61b.
+layout	read_kind	exact_runs	exact_studies	family_runs	read_label_runs	disputed	wrong
+BD Rhapsody	short	473	252	0	0	2	0
+Parse Evercode WT	short	202	109	0	0	1	0
+SeekGene SeekOne DD	short	72	38	0	0	15	0
+Singleron GEXSCOPE	short	363	187	0	0	8	0

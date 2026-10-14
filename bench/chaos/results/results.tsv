@@ -1,0 +1,426 @@
+base	mutation	expect	status	panicked	high_wrong	deterministic	detail
+10x_3p_v3	swap	swapped_same	PASS	False	False	True	10x 3' v3/v3.1 (HIGH)
+10x_3p_v3	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	10x 3' v3/v3.1 (HIGH)
+10x_3p_v3	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_3p_v3	trim_barcode_read	not_high	PASS	False	False	True	10x 3' v3/v3.1 (LOW)
+10x_3p_v3	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_3p_v3	tiny_500_reads	same_or_lower	PASS	False	False	True	10x 3' v3/v3.1 (HIGH)
+10x_3p_v3	crlf_line_endings	same	PASS	False	False	True	10x 3' v3/v3.1 (HIGH)
+10x_3p_v3	lowercase_bases	same	PASS	False	False	True	10x 3' v3/v3.1 (HIGH)
+10x_3p_v3	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_3p_v3	substitutions_3pct	same_or_lower	PASS	False	False	True	10x 3' v3/v3.1 (HIGH)
+10x_3p_v3	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	10x 3' v3/v3.1 (HIGH)
+10x_3p_v3	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_3p_v3	r2_half_the_reads	same	PASS	False	False	True	10x 3' v3/v3.1 (HIGH)
+10x_3p_v3	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/10x_3p_v3.fasta.R1.fa.gz: record 1 does not start with '@'
+10x_3p_v3	empty_file	error	PASS	False	False	True	Error: $WORK/10x_3p_v3.empty.R1.fq.gz has no reads
+10x_3p_v3	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+10x_3p_v3	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/10x_3p_v3.badq.R1.fq.gz: record 1 quality length differs from sequence
+10x_3p_v2	swap	swapped_same	PASS	False	False	True	10x 3' v2 (HIGH)
+10x_3p_v2	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	AMBIGUOUS between 10x 3' v2 and 10x 5' v1/v2 (None)
+10x_3p_v2	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_3p_v2	trim_barcode_read	not_high	PASS	False	False	True	10x 3' v2 (LOW)
+10x_3p_v2	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_3p_v2	tiny_500_reads	same_or_lower	PASS	False	False	True	10x 3' v2 (HIGH)
+10x_3p_v2	crlf_line_endings	same	PASS	False	False	True	10x 3' v2 (HIGH)
+10x_3p_v2	lowercase_bases	same	PASS	False	False	True	10x 3' v2 (HIGH)
+10x_3p_v2	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_3p_v2	substitutions_3pct	same_or_lower	PASS	False	False	True	10x 3' v2 (HIGH)
+10x_3p_v2	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	AMBIGUOUS between 10x 3' v2 and 10x 5' v1/v2 (None)
+10x_3p_v2	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_3p_v2	r2_half_the_reads	same	PASS	False	False	True	10x 3' v2 (HIGH)
+10x_3p_v2	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/10x_3p_v2.fasta.R1.fa.gz: record 1 does not start with '@'
+10x_3p_v2	empty_file	error	PASS	False	False	True	Error: $WORK/10x_3p_v2.empty.R1.fq.gz has no reads
+10x_3p_v2	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+10x_3p_v2	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/10x_3p_v2.badq.R1.fq.gz: record 1 quality length differs from sequence
+10x_5p_v2	swap	swapped_same	PASS	False	False	True	10x 5' v1/v2 (HIGH)
+10x_5p_v2	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	AMBIGUOUS between 10x 3' v2 and 10x 5' v1/v2 (None)
+10x_5p_v2	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_5p_v2	trim_barcode_read	not_high	PASS	False	False	True	10x 3' v2 (LOW)
+10x_5p_v2	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_5p_v2	tiny_500_reads	same_or_lower	PASS	False	False	True	10x 5' v1/v2 (HIGH)
+10x_5p_v2	crlf_line_endings	same	PASS	False	False	True	10x 5' v1/v2 (HIGH)
+10x_5p_v2	lowercase_bases	same	PASS	False	False	True	10x 5' v1/v2 (HIGH)
+10x_5p_v2	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_5p_v2	substitutions_3pct	same_or_lower	PASS	False	False	True	10x 5' v1/v2 (HIGH)
+10x_5p_v2	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	AMBIGUOUS between 10x 3' v2 and 10x 5' v1/v2 (None)
+10x_5p_v2	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_5p_v2	r2_half_the_reads	same	PASS	False	False	True	10x 5' v1/v2 (HIGH)
+10x_5p_v2	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/10x_5p_v2.fasta.R1.fa.gz: record 1 does not start with '@'
+10x_5p_v2	empty_file	error	PASS	False	False	True	Error: $WORK/10x_5p_v2.empty.R1.fq.gz has no reads
+10x_5p_v2	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+10x_5p_v2	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/10x_5p_v2.badq.R1.fq.gz: record 1 quality length differs from sequence
+bd_v1	swap	swapped_same	PASS	False	False	True	BD Rhapsody (original V1 beads) (HIGH)
+bd_v1	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	BD Rhapsody (original V1 beads) (HIGH)
+bd_v1	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+bd_v1	trim_barcode_read	not_high	PASS	False	False	True	BD Rhapsody (original V1 beads) (LOW)
+bd_v1	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+bd_v1	tiny_500_reads	same_or_lower	PASS	False	False	True	BD Rhapsody (original V1 beads) (HIGH)
+bd_v1	crlf_line_endings	same	PASS	False	False	True	BD Rhapsody (original V1 beads) (HIGH)
+bd_v1	lowercase_bases	same	PASS	False	False	True	BD Rhapsody (original V1 beads) (HIGH)
+bd_v1	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+bd_v1	substitutions_3pct	same_or_lower	PASS	False	False	True	BD Rhapsody (original V1 beads) (HIGH)
+bd_v1	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	BD Rhapsody (original V1 beads) (HIGH)
+bd_v1	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+bd_v1	r2_half_the_reads	same	PASS	False	False	True	BD Rhapsody (original V1 beads) (HIGH)
+bd_v1	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/bd_v1.fasta.R1.fa.gz: record 1 does not start with '@'
+bd_v1	empty_file	error	PASS	False	False	True	Error: $WORK/bd_v1.empty.R1.fq.gz has no reads
+bd_v1	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+bd_v1	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/bd_v1.badq.R1.fq.gz: record 1 quality length differs from sequence
+bd_eb	swap	swapped_same	PASS	False	False	True	BD Rhapsody (Enhanced Beads) (HIGH)
+bd_eb	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	BD Rhapsody (Enhanced Beads) (HIGH)
+bd_eb	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+bd_eb	trim_barcode_read	not_high	PASS	False	False	True	BD Rhapsody (Enhanced Beads) (LOW)
+bd_eb	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+bd_eb	tiny_500_reads	same_or_lower	PASS	False	False	True	BD Rhapsody (Enhanced Beads) (HIGH)
+bd_eb	crlf_line_endings	same	PASS	False	False	True	BD Rhapsody (Enhanced Beads) (HIGH)
+bd_eb	lowercase_bases	same	PASS	False	False	True	BD Rhapsody (Enhanced Beads) (HIGH)
+bd_eb	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+bd_eb	substitutions_3pct	same_or_lower	PASS	False	False	True	BD Rhapsody (Enhanced Beads) (HIGH)
+bd_eb	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	BD Rhapsody (Enhanced Beads) (HIGH)
+bd_eb	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+bd_eb	r2_half_the_reads	same	PASS	False	False	True	BD Rhapsody (Enhanced Beads) (HIGH)
+bd_eb	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/bd_eb.fasta.R1.fa.gz: record 1 does not start with '@'
+bd_eb	empty_file	error	PASS	False	False	True	Error: $WORK/bd_eb.empty.R1.fq.gz has no reads
+bd_eb	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+bd_eb	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/bd_eb.badq.R1.fq.gz: record 1 quality length differs from sequence
+parse	swap	swapped_same	PASS	False	False	True	Parse Evercode WT (HIGH)
+parse	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	Parse Evercode WT (HIGH)
+parse	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+parse	trim_barcode_read	not_high	PASS	False	False	True	SPLiT-seq (Rosenberg 2018) (LOW)
+parse	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+parse	tiny_500_reads	same_or_lower	PASS	False	False	True	Parse Evercode WT (HIGH)
+parse	crlf_line_endings	same	PASS	False	False	True	Parse Evercode WT (HIGH)
+parse	lowercase_bases	same	PASS	False	False	True	Parse Evercode WT (HIGH)
+parse	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+parse	substitutions_3pct	same_or_lower	PASS	False	False	True	Parse Evercode WT (HIGH)
+parse	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+parse	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+parse	r2_half_the_reads	same	PASS	False	False	True	Parse Evercode WT (HIGH)
+parse	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/parse.fasta.R1.fa.gz: record 1 does not start with '@'
+parse	empty_file	error	PASS	False	False	True	Error: $WORK/parse.empty.R1.fq.gz has no reads
+parse	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+parse	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/parse.badq.R1.fq.gz: record 1 quality length differs from sequence
+splitseq	swap	swapped_same	PASS	False	False	True	SPLiT-seq (Rosenberg 2018) (HIGH)
+splitseq	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	SPLiT-seq (Rosenberg 2018) (HIGH)
+splitseq	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+splitseq	trim_barcode_read	not_high	PASS	False	False	True	SPLiT-seq (Rosenberg 2018) (LOW)
+splitseq	mix_with_other_chemistry	not_high	PASS	False	False	True	10x Flex v1 (MEDIUM)
+splitseq	tiny_500_reads	same_or_lower	PASS	False	False	True	SPLiT-seq (Rosenberg 2018) (HIGH)
+splitseq	crlf_line_endings	same	PASS	False	False	True	SPLiT-seq (Rosenberg 2018) (HIGH)
+splitseq	lowercase_bases	same	PASS	False	False	True	SPLiT-seq (Rosenberg 2018) (HIGH)
+splitseq	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+splitseq	substitutions_3pct	same_or_lower	PASS	False	False	True	SPLiT-seq (Rosenberg 2018) (HIGH)
+splitseq	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+splitseq	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+splitseq	r2_half_the_reads	same	PASS	False	False	True	SPLiT-seq (Rosenberg 2018) (HIGH)
+splitseq	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/splitseq.fasta.R1.fa.gz: record 1 does not start with '@'
+splitseq	empty_file	error	PASS	False	False	True	Error: $WORK/splitseq.empty.R1.fq.gz has no reads
+splitseq	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+splitseq	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/splitseq.badq.R1.fq.gz: record 1 quality length differs from sequence
+dropseq	swap	swapped_same	PASS	False	False	True	Drop-seq (MEDIUM)
+dropseq	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	Drop-seq (MEDIUM)
+dropseq	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+dropseq	trim_barcode_read	not_high	PASS	False	False	True	Drop-seq (MEDIUM)
+dropseq	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+dropseq	tiny_500_reads	same_or_lower	PASS	False	False	True	Drop-seq (MEDIUM)
+dropseq	crlf_line_endings	same	PASS	False	False	True	Drop-seq (MEDIUM)
+dropseq	lowercase_bases	same	PASS	False	False	True	Drop-seq (MEDIUM)
+dropseq	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+dropseq	substitutions_3pct	same_or_lower	PASS	False	False	True	Drop-seq (MEDIUM)
+dropseq	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	Drop-seq (MEDIUM)
+dropseq	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+dropseq	r2_half_the_reads	same	PASS	False	False	True	Drop-seq (MEDIUM)
+dropseq	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/dropseq.fasta.R1.fa.gz: record 1 does not start with '@'
+dropseq	empty_file	error	PASS	False	False	True	Error: $WORK/dropseq.empty.R1.fq.gz has no reads
+dropseq	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+dropseq	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/dropseq.badq.R1.fq.gz: record 1 quality length differs from sequence
+10x_multiome	swap	swapped_same	PASS	False	False	True	10x Multiome GEX (HIGH)
+10x_multiome	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	10x Multiome GEX (HIGH)
+10x_multiome	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_multiome	trim_barcode_read	not_high	PASS	False	False	True	10x Multiome GEX (LOW)
+10x_multiome	mix_with_other_chemistry	not_high	PASS	False	False	True	ScaleBio QuantumScale RNA (MEDIUM)
+10x_multiome	tiny_500_reads	same_or_lower	PASS	False	False	True	10x Multiome GEX (HIGH)
+10x_multiome	crlf_line_endings	same	PASS	False	False	True	10x Multiome GEX (HIGH)
+10x_multiome	lowercase_bases	same	PASS	False	False	True	10x Multiome GEX (HIGH)
+10x_multiome	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_multiome	substitutions_3pct	same_or_lower	PASS	False	False	True	10x Multiome GEX (HIGH)
+10x_multiome	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	10x Multiome GEX (HIGH)
+10x_multiome	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_multiome	r2_half_the_reads	same	PASS	False	False	True	10x Multiome GEX (HIGH)
+10x_multiome	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/10x_multiome.fasta.R1.fa.gz: record 1 does not start with '@'
+10x_multiome	empty_file	error	PASS	False	False	True	Error: $WORK/10x_multiome.empty.R1.fq.gz has no reads
+10x_multiome	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+10x_multiome	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/10x_multiome.badq.R1.fq.gz: record 1 quality length differs from sequence
+10x_flex_v1	swap	swapped_same	PASS	False	False	True	10x Flex v1 (HIGH)
+10x_flex_v1	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	10x Flex v1 (HIGH)
+10x_flex_v1	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_flex_v1	trim_barcode_read	not_high	PASS	False	False	True	10x Flex v1 (LOW)
+10x_flex_v1	mix_with_other_chemistry	not_high	PASS	False	False	True	10x Flex v1 (MEDIUM)
+10x_flex_v1	tiny_500_reads	same_or_lower	PASS	False	False	True	10x Flex v1 (HIGH)
+10x_flex_v1	crlf_line_endings	same	PASS	False	False	True	10x Flex v1 (HIGH)
+10x_flex_v1	lowercase_bases	same	PASS	False	False	True	10x Flex v1 (HIGH)
+10x_flex_v1	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_flex_v1	substitutions_3pct	same_or_lower	PASS	False	False	True	10x Flex v1 (HIGH)
+10x_flex_v1	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	10x Flex v1 (HIGH)
+10x_flex_v1	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_flex_v1	r2_half_the_reads	same	PASS	False	False	True	10x Flex v1 (HIGH)
+10x_flex_v1	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/10x_flex_v1.fasta.R1.fa.gz: record 1 does not start with '@'
+10x_flex_v1	empty_file	error	PASS	False	False	True	Error: $WORK/10x_flex_v1.empty.R1.fq.gz has no reads
+10x_flex_v1	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+10x_flex_v1	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/10x_flex_v1.badq.R1.fq.gz: record 1 quality length differs from sequence
+bd_v2v3	swap	swapped_same	PASS	False	False	True	BD Rhapsody (Enhanced V2/V3 beads) (HIGH)
+bd_v2v3	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	BD Rhapsody (Enhanced V2/V3 beads) (HIGH)
+bd_v2v3	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+bd_v2v3	trim_barcode_read	not_high	PASS	False	False	True	BD Rhapsody (Enhanced V2/V3 beads) (LOW)
+bd_v2v3	mix_with_other_chemistry	not_high	PASS	False	False	True	MGI DNBelab C4 / C-series HT (MEDIUM)
+bd_v2v3	tiny_500_reads	same_or_lower	PASS	False	False	True	BD Rhapsody (Enhanced V2/V3 beads) (HIGH)
+bd_v2v3	crlf_line_endings	same	PASS	False	False	True	BD Rhapsody (Enhanced V2/V3 beads) (HIGH)
+bd_v2v3	lowercase_bases	same	PASS	False	False	True	BD Rhapsody (Enhanced V2/V3 beads) (HIGH)
+bd_v2v3	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+bd_v2v3	substitutions_3pct	same_or_lower	PASS	False	False	True	BD Rhapsody (Enhanced V2/V3 beads) (HIGH)
+bd_v2v3	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	BD Rhapsody (Enhanced V2/V3 beads) (HIGH)
+bd_v2v3	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+bd_v2v3	r2_half_the_reads	same	PASS	False	False	True	BD Rhapsody (Enhanced V2/V3 beads) (HIGH)
+bd_v2v3	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/bd_v2v3.fasta.R1.fa.gz: record 1 does not start with '@'
+bd_v2v3	empty_file	error	PASS	False	False	True	Error: $WORK/bd_v2v3.empty.R1.fq.gz has no reads
+bd_v2v3	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+bd_v2v3	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/bd_v2v3.badq.R1.fq.gz: record 1 quality length differs from sequence
+quantumscale	swap	swapped_same	PASS	False	False	True	ScaleBio QuantumScale RNA (HIGH)
+quantumscale	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	ScaleBio QuantumScale RNA (HIGH)
+quantumscale	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+quantumscale	trim_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+quantumscale	mix_with_other_chemistry	not_high	PASS	False	False	True	ScaleBio QuantumScale RNA (MEDIUM)
+quantumscale	tiny_500_reads	same_or_lower	PASS	False	False	True	ScaleBio QuantumScale RNA (MEDIUM)
+quantumscale	crlf_line_endings	same	PASS	False	False	True	ScaleBio QuantumScale RNA (HIGH)
+quantumscale	lowercase_bases	same	PASS	False	False	True	ScaleBio QuantumScale RNA (HIGH)
+quantumscale	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+quantumscale	substitutions_3pct	same_or_lower	PASS	False	False	True	ScaleBio QuantumScale RNA (HIGH)
+quantumscale	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+quantumscale	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+quantumscale	r2_half_the_reads	same	PASS	False	False	True	ScaleBio QuantumScale RNA (MEDIUM)
+quantumscale	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/quantumscale.fasta.R1.fa.gz: record 1 does not start with '@'
+quantumscale	empty_file	error	PASS	False	False	True	Error: $WORK/quantumscale.empty.R1.fq.gz has no reads
+quantumscale	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+quantumscale	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/quantumscale.badq.R1.fq.gz: record 1 quality length differs from sequence
+parse_v3	swap	swapped_same	PASS	False	False	True	Parse Evercode WT v3 (HIGH)
+parse_v3	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	Parse Evercode WT v3 (HIGH)
+parse_v3	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+parse_v3	trim_barcode_read	not_high	PASS	False	False	True	Parse Evercode WT v3 (LOW)
+parse_v3	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+parse_v3	tiny_500_reads	same_or_lower	PASS	False	False	True	Parse Evercode WT v3 (HIGH)
+parse_v3	crlf_line_endings	same	PASS	False	False	True	Parse Evercode WT v3 (HIGH)
+parse_v3	lowercase_bases	same	PASS	False	False	True	Parse Evercode WT v3 (HIGH)
+parse_v3	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+parse_v3	substitutions_3pct	same_or_lower	PASS	False	False	True	Parse Evercode WT v3 (HIGH)
+parse_v3	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+parse_v3	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+parse_v3	r2_half_the_reads	same	PASS	False	False	True	Parse Evercode WT v3 (HIGH)
+parse_v3	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/parse_v3.fasta.R1.fa.gz: record 1 does not start with '@'
+parse_v3	empty_file	error	PASS	False	False	True	Error: $WORK/parse_v3.empty.R1.fq.gz has no reads
+parse_v3	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+parse_v3	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/parse_v3.badq.R1.fq.gz: record 1 quality length differs from sequence
+mgi	swap	swapped_same	PASS	False	False	True	MGI DNBelab C4 / C-series HT (HIGH)
+mgi	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	MGI DNBelab C4 / C-series HT (HIGH)
+mgi	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+mgi	trim_barcode_read	not_high	PASS	False	False	True	MGI DNBelab C4 / C-series HT (LOW)
+mgi	mix_with_other_chemistry	not_high	PASS	False	False	True	MGI DNBelab C4 / C-series HT (MEDIUM)
+mgi	tiny_500_reads	same_or_lower	PASS	False	False	True	MGI DNBelab C4 / C-series HT (HIGH)
+mgi	crlf_line_endings	same	PASS	False	False	True	MGI DNBelab C4 / C-series HT (HIGH)
+mgi	lowercase_bases	same	PASS	False	False	True	MGI DNBelab C4 / C-series HT (HIGH)
+mgi	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+mgi	substitutions_3pct	same_or_lower	PASS	False	False	True	MGI DNBelab C4 / C-series HT (HIGH)
+mgi	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	MGI DNBelab C4 / C-series HT (HIGH)
+mgi	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+mgi	r2_half_the_reads	same	PASS	False	False	True	MGI DNBelab C4 / C-series HT (HIGH)
+mgi	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/mgi.fasta.R1.fa.gz: record 1 does not start with '@'
+mgi	empty_file	error	PASS	False	False	True	Error: $WORK/mgi.empty.R1.fq.gz has no reads
+mgi	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+mgi	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/mgi.badq.R1.fq.gz: record 1 quality length differs from sequence
+pipseq	swap	swapped_same	PASS	False	False	True	Illumina Single Cell 3' / PIPseq v3-v4 (HIGH)
+pipseq	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	Illumina Single Cell 3' / PIPseq v3-v4 (HIGH)
+pipseq	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+pipseq	trim_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+pipseq	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+pipseq	tiny_500_reads	same_or_lower	PASS	False	False	True	Illumina Single Cell 3' / PIPseq v3-v4 (HIGH)
+pipseq	crlf_line_endings	same	PASS	False	False	True	Illumina Single Cell 3' / PIPseq v3-v4 (HIGH)
+pipseq	lowercase_bases	same	PASS	False	False	True	Illumina Single Cell 3' / PIPseq v3-v4 (HIGH)
+pipseq	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+pipseq	substitutions_3pct	same_or_lower	PASS	False	False	True	Illumina Single Cell 3' / PIPseq v3-v4 (HIGH)
+pipseq	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	Illumina Single Cell 3' / PIPseq v3-v4 (HIGH)
+pipseq	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+pipseq	r2_half_the_reads	same	PASS	False	False	True	Illumina Single Cell 3' / PIPseq v3-v4 (HIGH)
+pipseq	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/pipseq.fasta.R1.fa.gz: record 1 does not start with '@'
+pipseq	empty_file	error	PASS	False	False	True	Error: $WORK/pipseq.empty.R1.fq.gz has no reads
+pipseq	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+pipseq	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/pipseq.badq.R1.fq.gz: record 1 quality length differs from sequence
+scalebio	swap	swapped_same	PASS	False	False	True	ScaleBio RNA (HIGH)
+scalebio	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	ScaleBio RNA (HIGH)
+scalebio	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+scalebio	trim_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+scalebio	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+scalebio	tiny_500_reads	same_or_lower	PASS	False	False	True	ScaleBio RNA (HIGH)
+scalebio	crlf_line_endings	same	PASS	False	False	True	ScaleBio RNA (HIGH)
+scalebio	lowercase_bases	same	PASS	False	False	True	ScaleBio RNA (HIGH)
+scalebio	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+scalebio	substitutions_3pct	same_or_lower	PASS	False	False	True	ScaleBio RNA (HIGH)
+scalebio	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	ScaleBio RNA (HIGH)
+scalebio	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+scalebio	r2_half_the_reads	same	PASS	False	False	True	ScaleBio RNA (HIGH)
+scalebio	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/scalebio.fasta.R1.fa.gz: record 1 does not start with '@'
+scalebio	empty_file	error	PASS	False	False	True	Error: $WORK/scalebio.empty.R1.fq.gz has no reads
+scalebio	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+scalebio	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/scalebio.badq.R1.fq.gz: record 1 quality length differs from sequence
+indrops	swap	swapped_same	PASS	False	False	True	inDrops (HIGH)
+indrops	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	inDrops (HIGH)
+indrops	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+indrops	trim_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+indrops	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+indrops	tiny_500_reads	same_or_lower	PASS	False	False	True	inDrops (HIGH)
+indrops	crlf_line_endings	same	PASS	False	False	True	inDrops (HIGH)
+indrops	lowercase_bases	same	PASS	False	False	True	inDrops (HIGH)
+indrops	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+indrops	substitutions_3pct	same_or_lower	PASS	False	False	True	inDrops (HIGH)
+indrops	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	inDrops (HIGH)
+indrops	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+indrops	r2_half_the_reads	same	PASS	False	False	True	inDrops (HIGH)
+indrops	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/indrops.fasta.R1.fa.gz: record 1 does not start with '@'
+indrops	empty_file	error	PASS	False	False	True	Error: $WORK/indrops.empty.R1.fq.gz has no reads
+indrops	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+indrops	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/indrops.badq.R1.fq.gz: record 1 quality length differs from sequence
+seekgene_dd3	swap	swapped_same	PASS	False	False	True	SeekGene SeekOne DD 3' (HIGH)
+seekgene_dd3	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	SeekGene SeekOne DD 3' (HIGH)
+seekgene_dd3	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+seekgene_dd3	trim_barcode_read	not_high	PASS	False	False	True	SeekGene SeekOne DD 3' (LOW)
+seekgene_dd3	mix_with_other_chemistry	not_high	PASS	False	False	True	10x 3' v4 (GEM-X) (MEDIUM)
+seekgene_dd3	tiny_500_reads	same_or_lower	PASS	False	False	True	SeekGene SeekOne DD 3' (HIGH)
+seekgene_dd3	crlf_line_endings	same	PASS	False	False	True	SeekGene SeekOne DD 3' (HIGH)
+seekgene_dd3	lowercase_bases	same	PASS	False	False	True	SeekGene SeekOne DD 3' (HIGH)
+seekgene_dd3	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+seekgene_dd3	substitutions_3pct	same_or_lower	PASS	False	False	True	SeekGene SeekOne DD 3' (HIGH)
+seekgene_dd3	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	SeekGene SeekOne DD 3' (HIGH)
+seekgene_dd3	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+seekgene_dd3	r2_half_the_reads	same	PASS	False	False	True	SeekGene SeekOne DD 3' (HIGH)
+seekgene_dd3	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/seekgene_dd3.fasta.R1.fa.gz: record 1 does not start with '@'
+seekgene_dd3	empty_file	error	PASS	False	False	True	Error: $WORK/seekgene_dd3.empty.R1.fq.gz has no reads
+seekgene_dd3	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+seekgene_dd3	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/seekgene_dd3.badq.R1.fq.gz: record 1 quality length differs from sequence
+seekgene_dd5	swap	swapped_same	PASS	False	False	True	SeekGene SeekOne DD 5' (HIGH)
+seekgene_dd5	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	SeekGene SeekOne DD 5' (HIGH)
+seekgene_dd5	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+seekgene_dd5	trim_barcode_read	not_high	PASS	False	False	True	SeekGene SeekOne DD 3' (LOW)
+seekgene_dd5	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+seekgene_dd5	tiny_500_reads	same_or_lower	PASS	False	False	True	SeekGene SeekOne DD 5' (HIGH)
+seekgene_dd5	crlf_line_endings	same	PASS	False	False	True	SeekGene SeekOne DD 5' (HIGH)
+seekgene_dd5	lowercase_bases	same	PASS	False	False	True	SeekGene SeekOne DD 5' (HIGH)
+seekgene_dd5	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+seekgene_dd5	substitutions_3pct	same_or_lower	PASS	False	False	True	SeekGene SeekOne DD 5' (HIGH)
+seekgene_dd5	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	SeekGene SeekOne DD 5' (HIGH)
+seekgene_dd5	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+seekgene_dd5	r2_half_the_reads	same	PASS	False	False	True	SeekGene SeekOne DD 5' (HIGH)
+seekgene_dd5	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/seekgene_dd5.fasta.R1.fa.gz: record 1 does not start with '@'
+seekgene_dd5	empty_file	error	PASS	False	False	True	Error: $WORK/seekgene_dd5.empty.R1.fq.gz has no reads
+seekgene_dd5	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+seekgene_dd5	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/seekgene_dd5.badq.R1.fq.gz: record 1 quality length differs from sequence
+pipseq_v	swap	swapped_same	PASS	False	False	True	Illumina Single Cell 3' RNA Prep / PIPseq V (HIGH)
+pipseq_v	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	Illumina Single Cell 3' RNA Prep / PIPseq V (HIGH)
+pipseq_v	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+pipseq_v	trim_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+pipseq_v	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+pipseq_v	tiny_500_reads	same_or_lower	PASS	False	False	True	Illumina Single Cell 3' RNA Prep / PIPseq V (HIGH)
+pipseq_v	crlf_line_endings	same	PASS	False	False	True	Illumina Single Cell 3' RNA Prep / PIPseq V (HIGH)
+pipseq_v	lowercase_bases	same	PASS	False	False	True	Illumina Single Cell 3' RNA Prep / PIPseq V (HIGH)
+pipseq_v	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+pipseq_v	substitutions_3pct	same_or_lower	PASS	False	False	True	Illumina Single Cell 3' RNA Prep / PIPseq V (HIGH)
+pipseq_v	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	Illumina Single Cell 3' RNA Prep / PIPseq V (HIGH)
+pipseq_v	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+pipseq_v	r2_half_the_reads	same	PASS	False	False	True	Illumina Single Cell 3' RNA Prep / PIPseq V (HIGH)
+pipseq_v	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/pipseq_v.fasta.R1.fa.gz: record 1 does not start with '@'
+pipseq_v	empty_file	error	PASS	False	False	True	Error: $WORK/pipseq_v.empty.R1.fq.gz has no reads
+pipseq_v	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+pipseq_v	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/pipseq_v.badq.R1.fq.gz: record 1 quality length differs from sequence
+10x_3p_v4	swap	swapped_same	PASS	False	False	True	10x 3' v4 (GEM-X) (HIGH)
+10x_3p_v4	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	10x 3' v4 (GEM-X) (HIGH)
+10x_3p_v4	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_3p_v4	trim_barcode_read	not_high	PASS	False	False	True	10x 3' v4 (GEM-X) (LOW)
+10x_3p_v4	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_3p_v4	tiny_500_reads	same_or_lower	PASS	False	False	True	10x 3' v4 (GEM-X) (HIGH)
+10x_3p_v4	crlf_line_endings	same	PASS	False	False	True	10x 3' v4 (GEM-X) (HIGH)
+10x_3p_v4	lowercase_bases	same	PASS	False	False	True	10x 3' v4 (GEM-X) (HIGH)
+10x_3p_v4	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_3p_v4	substitutions_3pct	same_or_lower	PASS	False	False	True	10x 3' v4 (GEM-X) (HIGH)
+10x_3p_v4	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	10x 3' v4 (GEM-X) (HIGH)
+10x_3p_v4	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_3p_v4	r2_half_the_reads	same	PASS	False	False	True	10x 3' v4 (GEM-X) (HIGH)
+10x_3p_v4	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/10x_3p_v4.fasta.R1.fa.gz: record 1 does not start with '@'
+10x_3p_v4	empty_file	error	PASS	False	False	True	Error: $WORK/10x_3p_v4.empty.R1.fq.gz has no reads
+10x_3p_v4	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+10x_3p_v4	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/10x_3p_v4.badq.R1.fq.gz: record 1 quality length differs from sequence
+10x_5p_v3	swap	swapped_same	PASS	False	False	True	10x 5' v3 (GEM-X) (HIGH)
+10x_5p_v3	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	10x 5' v3 (GEM-X) (HIGH)
+10x_5p_v3	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_5p_v3	trim_barcode_read	not_high	PASS	False	False	True	10x 5' v3 (GEM-X) (LOW)
+10x_5p_v3	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_5p_v3	tiny_500_reads	same_or_lower	PASS	False	False	True	10x 5' v3 (GEM-X) (HIGH)
+10x_5p_v3	crlf_line_endings	same	PASS	False	False	True	10x 5' v3 (GEM-X) (HIGH)
+10x_5p_v3	lowercase_bases	same	PASS	False	False	True	10x 5' v3 (GEM-X) (HIGH)
+10x_5p_v3	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_5p_v3	substitutions_3pct	same_or_lower	PASS	False	False	True	10x 5' v3 (GEM-X) (HIGH)
+10x_5p_v3	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	10x 5' v3 (GEM-X) (HIGH)
+10x_5p_v3	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+10x_5p_v3	r2_half_the_reads	same	PASS	False	False	True	10x 5' v3 (GEM-X) (HIGH)
+10x_5p_v3	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/10x_5p_v3.fasta.R1.fa.gz: record 1 does not start with '@'
+10x_5p_v3	empty_file	error	PASS	False	False	True	Error: $WORK/10x_5p_v3.empty.R1.fq.gz has no reads
+10x_5p_v3	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+10x_5p_v3	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/10x_5p_v3.badq.R1.fq.gz: record 1 quality length differs from sequence
+singleron_v1	swap	swapped_same	PASS	False	False	True	Singleron GEXSCOPE V1 (HIGH)
+singleron_v1	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	Singleron GEXSCOPE V1 (HIGH)
+singleron_v1	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+singleron_v1	trim_barcode_read	not_high	PASS	False	False	True	Singleron GEXSCOPE V1 (LOW)
+singleron_v1	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+singleron_v1	tiny_500_reads	same_or_lower	PASS	False	False	True	Singleron GEXSCOPE V1 (HIGH)
+singleron_v1	crlf_line_endings	same	PASS	False	False	True	Singleron GEXSCOPE V1 (HIGH)
+singleron_v1	lowercase_bases	same	PASS	False	False	True	Singleron GEXSCOPE V1 (HIGH)
+singleron_v1	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+singleron_v1	substitutions_3pct	same_or_lower	PASS	False	False	True	Singleron GEXSCOPE V1 (HIGH)
+singleron_v1	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	Singleron GEXSCOPE V1 (HIGH)
+singleron_v1	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+singleron_v1	r2_half_the_reads	same	PASS	False	False	True	Singleron GEXSCOPE V1 (HIGH)
+singleron_v1	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/singleron_v1.fasta.R1.fa.gz: record 1 does not start with '@'
+singleron_v1	empty_file	error	PASS	False	False	True	Error: $WORK/singleron_v1.empty.R1.fq.gz has no reads
+singleron_v1	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+singleron_v1	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/singleron_v1.badq.R1.fq.gz: record 1 quality length differs from sequence
+singleron_v2	swap	swapped_same	PASS	False	False	True	Singleron GEXSCOPE V2 (HIGH)
+singleron_v2	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	Singleron GEXSCOPE V2 (HIGH)
+singleron_v2	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+singleron_v2	trim_barcode_read	not_high	PASS	False	False	True	Singleron GEXSCOPE V2 (LOW)
+singleron_v2	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+singleron_v2	tiny_500_reads	same_or_lower	PASS	False	False	True	Singleron GEXSCOPE V2 (HIGH)
+singleron_v2	crlf_line_endings	same	PASS	False	False	True	Singleron GEXSCOPE V2 (HIGH)
+singleron_v2	lowercase_bases	same	PASS	False	False	True	Singleron GEXSCOPE V2 (HIGH)
+singleron_v2	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+singleron_v2	substitutions_3pct	same_or_lower	PASS	False	False	True	Singleron GEXSCOPE V2 (HIGH)
+singleron_v2	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	Singleron GEXSCOPE V2 (HIGH)
+singleron_v2	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+singleron_v2	r2_half_the_reads	same	PASS	False	False	True	Singleron GEXSCOPE V2 (HIGH)
+singleron_v2	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/singleron_v2.fasta.R1.fa.gz: record 1 does not start with '@'
+singleron_v2	empty_file	error	PASS	False	False	True	Error: $WORK/singleron_v2.empty.R1.fq.gz has no reads
+singleron_v2	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+singleron_v2	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/singleron_v2.badq.R1.fq.gz: record 1 quality length differs from sequence
+singleron_v3	swap	swapped_same	PASS	False	False	True	Singleron GEXSCOPE V3 (HIGH)
+singleron_v3	constant_mate_on_a_list	unswapped_same_or_lower	PASS	False	False	True	Singleron GEXSCOPE V3 (HIGH)
+singleron_v3	revcomp_barcode_read	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+singleron_v3	trim_barcode_read	not_high	PASS	False	False	True	Singleron GEXSCOPE V3 (LOW)
+singleron_v3	mix_with_other_chemistry	not_high	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+singleron_v3	tiny_500_reads	same_or_lower	PASS	False	False	True	Singleron GEXSCOPE V3 (HIGH)
+singleron_v3	crlf_line_endings	same	PASS	False	False	True	Singleron GEXSCOPE V3 (HIGH)
+singleron_v3	lowercase_bases	same	PASS	False	False	True	Singleron GEXSCOPE V3 (HIGH)
+singleron_v3	n_storm_30pct	not_high_wrong	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+singleron_v3	substitutions_3pct	same_or_lower	PASS	False	False	True	Singleron GEXSCOPE V3 (HIGH)
+singleron_v3	r2_is_copy_of_r1	not_high_wrong	PASS	False	False	True	Singleron GEXSCOPE V3 (HIGH)
+singleron_v3	barcode_read_missing	no_match	PASS	False	False	True	no known layout (the reads contradict every candidate, and no vendor barcode list agrees with one) (None)
+singleron_v3	r2_half_the_reads	same	PASS	False	False	True	Singleron GEXSCOPE V3 (HIGH)
+singleron_v3	fasta_not_fastq	error	PASS	False	False	True	Error: $WORK/singleron_v3.fasta.R1.fa.gz: record 1 does not start with '@'
+singleron_v3	empty_file	error	PASS	False	False	True	Error: $WORK/singleron_v3.empty.R1.fq.gz has no reads
+singleron_v3	truncated_gzip	error_or_same	PASS	False	False	True	    incomplete deflate stream
+singleron_v3	quality_length_mismatch	error	PASS	False	False	True	Error: $WORK/singleron_v3.badq.R1.fq.gz: record 1 quality length differs from sequence

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Tussl-Co/TusslChemistry/blob/master/schema/emit.v1.json",
+  "title": "tussl-chemistry emitted command, schema 1.x",
+  "description": "The object `tchem --emit <pipeline> --format json` prints: a command for one pipeline, built from the run's verdict. Not a report (see report.v1.json); versioned on its own. See docs/emit.md.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["tool", "version", "emit_schema_version", "pipeline", "layout", "confidence", "validation", "argv", "placeholders", "notes", "shell"],
+  "properties": {
+    "tool": { "const": "tussl-chemistry" },
+    "version": { "type": "string" },
+    "emit_schema_version": { "type": "string", "pattern": "^1\\.[0-9]+$" },
+    "pipeline": { "enum": ["cellranger", "starsolo", "simpleaf", "kb"] },
+    "layout": { "type": "string", "minLength": 1, "description": "The matched layout the command is for." },
+    "confidence": { "enum": ["high", "medium", "low"], "description": "medium or low only with --emit-anyway." },
+    "validation": { "type": "string", "description": "The layout's held-out record, as the text report words it." },
+    "argv": {
+      "type": "array",
+      "minItems": 2,
+      "items": { "type": "string", "minLength": 1 },
+      "description": "The program and its arguments. An item ${NAME} is a placeholder: replace it with a value for that entry of placeholders. No other item is shell syntax."
+    },
+    "placeholders": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "meaning"],
+        "properties": {
+          "name": { "type": "string", "pattern": "^[A-Z_][A-Z0-9_]*$" },
+          "meaning": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "notes": { "type": "array", "items": { "type": "string" } },
+    "shell": { "type": "string", "description": "The same command as a POSIX shell script; placeholders read from the environment and stop with their meaning when unset." }
+  }
+}

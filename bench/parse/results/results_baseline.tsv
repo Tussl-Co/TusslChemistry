@@ -1,0 +1,145 @@
+kit	study	gse	run	status	verdict	confidence	r1_length	detail
+parse_wt_v1	PRJNA955181		SRR24154342	ok	Parse Evercode WT	HIGH	101	Parse Evercode WT 87.5%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 49.7%
+parse_wt_v1	PRJNA1150627		SRR30333417	ok	Parse Evercode WT	HIGH	151	Parse Evercode WT 83.6%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 47.8%
+parse_wt_v1	PRJNA1150627		SRR30333418	ok	Parse Evercode WT	HIGH	151	Parse Evercode WT 82.6%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 47.3%
+parse_wt_v1	PRJNA975472		SRR24710531	ok	no known layout (best support under 30%)		28	Drop-seq 100.0%; ScaleBio RNA 15.3%; inDrops 15.2%
+parse_wt_v1	PRJNA975472		SRR24710532	ok	no known layout (best support under 30%)		28	Drop-seq 100.0%; ScaleBio RNA 16.5%; inDrops 16.5%
+parse_wt_v1	PRJNA1066247		SRR27606211	ok	Parse Evercode WT	LOW	74	Drop-seq 100.0%; Parse Evercode WT 79.7%; SPLiT-seq (Rosenberg 2018) 43.1%
+parse_wt_v2	PRJNA1090404		SRR28407636	ok	Parse Evercode WT	HIGH	74	Parse Evercode WT 88.1%; Drop-seq 100.0%; ScaleBio RNA 55.8%
+parse_wt_v2	PRJNA722759		SRR26952378	ok	Parse Evercode WT	HIGH	125	Parse Evercode WT 72.6%; Drop-seq 100.0%; ScaleBio RNA 59.1%
+parse_wt_v2	PRJNA722759		SRR26952379	ok	Parse Evercode WT	LOW	125	Drop-seq 100.0%; Parse Evercode WT 72.0%; ScaleBio RNA 60.6%
+parse_wt_v2	PRJNA1130455		SRR29665317	ok	Parse Evercode WT	HIGH	101	Parse Evercode WT 93.8%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 56.2%
+parse_wt_v2	PRJNA1130455		SRR29665316	ok	Parse Evercode WT	HIGH	101	Parse Evercode WT 93.6%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 56.0%
+parse_wt_v2	PRJNA1136014		SRR29836545	ok	Parse Evercode WT	HIGH	151	Parse Evercode WT 82.9%; Drop-seq 100.0%; ScaleBio RNA 57.9%
+parse_wt_v2	PRJNA1138248		SRR29904661	ok	Parse Evercode WT	HIGH	74	Parse Evercode WT 89.0%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 52.7%
+parse_wt_v2	PRJNA1138248		SRR29904662	ok	Parse Evercode WT	HIGH	74	Parse Evercode WT 88.9%; Drop-seq 100.0%; ScaleBio RNA 53.1%
+parse_wt_v2	PRJNA1134196		SRR29771979	ok	Parse Evercode WT	HIGH	98	Parse Evercode WT 91.7%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 54.8%
+parse_wt_v2	PRJNA1134196		SRR29771980	ok	Parse Evercode WT	HIGH	98	Parse Evercode WT 91.1%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 54.3%
+parse_wt_v2	PRJEB73788		ERR12736507	ok	Parse Evercode WT	HIGH	87	Parse Evercode WT 87.5%; Drop-seq 100.0%; ScaleBio RNA 55.5%
+parse_wt_v2	PRJEB73788		ERR12736508	ok	Parse Evercode WT	HIGH	87	Parse Evercode WT 88.7%; Drop-seq 100.0%; ScaleBio RNA 53.8%
+parse_wt_v2	PRJNA948825		SRR23972326	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 90.6%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 54.0%
+parse_wt_v2	PRJNA948825		SRR23972327	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 90.7%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 54.0%
+parse_wt_v2	PRJNA1139097		SRR29927077	ok	Parse Evercode WT	HIGH	66	Parse Evercode WT 89.9%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 53.2%
+parse_wt_v2	PRJNA1139097		SRR29927078	ok	Parse Evercode WT	HIGH	66	Parse Evercode WT 90.1%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 53.4%
+parse_wt_v2	PRJNA1208204		SRR31936836	ok	Parse Evercode WT	HIGH	136	Parse Evercode WT 94.8%; Drop-seq 100.0%; inDrops 66.7%
+parse_wt_v2	PRJNA1208204		SRR31936837	ok	Parse Evercode WT	HIGH	136	Parse Evercode WT 94.7%; Drop-seq 100.0%; inDrops 66.7%
+parse_wt_v2	PRJNA1089238		SRR28382508	ok	Parse Evercode WT	HIGH	74	Parse Evercode WT 89.9%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 53.2%
+parse_wt_v2	PRJNA1089238		SRR28382509	ok	Parse Evercode WT	HIGH	74	Parse Evercode WT 88.6%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 52.5%
+parse_wt_v2	PRJNA1234640		SRR32654238	ok	no known layout (best support under 30%)		101	Drop-seq 100.0%; ScaleBio RNA 60.6%; inDrops 44.3%
+parse_wt_v2	PRJNA1191483		SRR31536034	ok	Parse Evercode WT	HIGH	101	Parse Evercode WT 89.5%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 53.5%
+parse_wt_v2	PRJNA1191483		SRR31536035	ok	Parse Evercode WT	HIGH	101	Parse Evercode WT 89.6%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 53.5%
+parse_wt_v2	PRJNA1201214		SRR31797313	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 90.7%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 54.3%
+parse_wt_v2	PRJNA1201214		SRR31797314	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 90.1%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 54.0%
+parse_wt_v2	PRJNA1129034		SRR31770839	ok	Parse Evercode WT	HIGH	114	Parse Evercode WT 81.4%; Drop-seq 100.0%; ScaleBio RNA 64.3%
+parse_wt_v2	PRJNA1129034		SRR31770840	ok	Parse Evercode WT	HIGH	114	Parse Evercode WT 82.9%; Drop-seq 100.0%; ScaleBio RNA 64.2%
+parse_wt_v2	PRJNA1274382		SRR33926227	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 85.0%; Drop-seq 100.0%; ScaleBio RNA 56.8%
+parse_wt_v2	PRJNA1274382		SRR33926228	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 82.3%; Drop-seq 100.0%; ScaleBio RNA 56.0%
+parse_wt_v2	PRJNA1258265		SRR33413948	ok	Parse Evercode WT	HIGH	151	Parse Evercode WT 94.3%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 56.9%
+parse_wt_v2	PRJNA1191004		SRR31519521	ok	Parse Evercode WT	LOW	66	Drop-seq 100.0%; ScaleBio RNA 60.2%; inDrops 41.0%
+parse_wt_v2	PRJNA1191004		SRR31519522	ok	Parse Evercode WT	LOW	66	Drop-seq 100.0%; ScaleBio RNA 66.7%; inDrops 42.4%
+parse_wt_v2	PRJNA1258265		SRR33413949	ok	Parse Evercode WT	HIGH	151	Parse Evercode WT 93.7%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 56.6%
+parse_wt_v2	PRJNA1287368		SRR34394249	ok	Parse Evercode WT	HIGH	146	Parse Evercode WT 89.1%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 52.7%
+parse_wt_v2	PRJNA1287368		SRR34394250	ok	Parse Evercode WT	HIGH	146	Parse Evercode WT 88.5%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 52.3%
+parse_wt_v2	PRJNA1140142		SRR29988698	ok	Parse Evercode WT	HIGH	74	Parse Evercode WT 86.2%; Drop-seq 100.0%; ScaleBio RNA 55.3%
+parse_wt_v2	PRJNA1103792		SRR28784967	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 91.4%; Drop-seq 100.0%; ScaleBio RNA 62.2%
+parse_wt_v2	PRJNA1103792		SRR28784968	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 91.1%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 54.1%
+parse_wt_v2	PRJNA1303443		SRR34918734	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 83.4%; Drop-seq 100.0%; ScaleBio RNA 54.9%
+parse_wt_v2	PRJNA1303443		SRR34918735	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 84.7%; Drop-seq 100.0%; ScaleBio RNA 52.6%
+parse_wt_v2	PRJNA1192294		SRR31555275	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 92.0%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 54.6%
+parse_wt_v2	PRJNA1192294		SRR31555276	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 90.7%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 53.9%
+parse_wt_v2	PRJNA1184341		SRR31302015	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 83.3%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 49.1%
+parse_wt_v2	PRJNA1184341		SRR31302016	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 84.7%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 49.8%
+parse_wt_v2	PRJNA1167267		SRR30841360	ok	Parse Evercode WT	HIGH	158	Parse Evercode WT 87.4%; Drop-seq 100.0%; ScaleBio RNA 53.6%
+parse_wt_v2	PRJNA1167267		SRR30841359	ok	Parse Evercode WT	HIGH	158	Parse Evercode WT 86.5%; Drop-seq 100.0%; ScaleBio RNA 54.4%
+parse_wt_v2	PRJNA1238891		SRR32796304	ok	Parse Evercode WT	HIGH	151	Parse Evercode WT 83.9%; Drop-seq 100.0%; ScaleBio RNA 54.7%
+parse_wt_v2	PRJNA1238891		SRR32796305	ok	Parse Evercode WT	HIGH	151	Parse Evercode WT 83.8%; Drop-seq 100.0%; ScaleBio RNA 57.5%
+parse_wt_v2	PRJEB86429		ERR14667660	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 89.9%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 53.9%
+parse_wt_v2	PRJEB86429		ERR14667661	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 89.9%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 53.8%
+parse_wt_v2	PRJNA1330024		SRR35430883	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 91.5%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 54.6%
+parse_wt_v2	PRJNA1330024		SRR35430884	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 91.5%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 54.5%
+parse_wt_v2	PRJNA1197977		SRR36470083	ok	Parse Evercode WT	LOW	198	Drop-seq 100.0%; Parse Evercode WT 78.9%; ScaleBio RNA 50.6%
+parse_wt_v2	PRJNA1197977		SRR36470084	ok	Parse Evercode WT	LOW	98	Drop-seq 100.0%; Parse Evercode WT 77.9%; ScaleBio RNA 48.0%
+parse_wt_v2	PRJNA1236296		SRR32699337	ok	Parse Evercode WT	HIGH	66	Parse Evercode WT 87.9%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 51.3%
+parse_wt_v2	PRJNA1236296		SRR32699338	ok	Parse Evercode WT	HIGH	66	Parse Evercode WT 87.8%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 51.1%
+parse_wt_v2	PRJNA1271001		SRR33790034	ok	10x 3' v3/v3.1	HIGH	150	10x 3' v3/v3.1 98.2%; Drop-seq 100.0%; ScaleBio RNA 66.8%
+parse_wt_v2	PRJNA1271001		SRR33790035	ok	10x 3' v3/v3.1	HIGH	150	10x 3' v3/v3.1 98.2%; Drop-seq 100.0%; ScaleBio RNA 51.8%
+parse_wt_v2	PRJNA1067622		SRR27682396	ok	Parse Evercode WT	HIGH	144	Parse Evercode WT 88.2%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 52.1%
+parse_wt_v2	PRJNA1428174		SRR37360344	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 88.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+parse_wt_v2	PRJNA1242269		SRR32868524	ok	Parse Evercode WT	HIGH	134	Parse Evercode WT 82.6%; Drop-seq 100.0%; ScaleBio RNA 55.8%
+parse_wt_v2	PRJNA1242269		SRR32868525	ok	Parse Evercode WT	HIGH	134	Parse Evercode WT 81.4%; Drop-seq 100.0%; ScaleBio RNA 54.5%
+parse_wt_v2	PRJNA1367090		SRR36116970	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 84.5%; Drop-seq 100.0%; ScaleBio RNA 50.1%
+parse_wt_v2	PRJNA1367090		SRR36116971	ok	Parse Evercode WT	HIGH	151	Parse Evercode WT 79.3%; Drop-seq 100.0%; ScaleBio RNA 47.8%
+parse_wt_v2	PRJNA1428738		SRR37370143	ok	Parse Evercode WT	LOW	136	Drop-seq 100.0%; Parse Evercode WT 77.6%; ScaleBio RNA 59.7%
+parse_wt_v2	PRJNA1428738		SRR37370144	ok	Parse Evercode WT	LOW	136	Drop-seq 100.0%; Parse Evercode WT 77.4%; ScaleBio RNA 59.6%
+parse_wt_v2	PRJEB88562		ERR14852850	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 86.0%; Drop-seq 100.0%; ScaleBio RNA 54.3%
+parse_wt_v2	PRJEB88562		ERR14852851	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 86.1%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 50.7%
+parse_wt_v2	PRJEB111093		ERR16960920	ok	Parse Evercode WT	HIGH	67	Parse Evercode WT 93.0%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 55.3%
+parse_wt_v2	PRJEB111093		ERR16960921	ok	Parse Evercode WT	HIGH	67	Parse Evercode WT 89.3%; Drop-seq 100.0%; ScaleBio RNA 64.3%
+parse_wt_v2	PRJNA1297720		SRR34737595	ok	Parse Evercode WT	LOW	151	Drop-seq 100.0%; Parse Evercode WT 71.5%; ScaleBio RNA 57.1%
+parse_wt_v2	PRJNA1297720		SRR34737596	ok	Parse Evercode WT	LOW	151	Drop-seq 100.0%; Parse Evercode WT 73.7%; SPLiT-seq (Rosenberg 2018) 39.3%
+parse_wt_v2	PRJNA1298343		SRR34763526	ok	Parse Evercode WT	LOW	151	Drop-seq 100.0%; Parse Evercode WT 74.8%; ScaleBio RNA 49.4%
+parse_wt_v2	PRJNA1298343		SRR34763527	ok	Parse Evercode WT	LOW	151	Drop-seq 100.0%; Parse Evercode WT 73.5%; ScaleBio RNA 47.9%
+parse_wt_v2	PRJNA1311815		SRR35168214	ok	Parse Evercode WT	HIGH	151	Parse Evercode WT 87.8%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 52.3%
+parse_wt_v2	PRJNA1311815		SRR35168215	ok	Parse Evercode WT	HIGH	151	Parse Evercode WT 88.3%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 52.7%
+parse_wt_v2	PRJEB106501		ERR16096375	ok	Parse Evercode WT	LOW	150	Drop-seq 100.0%; ScaleBio RNA 65.2%; inDrops 57.9%
+parse_wt_v2	PRJEB106501		ERR16096376	ok	Parse Evercode WT	LOW	150	Drop-seq 100.0%; ScaleBio RNA 66.4%; inDrops 58.5%
+parse_wt_v2	PRJEB102806		ERR15844075	ok	Parse Evercode WT	HIGH	66	Parse Evercode WT 91.5%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 54.4%
+parse_wt_v2	PRJEB102806		ERR15844076	ok	SPLiT-seq (Rosenberg 2018)	LOW	64	Drop-seq 100.0%; ScaleBio RNA 49.9%; inDrops 47.5%
+parse_wt_v2	PRJNA1365753		SRR36103555	ok	Parse Evercode WT	LOW	74	Drop-seq 100.0%; Parse Evercode WT 82.6%; ScaleBio RNA 47.0%
+parse_wt_v2	PRJNA1365753		SRR36103557	ok	Parse Evercode WT	HIGH	74	Parse Evercode WT 83.5%; Drop-seq 100.0%; ScaleBio RNA 49.4%
+parse_wt_v2	PRJNA1432090		SRR37468010	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 90.1%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 53.7%
+parse_wt_v2	PRJNA1432090		SRR37468011	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 90.1%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 53.6%
+parse_wt_v2	PRJEB98633		ERR15669448	ok	Parse Evercode WT	HIGH	101	Parse Evercode WT 91.0%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 54.3%
+parse_wt_v2	PRJEB98633		ERR15669449	ok	Parse Evercode WT	HIGH	101	Parse Evercode WT 91.2%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 54.4%
+parse_wt_v2	PRJNA1462785		SRR38410601	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 91.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+parse_wt_v2	PRJNA1462785		SRR38410602	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 91.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+parse_wt_v2	PRJNA1471051		SRR38858729	ok	Parse Evercode WT	HIGH	150	Parse Evercode WT 99.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+parse_wt_v2	PRJNA1471051		SRR38858730	ok	Parse Evercode WT	LOW	150	Drop-seq 100.0%; Parse Evercode WT 99.5%; ScaleBio RNA 66.7%
+parse_wt_v2	PRJNA1391007		SRR36505263	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; ScaleBio RNA 45.9%; inDrops 42.1%
+parse_wt_v2	PRJNA1391007		SRR36505264	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; ScaleBio RNA 45.0%; inDrops 41.4%
+parse_wt_v2	PRJNA1452975		SRR38081524	ok	Parse Evercode WT	HIGH	101	Parse Evercode WT 93.6%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 56.2%
+parse_wt_v2	PRJNA1452975		SRR38081525	ok	Parse Evercode WT	HIGH	101	Parse Evercode WT 93.6%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 56.2%
+parse_wt_v3	PRJNA1008654		SRR25750548	ok	Parse Evercode WT	HIGH	74	Parse Evercode WT 86.2%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 51.6%
+parse_wt_v3	PRJNA1180094		SRR31174274	ok	SPLiT-seq (Rosenberg 2018)	LOW	64	Drop-seq 100.0%; ScaleBio RNA 61.2%; inDrops 54.4%
+parse_wt_v3	PRJNA1180094		SRR31174275	ok	SPLiT-seq (Rosenberg 2018)	LOW	64	Drop-seq 100.0%; ScaleBio RNA 61.0%; inDrops 54.2%
+parse_wt_v3	PRJNA1276400		SRR33975017	ok	SPLiT-seq (Rosenberg 2018)	LOW	64	Drop-seq 100.0%; ScaleBio RNA 48.4%; inDrops 38.0%
+parse_wt_v3	PRJNA1276400		SRR33975018	ok	SPLiT-seq (Rosenberg 2018)	LOW	64	Drop-seq 100.0%; ScaleBio RNA 47.8%; inDrops 37.7%
+parse_wt_v3	PRJNA1301110		SRR34855738	ok	SPLiT-seq (Rosenberg 2018)	LOW	151	Drop-seq 100.0%; ScaleBio RNA 35.3%; inDrops 27.4%
+parse_wt_v3	PRJNA1301110		SRR34855739	ok	SPLiT-seq (Rosenberg 2018)	LOW	151	Drop-seq 100.0%; ScaleBio RNA 32.0%; inDrops 25.0%
+parse_wt_v3	PRJNA1314801		SRR35251514	ok	Parse Evercode WT	LOW	159	Drop-seq 100.0%; ScaleBio RNA 39.1%; Parse Evercode WT 38.7%
+parse_wt_v3	PRJEB98084		ERR15610310	ok	Parse Evercode WT	LOW	101	Drop-seq 100.0%; ScaleBio RNA 51.9%; inDrops 40.1%
+parse_wt_v3	PRJEB98084		ERR15610311	ok	Parse Evercode WT	LOW	101	Drop-seq 100.0%; ScaleBio RNA 50.1%; inDrops 39.0%
+parse_wt_v3	PRJNA1259952		SRR33458972	ok	Parse Evercode WT	LOW	66	Drop-seq 100.0%; ScaleBio RNA 55.0%; inDrops 48.0%
+parse_wt_v3	PRJNA1259952		SRR33458973	ok	Parse Evercode WT	LOW	66	Drop-seq 100.0%; ScaleBio RNA 54.7%; inDrops 48.4%
+parse_wt_v3	PRJEB104926		ERR15993553	ok	Parse Evercode WT	LOW	128	Drop-seq 100.0%; ScaleBio RNA 66.7%; inDrops 51.5%
+parse_wt_v3	PRJEB104926		ERR15993554	ok	Parse Evercode WT	LOW	128	Drop-seq 100.0%; ScaleBio RNA 66.7%; inDrops 60.6%
+parse_wt_v3	PRJNA1369942		SRR36203595	ok	SPLiT-seq (Rosenberg 2018)	LOW	65	Drop-seq 100.0%; ScaleBio RNA 48.1%; inDrops 38.7%
+parse_wt_v3	PRJNA1369942		SRR36203596	ok	SPLiT-seq (Rosenberg 2018)	LOW	65	Drop-seq 100.0%; ScaleBio RNA 53.6%; inDrops 41.3%
+parse_wt_v3	PRJNA1400634		SRR36763268	ok	Parse Evercode WT	LOW	150	Drop-seq 100.0%; ScaleBio RNA 36.2%; inDrops 35.9%
+parse_wt_v3	PRJNA1400634		SRR36763269	ok	Parse Evercode WT	LOW	150	Drop-seq 100.0%; ScaleBio RNA 41.4%; inDrops 39.2%
+parse_wt_v3	PRJNA1413379		SRR36966676	ok	Parse Evercode WT	HIGH	66	Parse Evercode WT 87.9%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 52.4%
+parse_wt_v3	PRJNA1413379		SRR36966677	ok	Parse Evercode WT	HIGH	66	Parse Evercode WT 88.1%; Drop-seq 100.0%; SPLiT-seq (Rosenberg 2018) 52.5%
+parse_wt_v3	PRJNA1416308		SRR37034741	ok	SPLiT-seq (Rosenberg 2018)	LOW	64	Drop-seq 100.0%; ScaleBio RNA 31.0%; inDrops 27.0%
+parse_wt_v3	PRJNA1416308		SRR37034742	ok	SPLiT-seq (Rosenberg 2018)	LOW	64	Drop-seq 100.0%; ScaleBio RNA 29.6%; inDrops 25.6%
+parse_wt_v3	PRJNA1304277		SRR34942203	ok	Parse Evercode WT	LOW	150	Drop-seq 100.0%; inDrops 66.7%; ScaleBio RNA 66.7%
+parse_wt_v3	PRJNA1304277		SRR34942204	ok	Parse Evercode WT	LOW	150	Drop-seq 100.0%; inDrops 66.7%; ScaleBio RNA 66.7%
+parse_wt_v3	PRJNA1370926		SRR36229036	ok	Parse Evercode WT	LOW	150	Drop-seq 100.0%; ScaleBio RNA 52.9%; inDrops 38.8%
+parse_wt_v3	PRJNA1370926		SRR36229037	ok	Parse Evercode WT	LOW	150	Drop-seq 100.0%; ScaleBio RNA 52.8%; inDrops 38.7%
+parse_wt_v3	PRJNA1301335		SRR34861585	ok	Parse Evercode WT	LOW	151	Drop-seq 100.0%; ScaleBio RNA 36.6%; inDrops 30.2%
+parse_wt_v3	PRJNA1301335		SRR34861586	ok	Parse Evercode WT	LOW	151	Drop-seq 100.0%; ScaleBio RNA 35.9%; inDrops 29.8%
+parse_wt_v3	PRJNA1306117		SRR34992469	ok	SPLiT-seq (Rosenberg 2018)	LOW	64	Drop-seq 100.0%; ScaleBio RNA 52.4%; inDrops 38.3%
+parse_wt_v3	PRJNA1306117		SRR34992470	ok	SPLiT-seq (Rosenberg 2018)	LOW	64	Drop-seq 100.0%; ScaleBio RNA 52.4%; inDrops 39.1%
+parse_wt_v3	PRJNA1456597		SRR38228180	ok	SPLiT-seq (Rosenberg 2018)	LOW	64	Drop-seq 100.0%; inDrops 66.7%; ScaleBio RNA 66.7%
+parse_wt_v3	PRJNA1456597		SRR38228181	ok	SPLiT-seq (Rosenberg 2018)	LOW	64	Drop-seq 100.0%; inDrops 66.7%; ScaleBio RNA 66.7%
+parse_wt_v3	PRJNA1463191		SRR38429020	ok	Parse Evercode WT	LOW	151	Drop-seq 100.0%; inDrops 66.7%; ScaleBio RNA 66.7%
+parse_wt_v3	PRJNA1463191		SRR38429021	ok	Parse Evercode WT	LOW	151	Drop-seq 100.0%; inDrops 66.7%; ScaleBio RNA 66.7%
+parse_wt_v3	PRJNA1475286		SRR39012693	ok	Parse Evercode WT	LOW	150	Drop-seq 100.0%; inDrops 47.8%; ScaleBio RNA 45.8%
+parse_wt_v3	PRJNA1475286		SRR39012694	ok	Parse Evercode WT	LOW	150	Drop-seq 100.0%; inDrops 50.8%; ScaleBio RNA 49.7%
+parse_wt_v3	PRJNA1465771		SRR38562620	ok	no known layout (best support under 30%)		51	Drop-seq 76.4%; inDrops 14.4%; ScaleBio RNA 10.9%
+parse_wt_v3	PRJNA1465771		SRR38562621	ok	no known layout (best support under 30%)		51	Drop-seq 75.8%; inDrops 14.4%; ScaleBio RNA 10.8%
+parse_wt_v3	PRJNA1490245		SRR39463256	ok	Parse Evercode WT	LOW	151	Drop-seq 100.0%; inDrops 40.2%; ScaleBio RNA 39.2%
+parse_wt_v3	PRJNA1490245		SRR39463257	ok	Parse Evercode WT	LOW	151	Drop-seq 100.0%; inDrops 46.3%; ScaleBio RNA 45.4%
+parse_wt_v3	PRJNA1298176		SRR37387172	ok	SPLiT-seq (Rosenberg 2018)	LOW	64	Drop-seq 100.0%; ScaleBio RNA 66.7%; inDrops 66.7%
+parse_wt_v3	PRJNA1449947		SRR37972462	ok	no known layout (best support under 30%)		151	Drop-seq 59.8%; inDrops 7.7%; Singleron GEXSCOPE V3 7.6%
+parse_wt_v3	PRJNA1449947		SRR37972463	ok	no known layout (best support under 30%)		151	Drop-seq 56.9%; Singleron GEXSCOPE V3 7.7%; inDrops 7.3%
+parse_wt_v3	PRJNA1449978		SRR37974960	ok	Parse Evercode WT	LOW	151	Drop-seq 100.0%; ScaleBio RNA 38.9%; inDrops 31.4%

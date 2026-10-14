@@ -1,0 +1,33 @@
+# Copyright 2026 Tussl Ltd
+# SPDX-License-Identifier: Apache-2.0
+
+# Coverage-guided fuzzing of what tchem reads (cargo fuzz, nightly). Not part of the workspace
+# build or the gate; see fuzz/README.md.
+[package]
+name = "tussl-chemistry-fuzz"
+version = "0.0.0"
+publish = false
+edition = "2024"
+
+[package.metadata]
+cargo-fuzz = true
+
+[dependencies]
+libfuzzer-sys = "0.4"
+tussl-chemistry = { path = ".." }
+
+[[bin]]
+name = "reads"
+path = "fuzz_targets/reads.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "detect"
+path = "fuzz_targets/detect.rs"
+test = false
+doc = false
+bench = false
+
+[workspace]

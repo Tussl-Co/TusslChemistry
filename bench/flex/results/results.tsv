@@ -1,0 +1,49 @@
+kit	study	gse	run	status	verdict	confidence	r1_length	detail
+10x_flex_v1	PRJNA985583	GSE235225	SRR24968072	ok	10x Flex v1	HIGH	28	10x Flex v1 98.8%; Drop-seq 100.0%; inDrops 23.4%
+10x_flex_v1	PRJNA985583	GSE235225	SRR24968068	ok	10x Flex v1	HIGH	28	10x Flex v1 98.9%; Drop-seq 100.0%; inDrops 24.8%
+10x_flex_v1	PRJNA1107957	GSE266615	SRR28902817	ok	10x Flex v1	HIGH	28	10x Flex v1 98.4%; Drop-seq 100.0%; Parse Evercode WT 21.0%
+10x_flex_v1	PRJNA1107957	GSE266615	SRR28902818	ok	10x Flex v1	HIGH	28	10x Flex v1 97.9%; Drop-seq 100.0%; Parse Evercode WT 21.0%
+10x_flex_v1	PRJNA1117352	GSE268426	SRR29202668	ok	10x Flex v1	HIGH	28	10x Flex v1 98.5%; Drop-seq 100.0%; inDrops 28.2%
+10x_flex_v1	PRJNA1117352	GSE268426	SRR29202672	ok	10x Flex v1	HIGH	28	10x Flex v1 98.7%; Drop-seq 100.0%; inDrops 27.8%
+10x_flex_v1	PRJNA1182275	GSE281096	SRR31229756	ok	10x Flex v1	HIGH	151	10x Flex v1 98.3%; Drop-seq 100.0%; ScaleBio RNA 50.8%
+10x_flex_v1	PRJNA1182275	GSE281096	SRR31229747	ok	10x Flex v1	HIGH	151	10x Flex v1 98.4%; Drop-seq 100.0%; ScaleBio RNA 61.3%
+10x_flex_v1	PRJNA1208002	GSE286148	SRR31930019	ok	10x Flex v1	HIGH	150	10x Flex v1 99.1%; Drop-seq 100.0%; inDrops 47.9%
+10x_flex_v1	PRJNA1208002	GSE286148	SRR31930018	ok	10x Flex v1	HIGH	150	10x Flex v1 99.1%; Drop-seq 100.0%; inDrops 46.2%
+10x_flex_v1	PRJNA1247492	GSE293953	SRR33005454	ok	10x Flex v1	HIGH	150	10x Flex v1 98.7%; Drop-seq 100.0%; ScaleBio RNA 53.3%
+10x_flex_v1	PRJNA1247492	GSE293953	SRR33005453	ok	10x Flex v1	HIGH	150	10x Flex v1 98.7%; Drop-seq 100.0%; ScaleBio RNA 52.7%
+10x_flex_v1	PRJNA1225771	GSE290028	SRR32404213	ok	10x Flex v1	HIGH	101	10x Flex v1 100.0%; Drop-seq 100.0%; ScaleBio RNA 66.8%
+10x_flex_v1	PRJNA1225771	GSE290028	SRR32404227	ok	10x Flex v1	HIGH	101	10x Flex v1 100.0%; Drop-seq 100.0%; ScaleBio RNA 66.8%
+10x_flex_v1	PRJNA1285404	GSE301542	SRR34342136	ok	10x Flex v1	HIGH	150	10x Flex v1 94.7%; Drop-seq 100.0%; ScaleBio RNA 51.0%
+10x_flex_v1	PRJNA1285404	GSE301542	SRR34342142	ok	10x Flex v1	HIGH	150	10x Flex v1 97.4%; Drop-seq 100.0%; ScaleBio RNA 48.1%
+10x_flex_v1	PRJNA1285691	GSE301586	SRR34352765	ok	10x Flex v1	HIGH	29	10x Flex v1 100.0%; Drop-seq 100.0%; inDrops 31.0%
+10x_flex_v1	PRJNA1285691	GSE301586	SRR34352766	ok	10x Flex v1	HIGH	29	10x Flex v1 100.0%; Drop-seq 100.0%; inDrops 33.1%
+10x_flex_v1	PRJNA1269562	GSE298501	SRR33749898	ok	10x Flex v1	HIGH	28	10x Flex v1 97.6%; Drop-seq 100.0%; inDrops 21.9%
+10x_flex_v1	PRJNA1269562	GSE298501	SRR33749903	ok	10x Flex v1	HIGH	28	10x Flex v1 98.2%; Drop-seq 100.0%; Parse Evercode WT 20.8%
+10x_flex_v1	PRJNA1329031	GSE308145	SRR35415018	ok	10x Flex v1	HIGH	49	10x Flex v1 97.3%; Drop-seq 100.0%; inDrops 45.7%
+10x_flex_v1	PRJNA1329031	GSE308145	SRR35415017	ok	10x Flex v1	HIGH	49	10x Flex v1 97.5%; Drop-seq 100.0%; inDrops 45.4%
+10x_flex_v1	PRJNA1306486	GSE305547	SRR35570626	ok	10x Flex v1	HIGH	28	10x Flex v1 100.0%; Drop-seq 100.0%; inDrops 32.0%
+10x_flex_v1	PRJNA1306486	GSE305547	SRR35001231	ok	10x Flex v1	HIGH	28	10x Flex v1 100.0%; Drop-seq 100.0%; inDrops 25.7%
+10x_flex_v1	PRJNA1298857	GSE304067	SRR34789659	ok	10x Flex v1	HIGH	28	10x Flex v1 100.0%; Drop-seq 100.0%; inDrops 30.1%
+10x_flex_v1	PRJNA1298857	GSE304067	SRR34789663	ok	10x Flex v1	HIGH	28	10x Flex v1 100.0%; Drop-seq 100.0%; inDrops 30.4%
+10x_flex_v1	PRJNA1330221	GSE308336	SRR35439982	ok	10x Flex v1	HIGH	150	10x Flex v1 97.7%; Drop-seq 100.0%; ScaleBio RNA 54.0%
+10x_flex_v1	PRJNA1330221	GSE308336	SRR35439984	ok	10x Flex v1	HIGH	150	10x Flex v1 97.9%; Drop-seq 100.0%; ScaleBio RNA 52.1%
+10x_flex_v1	PRJNA1234172	GSE291575	SRR32686680	ok	10x Flex v1	HIGH	28	10x Flex v1 98.8%; Drop-seq 100.0%; Parse Evercode WT 21.6%
+10x_flex_v1	PRJNA1234172	GSE291575	SRR32686677	ok	10x Flex v1	HIGH	28	10x Flex v1 98.8%; Drop-seq 100.0%; Parse Evercode WT 21.6%
+10x_flex_v1	PRJNA1365166	GSE310125	SRR36063792	ok	10x Flex v1	HIGH	151	10x Flex v1 100.0%; Drop-seq 100.0%; inDrops 52.1%
+10x_flex_v1	PRJNA1365166	GSE310125	SRR36063791	ok	10x Flex v1	HIGH	151	10x Flex v1 100.0%; Drop-seq 100.0%; inDrops 53.5%
+10x_flex_v1	PRJNA1327130	GSE307707	SRR35336996	ok	10x Flex v1	HIGH	28	10x Flex v1 98.8%; Drop-seq 100.0%; inDrops 29.4%
+10x_flex_v1	PRJNA1327130	GSE307707	SRR35336997	ok	10x Flex v1	HIGH	28	10x Flex v1 96.6%; Drop-seq 100.0%; Parse Evercode WT 21.8%
+10x_flex_v1	PRJNA1389889	GSE314055	SRR36479900	ok	10x Flex v1	HIGH	28	10x Flex v1 100.0%; Drop-seq 100.0%; inDrops 22.0%
+10x_flex_v1	PRJNA1389889	GSE314055	SRR36479903	ok	10x Flex v1	HIGH	28	10x Flex v1 100.0%; Drop-seq 100.0%; inDrops 22.2%
+10x_flex_v1	PRJNA1196966	GSE284081	SRR31685407	ok	10x Flex v1	HIGH	28	10x Flex v1 97.9%; Drop-seq 100.0%; Parse Evercode WT 21.2%
+10x_flex_v1	PRJNA1196966	GSE284081	SRR31685409	ok	10x Flex v1	HIGH	28	10x Flex v1 97.9%; Drop-seq 100.0%; Parse Evercode WT 21.3%
+10x_flex_v1	PRJNA1439199	GSE325222	SRR37673989	ok	10x Flex v1	HIGH	28	10x Flex v1 100.0%; Drop-seq 100.0%; inDrops 31.1%
+10x_flex_v1	PRJNA1439199	GSE325222	SRR37673994	ok	10x Flex v1	HIGH	28	10x Flex v1 100.0%; Drop-seq 100.0%; inDrops 29.1%
+10x_flex_v1	PRJNA1484942	GSE337359	SRR39426945	ok	10x Flex v1	HIGH	28	10x Flex v1 98.9%; Drop-seq 100.0%; Parse Evercode WT 20.8%
+10x_flex_v1	PRJNA1494591	GSE338505	SRR39610621	ok	10x Flex v1	HIGH	151	10x Flex v1 99.1%; Drop-seq 100.0%; ScaleBio RNA 52.7%
+10x_flex_v1	PRJNA1494591	GSE338505	SRR39610614	ok	10x Flex v1	HIGH	151	10x Flex v1 99.1%; Drop-seq 100.0%; ScaleBio RNA 48.7%
+10x_flex_v1	PRJNA1148141	GSE274826	SRR30238529	ok	10x Flex v1	HIGH	28	10x Flex v1 98.6%; Drop-seq 100.0%; inDrops 24.2%
+10x_flex_v1	PRJNA1148141	GSE274826	SRR30238528	ok	10x Flex v1	HIGH	28	10x Flex v1 98.6%; Drop-seq 100.0%; inDrops 23.9%
+10x_flex_v1	PRJNA1122589	GSE273419	SRR29379457	ok	10x Flex v1	HIGH	28	10x Flex v1 98.4%; Drop-seq 97.4%; Parse Evercode WT 21.0%
+10x_gemx_flex_v2	PRJNA1459226	GSE329430	SRR38313352	not run (R1 not on ENA)				
+10x_gemx_flex_v2	PRJNA1494943	GSE338545	SRR39616781	not run (R1 not on ENA)				

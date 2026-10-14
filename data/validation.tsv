@@ -1,0 +1,27 @@
+# Validation of each layout's HIGH calls on held-out runs (bench/coverage).
+# From: Coverage run: tchem 0.1.0, commit 00fffa8, binary sha256 19503cf97578b61b.
+layout	read_kind	exact_runs	exact_studies	family_runs	read_label_runs	disputed	wrong
+10x 3' v2	short	626	335	0	27	85	0
+10x 3' v3/v3.1	long	11	11	0	0	0	0
+10x 3' v3/v3.1	short	4346	2282	0	140	637	0
+10x 3' v4 (GEM-X)	short	172	87	0	2	77	0
+10x 5' v1/v2	long	3	2	0	0	0	0
+10x 5' v1/v2	short	747	416	0	64	110	0
+10x 5' v3 (GEM-X)	short	36	17	0	1	11	0
+10x Flex v1	short	217	118	0	0	35	0
+10x Multiome GEX	short	218	135	0	1	7	0
+BD Rhapsody (Enhanced Beads)	short	9	1	114	0	1	0
+BD Rhapsody (Enhanced V2/V3 beads)	short	2	1	104	0	6	0
+BD Rhapsody (original V1 beads)	short	18	8	221	0	0	0
+Illumina Single Cell 3' / PIPseq v3-v4	short	45	24	0	0	0	0
+Illumina Single Cell 3' RNA Prep / PIPseq V	short	10	5	0	0	2	0
+MGI DNBelab C4 / C-series HT	short	72	46	0	0	2	0
+Parse Evercode WT	short	0	0	152	0	1	0
+Parse Evercode WT v3	short	0	0	50	0	0	0
+ScaleBio RNA	short	4	1	0	0	0	0
+SeekGene SeekOne DD 3'	short	51	26	15	0	15	0
+SeekGene SeekOne DD 5'	short	6	3	0	0	0	0
+Singleron GEXSCOPE V1	short	0	0	97	0	1	0
+Singleron GEXSCOPE V2	short	16	8	238	0	7	0
+Singleron GEXSCOPE V3	short	8	2	4	0	0	0
+inDrops	short	77	42	0	0	2	0

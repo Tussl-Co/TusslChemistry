@@ -1,0 +1,172 @@
+20k_hgmm_3p_HT_nextgem_Chromium_X            10x Geno 10x 3' v3/v3.1             right (high)
+20k_PBMC_3p_HT_nextgem_Chromium_X            10x Geno 10x 3' v3/v3.1             right (high)
+40k_NSCLC_DTC_3p_HT_nextgem_Multiplex        10x Geno 10x 3' v3/v3.1             right (high)
+1k_hgmm_3p_LT                                10x Geno 10x 3' v3/v3.1             right (high)
+1k_PBMCs_TotalSeq_B_3p_LT                    10x Geno 10x 3' v3/v3.1             right (high)
+500_hgmm_3p_LT_Chromium_Controller           10x Geno 10x 3' v3/v3.1             right (high)
+500_hgmm_3p_LT_Chromium_X                    10x Geno 10x 3' v3/v3.1             right (high)
+500_PBMC_3p_LT_Chromium_Controller           10x Geno 10x 3' v3/v3.1             right (high)
+500_PBMC_3p_LT_Chromium_X                    10x Geno 10x 3' v3/v3.1             right (high)
+Brain_Tumor_3p_LT                            10x Geno 10x 3' v3/v3.1             right (high)
+Breast_Cancer_3p_LT                          10x Geno 10x 3' v3/v3.1             right (high)
+b_cells                                      10x Geno unsupported (3' v1)        not run
+cd14_monocytes                               10x Geno unsupported (3' v1)        not run
+fresh_68k_pbmc_donor_a                       10x Geno unsupported (3' v1)        not run
+frozen_pbmc_donor_a                          10x Geno unsupported (3' v1)        not run
+hgmm                                         10x Geno unsupported (3' v1)        not run
+jurkat                                       10x Geno unsupported (3' v1)        not run
+pbmc3k                                       10x Geno unsupported (3' v1)        not run
+heart_1k_v2                                  10x Geno 10x 3' v2                  right (high)
+hgmm_1k                                      10x Geno 10x 3' v2                  right (high)
+hgmm_1k_v2                                   10x Geno 10x 3' v2                  right (high)
+neuron_1k_v2                                 10x Geno 10x 3' v2                  right (high)
+neuron_9k                                    10x Geno 10x 3' v2                  right (high)
+nuclei_2k                                    10x Geno 10x 3' v2                  right (high)
+nuclei_900                                   10x Geno 10x 3' v2                  right (high)
+pbmc4k                                       10x Geno 10x 3' v2                  right (high)
+pbmc8k                                       10x Geno 10x 3' v2                  right (high)
+t_3k                                         10x Geno 10x 3' v2                  right (high)
+10k_hgmm_3p_nextgem_Chromium_X               10x Geno 10x 3' v3/v3.1             right (high)
+10k_hgmm_v3_nextgem                          10x Geno 10x 3' v3/v3.1             right (high)
+10k_Mouse_Brain_CNIK_3p_nextgem_Multiplex    10x Geno 10x 3' v3/v3.1             right (high)
+10k_PBMC_3p_nextgem_Chromium_X               10x Geno 10x 3' v3/v3.1             right (high)
+5k_pbmc_v3_nextgem                           10x Geno 10x 3' v3/v3.1             right (high)
+Brain_Tumor_3p                               10x Geno 10x 3' v3/v3.1             right (high)
+1k_mouse_kidney_CNIK_3pv3                    10x Geno 10x 3' v3/v3.1             right (high)
+SC3_v3_NextGem_DI_Nuclei_5K_Multiplex        10x Geno 10x 3' v3/v3.1             right (high)
+SC3_v3_NextGem_DI_PBMC_10K                   10x Geno 10x 3' v3/v3.1             right (high)
+SC3_v3_NextGem_SI_Neuron_10K                 10x Geno 10x 3' v3/v3.1             right (high)
+5k_pbmc_protein_v3                           10x Geno 10x 3' v3/v3.1             right (high)
+heart_10k_v3                                 10x Geno 10x 3' v3/v3.1             right (high)
+heart_1k_v3                                  10x Geno 10x 3' v3/v3.1             right (high)
+hgmm_10k_v3                                  10x Geno 10x 3' v3/v3.1             right (high)
+hgmm_5k_v3                                   10x Geno 10x 3' v3/v3.1             right (high)
+neuron_10k_v3                                10x Geno 10x 3' v3/v3.1             right (high)
+neuron_1k_v3                                 10x Geno 10x 3' v3/v3.1             right (high)
+Parent_SC3v3_Human_Glioblastoma              10x Geno 10x 3' v3/v3.1             right (high)
+10k_hgmm_3p_gemx_Multiplex                   10x Geno 10x 3' v4 (GEM-X)          right (high)
+10k_Human_PBMC_TotalSeqB_3p_gemx_Multiplex   10x Geno 10x 3' v4 (GEM-X)          right (high)
+10k_Mouse_Neurons_3p_gemx_Multiplex          10x Geno 10x 3' v4 (GEM-X)          right (high)
+2500_Rhesus_Monkey_PBMCs_Singleplex_3p_gem-x 10x Geno 10x 3' v4 (GEM-X)          right (high)
+2500_Wistar_Rat_PBMCs_Singleplex_3p_gem-x_Un 10x Geno 10x 3' v4 (GEM-X)          right (high)
+5k_Human_Donor1_PBMC_3p_gem-x_Multiplex      10x Geno 10x 3' v4 (GEM-X)          right (high)
+5k_Human_Donor2_PBMC_3p_gem-x_Multiplex      10x Geno 10x 3' v4 (GEM-X)          right (high)
+5k_Human_Donor3_PBMC_3p_gem-x_Multiplex      10x Geno 10x 3' v4 (GEM-X)          not run
+5k_Human_Donor4_PBMC_3p_gem-x_Multiplex      10x Geno 10x 3' v4 (GEM-X)          right (high)
+10k_K562sl_5pv2_nextgem_CRISPR_Chromium_X_Mu 10x Geno 10x 5' v1/v2               right (high)
+20k_BMMNC_5pv2_HT_nextgem_Multiplex          10x Geno 10x 5' v1/v2               right (high)
+20k_hgmm_5pv2_HT_nextgem_Chromium_X          10x Geno 10x 5' v1/v2               right (high)
+20k_PBMC_5pv2_HT_nextgem_Chromium_X_Multiple 10x Geno 10x 5' v1/v2               right (high)
+Parent_SC5v1_Human_Glioblastoma              10x Geno 10x 5' v1/v2               right (high)
+vdj_v1_hs_pbmc2_5gex_protein                 10x Geno 10x 5' v1/v2               right (high)
+10k_BMMNC_5pv2_nextgem_Multiplex             10x Geno 10x 5' v1/v2               right (high)
+10k_hgmm_5pv2_nextgem_Chromium_X             10x Geno 10x 5' v1/v2               right (high)
+10k_Human_DTC_Melanoma_5p_nextgem_Multiplex  10x Geno 10x 5' v1/v2               right (high)
+10k_PBMC_5pv2_nextgem_Chromium_Controller_Mu 10x Geno 10x 5' v1/v2               right (high)
+5k_human_kidney_tumor_CNIK_5pv2              10x Geno 10x 5' v1/v2               right (high)
+5k_Mouse_Splenocytes_5p_nextgem_Multiplex    10x Geno 10x 5' v1/v2               right (high)
+sc5p_v2_mm_balbc_B_1k_multi_5gex_b           10x Geno 10x 5' v1/v2               right (high)
+10k_hgmm_5p_gemx_Multiplex                   10x Geno 10x 5' v3 (GEM-X)          right (high)
+10k_Human_DTC_Melanoma_5p_gemx_Multiplex     10x Geno 10x 5' v3 (GEM-X)          right (high)
+20k_Mouse_PBMC_Splenocyte_5p_gem-x_multiplex 10x Geno 10x 5' v3 (GEM-X)          right (high)
+5k_Mouse_PBMCs_5p_gem-x_Multiplex            10x Geno 10x 5' v3 (GEM-X)          right (high)
+10k_K562_singleplex_Multiplex                10x Geno unsupported (Flex)         unsupported (Flex): not confidently called (pass)
+10k_mouse_kidney_scFFPE_singleplex_Multiplex 10x Geno unsupported (Flex)         unsupported (Flex): not confidently called (pass)
+16plex_128k_jurkat_multiplex_Multiplex       10x Geno unsupported (Flex)         not run
+4plex_human_lungcancer_glioblastoma_scFFPE_m 10x Geno unsupported (Flex)         not run
+Human_Kidney_4k_GEM-X_Flex_Multiplex         10x Geno unsupported (Flex)         unsupported (Flex): not confidently called (pass)
+10k_PBMC_Multiome_nextgem_Chromium_X         10x Geno unsupported (Multiome GEX) unsupported (Multiome GEX): not confidently called (pass)
+e18_mouse_brain_fresh_5k                     10x Geno unsupported (Multiome GEX) unsupported (Multiome GEX): not confidently called (pass)
+human_brain_3k                               10x Geno unsupported (Multiome GEX) unsupported (Multiome GEX): not confidently called (pass)
+lymph_node_lymphoma_14k                      10x Geno unsupported (Multiome GEX) unsupported (Multiome GEX): not confidently called (pass)
+pbmc_granulocyte_sorted_10k                  10x Geno unsupported (Multiome GEX) unsupported (Multiome GEX): not confidently called (pass)
+pbmc_unsorted_3k                             10x Geno unsupported (Multiome GEX) unsupported (Multiome GEX): not confidently called (pass)
+vdj_v1_mm_pbmc4                              10x Geno 10x 5' v1/v2               right (high)
+vdj_nextgem_mm_pbmc4                         10x Geno 10x 5' v1/v2               right (high)
+vdj_nextgem_hs_pbmc3                         10x Geno 10x 5' v1/v2               no call (ambiguous: 10x 3' v2;10x 5' v1/v2)
+vdj_v1_hs_pbmc3                              10x Geno 10x 5' v1/v2               no call (ambiguous: 10x 3' v2;10x 5' v1/v2)
+5k_neuron_v3_nextgem                         10x Geno 10x 3' v3/v3.1             right (high)
+20k_NSCLC_DTC_3p_nextgem_Multiplex           10x Geno 10x 3' v3/v3.1             right (high)
+20k_JurkatMM1S_5pv2_HT_nextgem_Chromium_X_Mu 10x Geno 10x 5' v1/v2               right (high)
+5k_human_melanoma_tumor_CNIK_5pv2            10x Geno 10x 5' v1/v2               right (high)
+5k_adult_mouse_brain_CNIK                    10x Geno 10x 3' v3/v3.1             right (high)
+SC3_v3_NextGem_DI_Neuron_10K                 10x Geno 10x 3' v3/v3.1             right (high)
+10k_mouse_spleen_scFFPE_singleplex           10x Geno unsupported (Flex)         unsupported (Flex): not confidently called (pass)
+5k_hgmm_5p_nextgem_Multiplex                 10x Geno 10x 5' v1/v2               right (high)
+sc5p_v1p1_hs_PBMC_1k                         10x Geno 10x 5' v1/v2               no call (ambiguous: 10x 3' v2;10x 5' v1/v2)
+sc5p_v1p1_hs_melanoma_10k                    10x Geno 10x 5' v1/v2               right (high)
+sc5p_v1p1_mm_c57bl6_splenocyte_1k            10x Geno 10x 5' v1/v2               right (high)
+vdj_v1_hs_nsclc_5gex                         10x Geno 10x 5' v1/v2               right (high)
+BD_04WTA-EB-20kPBMCs                         BD Rhaps BD Rhapsody (Enhanced Bead right (high)
+BD_09WTA-ABC-EB-10kPBMC                      BD Rhaps BD Rhapsody (Enhanced Bead right (high)
+BD_12WTA-ABC-SMK-EB-5kJRT                    BD Rhaps BD Rhapsody (Enhanced Bead right (high)
+BD_16HIRP-targeted-EB-20kPBMC                BD Rhaps BD Rhapsody (Enhanced Bead right (high)
+BD_21HIRP-targeted-ABC-EB-10kPBMC            BD Rhaps BD Rhapsody (Enhanced Bead right (high)
+BD_24HIRP-targeted-ABC-SMK-EB-5kJRT          BD Rhaps BD Rhapsody (Enhanced Bead right (high)
+BD_HumanImmResDemo                           BD Rhaps BD Rhapsody (original V1 b right (high)
+BD_AbSeqDemo                                 BD Rhaps BD Rhapsody (original V1 b right (high)
+BD_SampleMultiplexDemo                       BD Rhaps BD Rhapsody (original V1 b right (high)
+BD_VDJDemo_CDR3                              BD Rhaps BD Rhapsody (original V1 b right (high)
+BD_WTA-SMK-Demo                              BD Rhaps BD Rhapsody (original V1 b right (high)
+BD_WTA-AbSeq-SMK-Demo                        BD Rhaps BD Rhapsody (original V1 b right (high)
+BD_RhapTCRBCRdemo                            BD Rhaps BD Rhapsody (Enhanced Bead right (high)
+BD_MouseWTATCRBCR                            BD Rhaps BD Rhapsody (Enhanced Bead not run
+BD_VDJNext-Demo2034                          BD Rhaps BD Rhapsody (Enhanced Bead right (high)
+BD_VDJNext-Demo2041                          BD Rhaps BD Rhapsody (Enhanced Bead not run
+BD_WTANext_3070                              BD Rhaps BD Rhapsody (original V1 b no call (no_match: )
+BD_WTANext_AbSeq_3070                        BD Rhaps BD Rhapsody (original V1 b no call (no_match: )
+BD_WTANext_TCRBCR_D40_3074                   BD Rhaps BD Rhapsody (original V1 b no call (no_match: )
+BD_PBMC_ATAC_WTA_joint                       BD Rhaps BD Rhapsody (original V1 b no call (no_match: )
+BD_FlexSMK_AT                                BD Rhaps BD Rhapsody (Enhanced Bead right (high)
+BD_FlexSMK_Test                              BD Rhaps BD Rhapsody (Enhanced Bead right (high)
+BD_IC-Day1                                   BD Rhaps BD Rhapsody (Enhanced Bead no call (no_match: )
+Parse_WTv3_PBMC_4donor                       Parse Bi Parse Evercode WT          not run
+Parse_WTv2_PBMC_4donor                       Parse Bi Parse Evercode WT          not run
+Parse_WTv3_PBMC_100k                         Parse Bi Parse Evercode WT          not run
+Parse_WTMiniv3_PBMC                          Parse Bi Parse Evercode WT          not run
+Parse_WTMegav3_PBMC                          Parse Bi Parse Evercode WT          not run
+Parse_WTMegav3_1M_PBMC                       Parse Bi Parse Evercode WT          not run
+Parse_WTMega_1M_2022                         Parse Bi Parse Evercode WT          not run
+Parse_WTv1_E18_brain_nuclei                  Parse Bi Parse Evercode WT          not run
+Parse_WTv2_E18_brain_nuclei                  Parse Bi Parse Evercode WT          not run
+Parse_WTv1_liver_nuclei                      Parse Bi Parse Evercode WT          not run
+Parse_WTv2_liver_nuclei                      Parse Bi Parse Evercode WT          not run
+Parse_WTv1_species_mix                       Parse Bi Parse Evercode WT          not run
+Parse_WTv2_species_mix                       Parse Bi Parse Evercode WT          not run
+Parse_WTv2_adult_brain_cells                 Parse Bi Parse Evercode WT          not run
+Parse_WTMegav2_BMMC                          Parse Bi Parse Evercode WT          not run
+Parse_WTv3_adult_brain_nuclei                Parse Bi Parse Evercode WT          not run
+Parse_WTv3_lymph_node_nuclei                 Parse Bi Parse Evercode WT          not run
+Parse_WTv4_PBMC                              Parse Bi Parse Evercode WT          not run
+Parse_10M_PBMC_cytokines                     Parse Bi Parse Evercode WT          not run
+ScaleBio_ScaleRNA_600k-PBMC                  ScaleBio ScaleBio RNA               right (high)
+ScaleBio_QS-SmallKit-PBMC-10k                ScaleBio ScaleBio RNA               not run
+ScaleBio_ScalePlex_PBMC                      ScaleBio ScaleBio RNA               right (high)
+ScaleBio_test_202308_tinyPipelineTest        ScaleBio ScaleBio RNA               right (high)
+ScaleBio_test_202312_rnaV1.1                 ScaleBio ScaleBio RNA               right (high)
+ScaleBio_test_202312_extendedThroughput      ScaleBio ScaleBio RNA               right (high)
+ScaleBio_test_202504_quantumV1               ScaleBio ScaleBio RNA               no call (no_match: )
+ScaleBio_test_202506_quantumV1               ScaleBio ScaleBio RNA               no call (no_match: )
+ScaleBio_datasets_page                       ScaleBio ScaleBio RNA               not run
+Singleron_mouse_spleen_1                     Singlero Singleron GEXSCOPE V3      right (high)
+Singleron_mouse_bone_marrow_1                Singlero Singleron GEXSCOPE V3      right (high)
+Singleron_mouse_lung_1                       Singlero Singleron GEXSCOPE V3      right (high)
+Singleron_mouse_testis_1                     Singlero Singleron GEXSCOPE V3      right (high)
+Singleron_FFPE_mouse_thymus_1                Singlero Singleron GEXSCOPE V3      right (high)
+Singleron_fixed_mouse_brain_1                Singlero Singleron GEXSCOPE V2      right (high)
+Singleron_fixed_mouse_spleen_1               Singlero Singleron GEXSCOPE V3      right (high)
+Singleron_MobiuSCOPE_NB4_K562                Singlero MobiuSCOPE single Cell RNA unscored (chemistry wording not mapped)
+Singleron_FocuSCOPE_blood_snp_1              Singlero FocuSCOPE single Cell Targ unscored (chemistry wording not mapped)
+Singleron_CLindex_cellline_mix_1             Singlero CLindex (click-chemistry-b unscored (chemistry wording not mapped)
+Singleron_test_GEXSCOPE-V2-human             Singlero Singleron GEXSCOPE V2      right (high)
+Singleron_test_GEXSCOPE-V1                   Singlero Singleron GEXSCOPE V1      not run
+Singleron_test_GEXSCOPE-sCircle              Singlero GEXSCOPE-sCircle           not run
+Singleron_BaseSpace_GEXSCOPE_demo            Singlero Singleron GEXSCOPE Single  not run
+
+ 105  right (high)
+  36  not run
+   7  no call (no_match
+   6  unsupported (Multiome GEX)
+   4  unsupported (Flex)
+   3  no call (ambiguous
+   3  unscored (chemistry wording not mapped)

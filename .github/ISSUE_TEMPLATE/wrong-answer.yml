@@ -1,0 +1,42 @@
+name: Wrong or surprising answer
+description: tchem named the wrong kit, or a confidence or refusal that seems wrong for your files.
+title: "Wrong answer: "
+labels: ["wrong answer"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A confident wrong answer is the failure this tool exists to avoid, so every report is read.
+        The JSON report names your files: share the parts below, not file paths you would rather keep.
+  - type: input
+    id: version
+    attributes:
+      label: tchem version
+      placeholder: tchem --version
+    validations:
+      required: true
+  - type: input
+    id: kit
+    attributes:
+      label: The kit your lab used, and how you know
+      placeholder: e.g. 10x 3' v3.1, from the kit box / order / protocol
+    validations:
+      required: true
+  - type: textarea
+    id: verdict
+    attributes:
+      label: What tchem said
+      description: The VERDICT block of the text report (or "verdict", "confidence", "layout" and "validation" from --format json).
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: runs
+    attributes:
+      label: A public run that shows it, if there is one
+      description: SRA, ENA or GEO accession. A public run lets us reproduce it exactly.
+  - type: textarea
+    id: more
+    attributes:
+      label: Anything else
+      description: Read lengths, how the files were made or trimmed, the command you ran.

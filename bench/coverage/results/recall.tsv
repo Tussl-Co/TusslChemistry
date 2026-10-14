@@ -1,0 +1,28 @@
+# Recall on held-out runs: what the binary said, by the run's independent label (bench/coverage/scripts/recall.py).
+# From: Coverage run: tchem 0.1.0, commit 00fffa8, binary sha256 19503cf97578b61b.
+label	read_kind	runs	studies	high_labelled	high_other	medium_low	ambiguous	no_match	refused
+10x 3' v2	short	1308	686	626	607	31	10	34	0
+10x 3' v3/v3.1	long	12	12	11	0	1	0	0	0
+10x 3' v3/v3.1	short	4776	2484	4346	228	86	1	113	2
+10x 3' v4 (GEM-X)	short	197	99	172	20	1	0	4	0
+10x 5' v1/v2	long	4	3	3	0	0	0	0	1
+10x 5' v1/v2	short	1014	527	747	39	25	183	20	0
+10x 5' v3 (GEM-X)	short	58	31	30	21	0	5	2	0
+10x Flex v1	short	247	131	217	14	1	0	14	1
+10x Multiome GEX	short	555	284	225	7	1	0	322	0
+BD Rhapsody (Enhanced Beads)	short	10	1	9	1	0	0	0	0
+BD Rhapsody (Enhanced V2/V3 beads)	short	2	1	2	0	0	0	0	0
+BD Rhapsody (family)	short	480	260	436	6	14	0	24	0
+BD Rhapsody (original V1 beads)	short	24	10	19	4	1	0	0	0
+Illumina Single Cell 3' / PIPseq v3-v4	short	66	34	45	2	0	0	19	0
+Illumina Single Cell 3' RNA Prep / PIPseq V	short	14	7	10	0	2	0	2	0
+MGI DNBelab C4 / C-series HT	short	98	50	72	2	23	0	1	0
+Parse Evercode WT (family)	short	263	139	204	2	47	0	9	1
+ScaleBio RNA	short	5	1	4	0	1	0	0	0
+SeekGene SeekOne DD (family)	short	15	9	15	0	0	0	0	0
+SeekGene SeekOne DD 3'	short	57	29	51	0	2	0	4	0
+SeekGene SeekOne DD 5'	short	6	3	6	0	0	0	0	0
+Singleron GEXSCOPE (family)	short	413	217	339	2	57	0	15	0
+Singleron GEXSCOPE V2	short	18	9	16	0	0	0	2	0
+Singleron GEXSCOPE V3	short	8	2	8	0	0	0	0	0
+inDrops	short	128	65	77	0	2	0	49	0

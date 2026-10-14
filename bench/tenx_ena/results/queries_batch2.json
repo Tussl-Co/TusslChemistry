@@ -1,0 +1,131 @@
+[
+ {
+  "query": "library_construction_protocol=\"*10x*\"",
+  "kind": "term",
+  "count": 737473
+ },
+ {
+  "query": "library_construction_protocol=\"*chromium*\"",
+  "kind": "term",
+  "count": 548822
+ },
+ {
+  "query": "library_construction_protocol=\"*gemx*\"",
+  "kind": "term",
+  "count": 120
+ },
+ {
+  "query": "library_construction_protocol=\"*multiome*\"",
+  "kind": "term",
+  "count": 32287
+ },
+ {
+  "query": "library_construction_protocol=\"*single?cell?3*\"",
+  "kind": "term",
+  "count": 37
+ },
+ {
+  "query": "library_construction_protocol=\"*single?cell?5*\"",
+  "kind": "term",
+  "count": 390
+ },
+ {
+  "query": "library_construction_protocol=\"*singlecell3*\"",
+  "kind": "term",
+  "count": 1799
+ },
+ {
+  "query": "library_construction_protocol=\"*singlecell5*\"",
+  "kind": "term",
+  "count": 126
+ },
+ {
+  "query": "library_construction_protocol=\"*10x*\" OR library_construction_protocol=\"*chromium*\" OR library_construction_protocol=\"*gemx*\" OR library_construction_protocol=\"*multiome*\" OR library_construction_protocol=\"*single?cell?3*\" OR library_construction_protocol=\"*single?cell?5*\" OR library_construction_protocol=\"*singlecell3*\" OR library_construction_protocol=\"*singlecell5*\"",
+  "kind": "union",
+  "count": 786534
+ },
+ {
+  "query": "(library_construction_protocol=\"*10x*\" OR library_construction_protocol=\"*chromium*\" OR library_construction_protocol=\"*gemx*\" OR library_construction_protocol=\"*multiome*\" OR library_construction_protocol=\"*single?cell?3*\" OR library_construction_protocol=\"*single?cell?5*\" OR library_construction_protocol=\"*singlecell3*\" OR library_construction_protocol=\"*singlecell5*\") AND first_public>=0000-01-01 AND first_public<2016-01-01",
+  "kind": "partition",
+  "count": 6249,
+  "rows": 6249,
+  "path": "<batch 2 dir>/raw/ena_0000.tsv.gz"
+ },
+ {
+  "query": "(library_construction_protocol=\"*10x*\" OR library_construction_protocol=\"*chromium*\" OR library_construction_protocol=\"*gemx*\" OR library_construction_protocol=\"*multiome*\" OR library_construction_protocol=\"*single?cell?3*\" OR library_construction_protocol=\"*single?cell?5*\" OR library_construction_protocol=\"*singlecell3*\" OR library_construction_protocol=\"*singlecell5*\") AND first_public>=2016-01-01 AND first_public<2017-01-01",
+  "kind": "partition",
+  "count": 8474,
+  "rows": 8474,
+  "path": "<batch 2 dir>/raw/ena_2016.tsv.gz"
+ },
+ {
+  "query": "(library_construction_protocol=\"*10x*\" OR library_construction_protocol=\"*chromium*\" OR library_construction_protocol=\"*gemx*\" OR library_construction_protocol=\"*multiome*\" OR library_construction_protocol=\"*single?cell?3*\" OR library_construction_protocol=\"*single?cell?5*\" OR library_construction_protocol=\"*singlecell3*\" OR library_construction_protocol=\"*singlecell5*\") AND first_public>=2017-01-01 AND first_public<2018-01-01",
+  "kind": "partition",
+  "count": 34857,
+  "rows": 34857,
+  "path": "<batch 2 dir>/raw/ena_2017.tsv.gz"
+ },
+ {
+  "query": "(library_construction_protocol=\"*10x*\" OR library_construction_protocol=\"*chromium*\" OR library_construction_protocol=\"*gemx*\" OR library_construction_protocol=\"*multiome*\" OR library_construction_protocol=\"*single?cell?3*\" OR library_construction_protocol=\"*single?cell?5*\" OR library_construction_protocol=\"*singlecell3*\" OR library_construction_protocol=\"*singlecell5*\") AND first_public>=2018-01-01 AND first_public<2019-01-01",
+  "kind": "partition",
+  "count": 28274,
+  "rows": 28274,
+  "path": "<batch 2 dir>/raw/ena_2018.tsv.gz"
+ },
+ {
+  "query": "(library_construction_protocol=\"*10x*\" OR library_construction_protocol=\"*chromium*\" OR library_construction_protocol=\"*gemx*\" OR library_construction_protocol=\"*multiome*\" OR library_construction_protocol=\"*single?cell?3*\" OR library_construction_protocol=\"*single?cell?5*\" OR library_construction_protocol=\"*singlecell3*\" OR library_construction_protocol=\"*singlecell5*\") AND first_public>=2019-01-01 AND first_public<2020-01-01",
+  "kind": "partition",
+  "count": 17373,
+  "rows": 17373,
+  "path": "<batch 2 dir>/raw/ena_2019.tsv.gz"
+ },
+ {
+  "query": "(library_construction_protocol=\"*10x*\" OR library_construction_protocol=\"*chromium*\" OR library_construction_protocol=\"*gemx*\" OR library_construction_protocol=\"*multiome*\" OR library_construction_protocol=\"*single?cell?3*\" OR library_construction_protocol=\"*single?cell?5*\" OR library_construction_protocol=\"*singlecell3*\" OR library_construction_protocol=\"*singlecell5*\") AND first_public>=2020-01-01 AND first_public<2021-01-01",
+  "kind": "partition",
+  "count": 51178,
+  "rows": 51178,
+  "path": "<batch 2 dir>/raw/ena_2020.tsv.gz"
+ },
+ {
+  "query": "(library_construction_protocol=\"*10x*\" OR library_construction_protocol=\"*chromium*\" OR library_construction_protocol=\"*gemx*\" OR library_construction_protocol=\"*multiome*\" OR library_construction_protocol=\"*single?cell?3*\" OR library_construction_protocol=\"*single?cell?5*\" OR library_construction_protocol=\"*singlecell3*\" OR library_construction_protocol=\"*singlecell5*\") AND first_public>=2021-01-01 AND first_public<2022-01-01",
+  "kind": "partition",
+  "count": 139506,
+  "rows": 139506,
+  "path": "<batch 2 dir>/raw/ena_2021.tsv.gz"
+ },
+ {
+  "query": "(library_construction_protocol=\"*10x*\" OR library_construction_protocol=\"*chromium*\" OR library_construction_protocol=\"*gemx*\" OR library_construction_protocol=\"*multiome*\" OR library_construction_protocol=\"*single?cell?3*\" OR library_construction_protocol=\"*single?cell?5*\" OR library_construction_protocol=\"*singlecell3*\" OR library_construction_protocol=\"*singlecell5*\") AND first_public>=2022-01-01 AND first_public<2023-01-01",
+  "kind": "partition",
+  "count": 76177,
+  "rows": 76177,
+  "path": "<batch 2 dir>/raw/ena_2022.tsv.gz"
+ },
+ {
+  "query": "(library_construction_protocol=\"*10x*\" OR library_construction_protocol=\"*chromium*\" OR library_construction_protocol=\"*gemx*\" OR library_construction_protocol=\"*multiome*\" OR library_construction_protocol=\"*single?cell?3*\" OR library_construction_protocol=\"*single?cell?5*\" OR library_construction_protocol=\"*singlecell3*\" OR library_construction_protocol=\"*singlecell5*\") AND first_public>=2023-01-01 AND first_public<2024-01-01",
+  "kind": "partition",
+  "count": 87143,
+  "rows": 87141,
+  "path": "<batch 2 dir>/raw/ena_2023.tsv.gz"
+ },
+ {
+  "query": "(library_construction_protocol=\"*10x*\" OR library_construction_protocol=\"*chromium*\" OR library_construction_protocol=\"*gemx*\" OR library_construction_protocol=\"*multiome*\" OR library_construction_protocol=\"*single?cell?3*\" OR library_construction_protocol=\"*single?cell?5*\" OR library_construction_protocol=\"*singlecell3*\" OR library_construction_protocol=\"*singlecell5*\") AND first_public>=2024-01-01 AND first_public<2025-01-01",
+  "kind": "partition",
+  "count": 86890,
+  "rows": 86515,
+  "path": "<batch 2 dir>/raw/ena_2024.tsv.gz"
+ },
+ {
+  "query": "(library_construction_protocol=\"*10x*\" OR library_construction_protocol=\"*chromium*\" OR library_construction_protocol=\"*gemx*\" OR library_construction_protocol=\"*multiome*\" OR library_construction_protocol=\"*single?cell?3*\" OR library_construction_protocol=\"*single?cell?5*\" OR library_construction_protocol=\"*singlecell3*\" OR library_construction_protocol=\"*singlecell5*\") AND first_public>=2025-01-01 AND first_public<2026-01-01",
+  "kind": "partition",
+  "count": 123208,
+  "rows": 121020,
+  "path": "<batch 2 dir>/raw/ena_2025.tsv.gz"
+ },
+ {
+  "query": "(library_construction_protocol=\"*10x*\" OR library_construction_protocol=\"*chromium*\" OR library_construction_protocol=\"*gemx*\" OR library_construction_protocol=\"*multiome*\" OR library_construction_protocol=\"*single?cell?3*\" OR library_construction_protocol=\"*single?cell?5*\" OR library_construction_protocol=\"*singlecell3*\" OR library_construction_protocol=\"*singlecell5*\") AND first_public>=2026-01-01 AND first_public<2027-01-01",
+  "kind": "partition",
+  "count": 127205,
+  "rows": 127160,
+  "path": "<batch 2 dir>/raw/ena_2026.tsv.gz"
+ }
+]

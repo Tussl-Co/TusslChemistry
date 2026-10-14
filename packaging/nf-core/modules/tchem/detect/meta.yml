@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/nf-core/modules/master/modules/meta-schema.json
+name: "tchem_detect"
+description: Names a single-cell RNA library's chemistry (kit, barcode lists, strand, library type) from its first reads, across vendors
+keywords:
+  - single-cell
+  - scrnaseq
+  - chemistry
+  - barcode
+  - 10x
+  - qc
+tools:
+  - "tchem":
+      description: "tussl-chemistry: names the kit, geometry, barcode lists, strand and library type of a single-cell RNA library from its first reads, across vendors."
+      homepage: "https://github.com/Tussl-Co/TusslChemistry"
+      documentation: "https://github.com/Tussl-Co/TusslChemistry/blob/master/README.md"
+      tool_dev_url: "https://github.com/Tussl-Co/TusslChemistry"
+      licence: ["Apache-2.0"]
+      identifier: ""
+input:
+  - - meta:
+        type: map
+        description: Groovy Map containing sample information. e.g. `[ id:'sample1' ]`
+    - reads:
+        type: file
+        description: |
+          One lane's reads: R1 and R2 FASTQ files in any order (I1/I2 index reads are
+          recognised and set aside), or one long-read FASTQ or BAM
+        pattern: "*.{fastq,fq,fastq.gz,fq.gz,bam}"
+        ontologies:
+          - edam: http://edamontology.org/format_1930 # FASTQ
+          - edam: http://edamontology.org/format_2572 # BAM
+  - whitelists:
+      type: directory
+      description: Directory of barcode lists written by tchem-fetch-whitelists (TCHEM_FETCHLISTS)
+output:
+  json:
+    - - meta:
+          type: map
+          description: Groovy Map containing sample information. e.g. `[ id:'sample1' ]`
+      - "*.chemistry.json":
+          type: file
+          description: |
+            The report (schema/report.v1.json in the tool's repository); a pipeline reads it
+            by schema_version
+          pattern: "*.chemistry.json"
+          ontologies:
+            - edam: http://edamontology.org/format_3464 # JSON
+  versions_tchem:
+    - - ${task.process}:
+          type: string
+          description: The name of the process
+      - tchem:
+          type: string
+          description: The name of the tool
+      - tchem --version | sed 's/^tchem //':
+          type: eval
+          description: The expression to obtain the version of the tool
+topics:
+  versions:
+    - - ${task.process}:
+          type: string
+          description: The name of the process
+      - tchem:
+          type: string
+          description: The name of the tool
+      - tchem --version | sed 's/^tchem //':
+          type: eval
+          description: The expression to obtain the version of the tool
+authors:
+  - "@Tussl-Co"
+maintainers:
+  - "@Tussl-Co"

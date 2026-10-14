@@ -1,0 +1,51 @@
+probe	expect	status	exit	problem
+fingerprint_json_reads_1	no read shared	PASS	0	
+fingerprint_text_reads_1	no read shared	PASS	0	
+fingerprint_json_reads_2	no read shared	PASS	0	
+fingerprint_text_reads_2	no read shared	PASS	0	
+fingerprint_json_reads_3	no read shared	PASS	0	
+fingerprint_text_reads_3	no read shared	PASS	0	
+fingerprint_json_reads_6	no read shared	PASS	0	
+fingerprint_text_reads_6	no read shared	PASS	0	
+fingerprint_json_reads_50	no read shared	PASS	0	
+fingerprint_text_reads_50	no read shared	PASS	0	
+fingerprint_json_reads_2000	no read shared	PASS	0	
+fingerprint_text_reads_2000	no read shared	PASS	0	
+bam_name_newline	a verdict	PASS	0	
+bam_name_nul	a verdict	PASS	0	
+bam_name_escape	a verdict	PASS	0	
+bam_name_star	a verdict	PASS	0	
+fastq_name_escape	no raw ESC in the report	PASS	0	
+emit_cellranger_text_newline_path	exit 3	PASS	3	
+emit_cellranger_text_same_file	exit 3	PASS	3	
+emit_cellranger_json_newline_path	exit 3	PASS	3	
+emit_cellranger_json_same_file	exit 3	PASS	3	
+emit_cellranger_comma_path	exit 3	PASS	3	
+emit_cellranger_dash_path	no path as an option	PASS	0	
+emit_starsolo_text_newline_path	exit 3	PASS	3	
+emit_starsolo_text_same_file	exit 3	PASS	3	
+emit_starsolo_json_newline_path	exit 3	PASS	3	
+emit_starsolo_json_same_file	exit 3	PASS	3	
+emit_starsolo_comma_path	exit 3	PASS	3	
+emit_starsolo_dash_path	no path as an option	PASS	0	
+emit_simpleaf_text_newline_path	exit 3	PASS	3	
+emit_simpleaf_text_same_file	exit 3	PASS	3	
+emit_simpleaf_json_newline_path	exit 3	PASS	3	
+emit_simpleaf_json_same_file	exit 3	PASS	3	
+emit_simpleaf_comma_path	exit 3	PASS	3	
+emit_simpleaf_dash_path	no path as an option	PASS	0	
+emit_kb_text_newline_path	exit 3	PASS	3	
+emit_kb_text_same_file	exit 3	PASS	3	
+emit_kb_json_newline_path	exit 3	PASS	3	
+emit_kb_json_same_file	exit 3	PASS	3	
+emit_kb_comma_path	exit 0	PASS	0	
+emit_kb_dash_path	no path as an option	PASS	0	
+emit_named_pipe	exit 3, no hang	PASS	3	
+iupac_prefix_R_text	a verdict	PASS	0	
+iupac_prefix_R_json	a verdict	PASS	0	
+iupac_prefix_Y_text	a verdict	PASS	0	
+iupac_prefix_Y_json	a verdict	PASS	0	
+iupac_prefix_K_text	a verdict	PASS	0	
+iupac_prefix_K_json	a verdict	PASS	0	
+iupac_prefix_N_text	a verdict	PASS	0	
+iupac_prefix_N_json	a verdict	PASS	0	

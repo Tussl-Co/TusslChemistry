@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/nf-core/modules/master/modules/meta-schema.json
+name: "tchem_fetchlists"
+description: Downloads and checks the single-cell barcode lists tchem uses, which belong to their vendors and are never redistributed
+keywords:
+  - single-cell
+  - scrnaseq
+  - barcode
+  - whitelist
+  - download
+tools:
+  - "tchem":
+      description: "tussl-chemistry: names the kit, geometry, barcode lists, strand and library type of a single-cell RNA library from its first reads, across vendors."
+      homepage: "https://github.com/Tussl-Co/TusslChemistry"
+      documentation: "https://github.com/Tussl-Co/TusslChemistry/blob/master/README.md"
+      tool_dev_url: "https://github.com/Tussl-Co/TusslChemistry"
+      licence: ["Apache-2.0"]
+      identifier: ""
+input:
+  - cellranger:
+      type: directory
+      description: |
+        Optional Cell Ranger install directory, downloaded from 10x under its licence; the
+        lists only Cell Ranger ships (10x Flex) are copied from it. Pass [] to skip them, and
+        tchem then reports the layouts that need them as not checked.
+output:
+  whitelists:
+    - whitelists:
+        type: directory
+        description: The barcode lists, each checked against its registered sha256, with their packed forms for faster loads
+        pattern: "whitelists"
+  versions_tchem:
+    - - ${task.process}:
+          type: string
+          description: The name of the process
+      - tchem:
+          type: string
+          description: The name of the tool
+      - tchem --version | sed 's/^tchem //':
+          type: eval
+          description: The expression to obtain the version of the tool
+topics:
+  versions:
+    - - ${task.process}:
+          type: string
+          description: The name of the process
+      - tchem:
+          type: string
+          description: The name of the tool
+      - tchem --version | sed 's/^tchem //':
+          type: eval
+          description: The expression to obtain the version of the tool
+authors:
+  - "@Tussl-Co"
+maintainers:
+  - "@Tussl-Co"

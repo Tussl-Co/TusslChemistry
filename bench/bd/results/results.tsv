@@ -1,0 +1,512 @@
+kit	study	gse	run	status	verdict	confidence	r1_length	detail
+bd_rhapsody	PRJNA859932		SRR20300308	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 81.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1055524		SRR27321395	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 82.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA913884		SRR22811791	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 94.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA913884		SRR22811792	ok	BD Rhapsody (original V1 beads)	HIGH	66	BD Rhapsody (original V1 beads) 86.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1004622		SRR25620218	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 94.0%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1004622		SRR25620219	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 93.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1016334		SRR26051844	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 94.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1016334		SRR26051845	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 95.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA641383		SRR12075588	ok	no known layout (best support under 30%)		150	Drop-seq 100.0%; ScaleBio RNA 66.7%; inDrops 66.7%
+bd_rhapsody	PRJNA641383		SRR12075589	ok	no known layout (best support under 30%)		150	Drop-seq 100.0%; ScaleBio RNA 66.7%; inDrops 66.7%
+bd_rhapsody	PRJNA859932		SRR20300307	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 81.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1053804		SRR27238691	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 97.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1053804		SRR27238692	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 97.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1070587		SRR27764020	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 84.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA937669		SRR23586199	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 79.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA937669		SRR23586200	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 83.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1005277		SRR25630436	ok	BD Rhapsody (original V1 beads)	HIGH	61	BD Rhapsody (original V1 beads) 91.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1005277		SRR25630437	ok	BD Rhapsody (original V1 beads)	HIGH	61	BD Rhapsody (original V1 beads) 91.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1003438		SRR25570486	ok	no known layout (best support under 30%)		62	Drop-seq 100.0%; ScaleBio RNA 66.7%; inDrops 66.7%
+bd_rhapsody	PRJNA1003438		SRR25570487	ok	no known layout (best support under 30%)		62	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 66.8%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1051589		SRR27188777	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 83.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1051589		SRR27188778	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 85.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1057236		SRR27352531	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 78.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1057236		SRR27352532	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 75.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA812500		SRR18212584	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 85.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA980632		SRR24844369	ok	BD Rhapsody (original V1 beads)	LOW	150	Drop-seq 100.0%; BD Rhapsody (original V1 beads) 73.5%; inDrops 66.7%
+bd_rhapsody	PRJNA980632		SRR24844370	ok	BD Rhapsody (original V1 beads)	LOW	150	Drop-seq 100.0%; BD Rhapsody (original V1 beads) 73.8%; inDrops 66.7%
+bd_rhapsody	PRJNA1091559		SRR28435678	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 85.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1091559		SRR28435679	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 80.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJEB74921		ERR12893386	ok	BD Rhapsody (Enhanced Beads)	HIGH	51	BD Rhapsody (Enhanced Beads) 90.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJEB74921		ERR12893387	ok	BD Rhapsody (Enhanced Beads)	HIGH	51	BD Rhapsody (Enhanced Beads) 90.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJDB17285		DRR527911	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 94.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJDB17285		DRR527912	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 82.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1095918		SRR28549394	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 83.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1095918		SRR28549395	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 83.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA773096		SRR16505554	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 83.4%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA773096		SRR16505555	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 90.9%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA824021		SRR18661837	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 97.9%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA824021		SRR18661838	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 92.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA864804		SRR20733833	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 80.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA864804		SRR20733834	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 88.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1086921		SRR28311460	ok	BD Rhapsody (original V1 beads)	HIGH	64	BD Rhapsody (original V1 beads) 88.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1086921		SRR28311461	ok	BD Rhapsody (original V1 beads)	HIGH	64	BD Rhapsody (original V1 beads) 88.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1100490		SRR28702390	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 87.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1100490		SRR28702391	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 87.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA886687		SRR27534380	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA886687		SRR27534381	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1105909		SRR28830615	ok	BD Rhapsody (Enhanced Beads)	HIGH	60	BD Rhapsody (Enhanced Beads) 80.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1105909		SRR28830616	ok	BD Rhapsody (Enhanced Beads)	HIGH	60	BD Rhapsody (Enhanced Beads) 79.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1106036		SRR28839348	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	60	BD Rhapsody (Enhanced V2/V3 beads) 95.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1106036		SRR28839349	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	60	BD Rhapsody (Enhanced V2/V3 beads) 95.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1005593		SRR25645700	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 81.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1005593		SRR25645701	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 82.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1013108		SRR25918412	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 81.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1013108		SRR25918413	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 81.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1105052		SRR28817192	ok	BD Rhapsody (Enhanced Beads)	HIGH	60	BD Rhapsody (Enhanced Beads) 80.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1105052		SRR28817193	ok	BD Rhapsody (Enhanced Beads)	HIGH	60	BD Rhapsody (Enhanced Beads) 95.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA839726		SRR19318138	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 90.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA839726		SRR19318139	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 87.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA902422		SRR22316969	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 90.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA902422		SRR22316970	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 82.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA787272		SRR17171645	ok	10x 3' v2	HIGH	150	10x 3' v2 97.5%; 10x 5' v1/v2 97.5%; Drop-seq 100.0%
+bd_rhapsody	PRJNA735197		SRR14730366	ok	BD Rhapsody (original V1 beads)	LOW	150	Drop-seq 100.0%; BD Rhapsody (original V1 beads) 69.4%; inDrops 66.7%
+bd_rhapsody	PRJNA735197		SRR14730367	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 83.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA952998		SRR24097976	ok	no known layout (best support under 30%)		85	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 67.0%; inDrops 66.7%
+bd_rhapsody	PRJNA952998		SRR24097977	ok	BD Rhapsody (Enhanced Beads)	HIGH	85	BD Rhapsody (Enhanced Beads) 86.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA961752		SRR24302406	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 81.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA961752		SRR24302407	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 82.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1008213		SRR25734060	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 86.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1008213		SRR25734061	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 86.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1033581		SRR26590002	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 86.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1033581		SRR26590003	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 86.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1039754		SRR26804886	ok	no known layout (best support under 30%)		150	Drop-seq 40.7%; Illumina Single Cell 3' / PIPseq v3-v4 19.2%; Singleron GEXSCOPE V3 8.6%
+bd_rhapsody	PRJNA1039754		SRR26804887	ok	no known layout (best support under 30%)		150	Drop-seq 37.9%; Illumina Single Cell 3' / PIPseq v3-v4 18.8%; Singleron GEXSCOPE V3 8.7%
+bd_rhapsody	PRJNA1050245		SRR27149488	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 77.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1050245		SRR27149489	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 78.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA900194		SRR22254492	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 83.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA900194		SRR22254493	ok	BD Rhapsody (original V1 beads)	LOW	150	Drop-seq 100.0%; BD Rhapsody (original V1 beads) 68.7%; inDrops 66.7%
+bd_rhapsody	PRJNA929511		SRR23274455	ok	BD Rhapsody (original V1 beads)	HIGH	62	BD Rhapsody (original V1 beads) 93.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA744759		SRR15068940	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 89.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA744759		SRR15068942	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 89.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1106806		SRR28863251	ok	BD Rhapsody (Enhanced Beads)	HIGH	75	BD Rhapsody (Enhanced Beads) 98.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1106806		SRR28863252	ok	BD Rhapsody (Enhanced Beads)	HIGH	75	BD Rhapsody (Enhanced Beads) 98.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA985698		SRR24978220	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 83.1%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA985698		SRR24978221	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 80.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1089089		SRR28373287	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 96.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1089089		SRR28373288	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 96.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1147620		SRR30229364	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 84.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1147620		SRR30229365	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 81.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1113558		SRR29082496	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 85.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1113558		SRR29082497	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 85.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1000448		SRR25461774	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 87.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1000448		SRR25461775	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 87.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1149727		SRR30296410	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 84.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1149727		SRR30296411	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 85.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1111058		SRR29012203	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 94.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1111058		SRR29012204	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 95.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1128140		SRR29551173	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 80.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1147213		SRR30230651	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 93.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1147213		SRR30230652	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 93.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA949600		SRR27937226	ok	BD Rhapsody (original V1 beads)	HIGH	101	BD Rhapsody (original V1 beads) 91.8%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA949600		SRR27937227	ok	BD Rhapsody (original V1 beads)	HIGH	101	BD Rhapsody (original V1 beads) 94.7%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1065897		SRR27596523	ok	BD Rhapsody (original V1 beads)	LOW	76	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 66.7%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1065897		SRR27596524	ok	BD Rhapsody (original V1 beads)	LOW	76	Drop-seq 100.0%; ScaleBio RNA 66.8%; inDrops 66.7%
+bd_rhapsody	PRJNA1050192		SRR27147133	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 82.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1050192		SRR27147134	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 82.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1011317		SRR25844882	ok	BD Rhapsody (original V1 beads)	HIGH	101	BD Rhapsody (original V1 beads) 87.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1071506		SRR27798463	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 95.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA785147		SRR31098004	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 85.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA785147		SRR31098005	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 85.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1100565		SRR28700120	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 91.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1100565		SRR28700121	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 82.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1092348		SRR28467024	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 90.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA783206		SRR17027122	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 79.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA783206		SRR17027123	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 77.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA784553		SRR17066693	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 79.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA784553		SRR17066694	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 84.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1031655		SRR26501361	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 76.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1031655		SRR26501362	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 73.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1092348		SRR28467023	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 97.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1174235		SRR31034607	ok	BD Rhapsody (original V1 beads)	HIGH	101	BD Rhapsody (original V1 beads) 84.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1174235		SRR31034608	ok	BD Rhapsody (original V1 beads)	HIGH	101	BD Rhapsody (original V1 beads) 83.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1177772		SRR31113613	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 87.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1184354		SRR31303357	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 93.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1184354		SRR31303358	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 92.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1184739		SRR31308584	ok	BD Rhapsody (Enhanced V2/V3 beads)	MEDIUM	150	BD Rhapsody (Enhanced V2/V3 beads) 63.6%; Drop-seq 100.0%; ScaleBio RNA 53.6%
+bd_rhapsody	PRJNA1184739		SRR31308585	ok	BD Rhapsody (Enhanced V2/V3 beads)	MEDIUM	150	BD Rhapsody (Enhanced V2/V3 beads) 62.9%; Drop-seq 100.0%; ScaleBio RNA 53.7%
+bd_rhapsody	PRJNA818270		SRR18397750	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 89.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA818270		SRR18397751	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 82.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJEB76579		ERR13255856	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 84.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJEB76579		ERR13255857	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 85.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJEB76875		ERR13304888	ok	BD Rhapsody (original V1 beads)	HIGH	101	BD Rhapsody (original V1 beads) 88.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJEB76875		ERR13304889	ok	10x 3' v3/v3.1	MEDIUM	101	10x 3' v3/v3.1 51.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1133676		SRR29755422	ok	BD Rhapsody (Enhanced Beads)	HIGH	100	BD Rhapsody (Enhanced Beads) 95.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1133676		SRR29755423	ok	BD Rhapsody (Enhanced Beads)	HIGH	100	BD Rhapsody (Enhanced Beads) 97.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1145880		SRR30172517	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 94.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1145880		SRR30172518	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 93.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1201778		SRR31803993	ok	BD Rhapsody (Enhanced Beads)	MEDIUM	151	BD Rhapsody (Enhanced Beads) 55.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1201778		SRR31803997	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 73.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1043218		SRR26894805	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 93.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1043218		SRR26894806	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 93.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1063697		SRR27500596	ok	10x 5' v1/v2	HIGH	150	10x 5' v1/v2 97.1%; 10x 3' v2 97.1%; Drop-seq 100.0%
+bd_rhapsody	PRJNA1063697		SRR27500597	ok	10x 5' v1/v2	HIGH	150	10x 5' v1/v2 97.1%; 10x 3' v2 97.1%; Drop-seq 100.0%
+bd_rhapsody	PRJNA1104143		SRR28790678	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 97.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1104143		SRR28790680	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 97.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1140594		SRR30006855	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 93.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1140594		SRR30006856	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 93.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1046051		SRR26977934	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 81.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1046051		SRR26977935	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 81.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1182369		SRR31234309	ok	BD Rhapsody (Enhanced Beads)	HIGH	75	BD Rhapsody (Enhanced Beads) 97.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1182369		SRR31234310	ok	BD Rhapsody (Enhanced Beads)	HIGH	75	BD Rhapsody (Enhanced Beads) 97.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1028967		SRR26410318	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 84.0%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1028967		SRR26410319	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 90.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1139821		SRR29970392	ok	BD Rhapsody (Enhanced Beads)	HIGH	62	BD Rhapsody (Enhanced Beads) 96.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1139821		SRR29970393	ok	BD Rhapsody (Enhanced Beads)	HIGH	62	BD Rhapsody (Enhanced Beads) 96.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1202067		SRR31810715	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 96.1%; Drop-seq 100.0%; ScaleBio RNA 64.8%
+bd_rhapsody	PRJNA1210560		SRR31997868	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	101	BD Rhapsody (Enhanced V2/V3 beads) 97.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1210560		SRR31997869	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	101	BD Rhapsody (Enhanced V2/V3 beads) 95.2%; Drop-seq 100.0%; ScaleBio RNA 64.8%
+bd_rhapsody	PRJNA793187		SRR17382569	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 83.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA800782		SRR17770072	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 84.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1187466		SRR31377335	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 91.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1187466		SRR31377336	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 92.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1147632		SRR30223674	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 94.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1147632		SRR30223675	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 85.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1103097		SRR28763445	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 93.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1103097		SRR28763446	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 93.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1193605		SRR31591920	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 81.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1193605		SRR31591921	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 40.5%; inDrops 23.3%
+bd_rhapsody	PRJNA1168959		SRR30887947	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 92.8%; Drop-seq 100.0%; ScaleBio RNA 63.6%
+bd_rhapsody	PRJNA1168959		SRR30887948	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 93.4%; Drop-seq 100.0%; ScaleBio RNA 64.2%
+bd_rhapsody	PRJNA1168960		SRR30888620	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.2%; Drop-seq 100.0%; ScaleBio RNA 65.4%
+bd_rhapsody	PRJNA1168960		SRR30888621	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.1%; Drop-seq 100.0%; ScaleBio RNA 65.2%
+bd_rhapsody	PRJNA1225148		SRR32380294	ok	BD Rhapsody (original V1 beads)	HIGH	62	BD Rhapsody (original V1 beads) 89.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1225148		SRR32380295	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 89.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1214237		SRR32084513	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 92.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1214237		SRR32084514	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 93.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1218445		SRR32204593	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 97.0%; Drop-seq 100.0%; ScaleBio RNA 66.1%
+bd_rhapsody	PRJNA1218445		SRR32204594	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 97.2%; Drop-seq 100.0%; ScaleBio RNA 66.0%
+bd_rhapsody	PRJNA1021160		SRR26186972	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 86.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1021160		SRR26186973	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 86.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1060742		SRR27412249	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 94.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1218232		SRR32195163	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 82.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1154705		SRR30499098	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 92.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1154706		SRR30498850	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 90.9%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1154706		SRR30498851	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 86.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1212080		SRR32036882	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 82.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1212080		SRR32036883	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 83.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1002778		SRR25537383	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 81.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1002778		SRR25537384	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 82.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1060742		SRR27412248	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 94.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1199036		SRR31743617	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1199036		SRR31743618	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1218232		SRR32195167	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 71.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1225645		SRR32398713	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 96.3%; Drop-seq 100.0%; ScaleBio RNA 66.3%
+bd_rhapsody	PRJNA1225645		SRR32398714	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 96.4%; Drop-seq 100.0%; ScaleBio RNA 66.1%
+bd_rhapsody	PRJNA1229579		SRR32515491	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 90.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1129061		SRR29623875	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 83.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1129061		SRR29623876	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 82.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1242790		SRR32895825	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 78.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1242790		SRR32895826	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 78.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA989051		SRR25073540	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 85.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA989051		SRR25073541	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 86.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1148410		SRR30251492	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	151	BD Rhapsody (Enhanced V2/V3 beads) 93.9%; Drop-seq 100.0%; ScaleBio RNA 64.0%
+bd_rhapsody	PRJNA1250505		SRR33133711	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 94.3%; Drop-seq 100.0%; ScaleBio RNA 65.9%
+bd_rhapsody	PRJNA1250505		SRR33133712	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 94.3%; Drop-seq 100.0%; ScaleBio RNA 65.7%
+bd_rhapsody	PRJNA1219477		SRR32235692	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 70.4%; Drop-seq 100.0%; ScaleBio RNA 60.9%
+bd_rhapsody	PRJNA1219477		SRR32235693	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 70.8%; Drop-seq 100.0%; ScaleBio RNA 60.8%
+bd_rhapsody	PRJNA1171467		SRR30946528	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	151	BD Rhapsody (Enhanced V2/V3 beads) 94.9%; Drop-seq 100.0%; ScaleBio RNA 64.8%
+bd_rhapsody	PRJNA1171467		SRR30946529	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	151	BD Rhapsody (Enhanced V2/V3 beads) 94.2%; Drop-seq 100.0%; ScaleBio RNA 66.1%
+bd_rhapsody	PRJNA1220642		SRR32266152	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 88.9%; Drop-seq 100.0%; ScaleBio RNA 63.0%
+bd_rhapsody	PRJNA823340		SRR18604890	ok	BD Rhapsody (original V1 beads)	HIGH	60	BD Rhapsody (original V1 beads) 90.6%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA823340		SRR18604891	ok	BD Rhapsody (original V1 beads)	HIGH	60	BD Rhapsody (original V1 beads) 83.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA891701		SRR33004855	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 77.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA891701		SRR33004856	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 78.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1142945		SRR30090426	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 94.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1142945		SRR30090427	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 87.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1096054		SRR28551612	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 81.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1096054		SRR28551613	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 81.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1254724		SRR33290616	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1254724		SRR33290617	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 94.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1100918		SRR28704767	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 98.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1100918		SRR28704768	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 94.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1107494		SRR28891612	ok	BD Rhapsody (original V1 beads)	HIGH	60	BD Rhapsody (original V1 beads) 90.6%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1107494		SRR28891613	ok	BD Rhapsody (original V1 beads)	HIGH	60	BD Rhapsody (original V1 beads) 83.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1169836		SRR30902940	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 82.9%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1169836		SRR30902941	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 83.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJDB19438		DRR675801	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 95.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1054566		SRR27292128	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 92.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1054566		SRR27292129	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 92.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1178685		SRR31141532	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 89.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1178685		SRR31141533	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 89.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1115717		SRR29152067	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 89.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1115717		SRR29152068	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 81.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1190381		SRR31797222	ok	BD Rhapsody (original V1 beads)	HIGH	60	BD Rhapsody (original V1 beads) 94.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1190381		SRR31797223	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	151	BD Rhapsody (Enhanced V2/V3 beads) 97.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1200648		SRR31778027	ok	BD Rhapsody (original V1 beads)	HIGH	101	BD Rhapsody (original V1 beads) 82.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1005181		SRR25629550	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 82.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1005181		SRR25629551	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 90.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1048531		SRR27051223	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 81.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1048531		SRR27051224	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 81.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1130866		SRR29680016	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 95.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1130866		SRR29680017	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 85.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1212777		SRR32048446	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 91.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1212777		SRR32048447	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 84.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1214781		SRR32095385	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 89.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1253681		SRR33235718	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 79.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1253681		SRR33235719	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 79.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1272523		SRR33841695	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 93.8%; Drop-seq 100.0%; ScaleBio RNA 65.1%
+bd_rhapsody	PRJNA1129034		SRR29608293	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 82.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1129034		SRR29608294	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 94.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1284102		SRR34296621	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	151	BD Rhapsody (Enhanced V2/V3 beads) 97.4%; Drop-seq 100.0%; ScaleBio RNA 65.6%
+bd_rhapsody	PRJNA1284102		SRR34296623	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	151	BD Rhapsody (Enhanced V2/V3 beads) 97.4%; Drop-seq 100.0%; ScaleBio RNA 65.9%
+bd_rhapsody	PRJNA1122601		SRR29362528	ok	BD Rhapsody (original V1 beads)	HIGH	64	BD Rhapsody (original V1 beads) 91.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1122601		SRR29362529	ok	BD Rhapsody (original V1 beads)	HIGH	64	BD Rhapsody (original V1 beads) 91.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1134736		SRR29790728	ok	BD Rhapsody (original V1 beads)	LOW	101	Drop-seq 100.0%; ScaleBio RNA 66.7%; inDrops 66.7%
+bd_rhapsody	PRJNA1134736		SRR29790729	ok	BD Rhapsody (original V1 beads)	MEDIUM	101	BD Rhapsody (original V1 beads) 64.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1127544		SRR29536156	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1127544		SRR29536157	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1282767		SRR34255233	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 94.7%; Drop-seq 100.0%; ScaleBio RNA 65.8%
+bd_rhapsody	PRJNA1282767		SRR34255235	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 96.2%; Drop-seq 100.0%; ScaleBio RNA 66.3%
+bd_rhapsody	PRJNA1140362		SRR30001068	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 93.6%; Drop-seq 100.0%; ScaleBio RNA 65.8%
+bd_rhapsody	PRJNA1140362		SRR30001069	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 93.5%; Drop-seq 100.0%; ScaleBio RNA 65.5%
+bd_rhapsody	PRJNA1127474		SRR29517411	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 93.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1127474		SRR29517412	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 94.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1128125		SRR29548606	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 96.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1128125		SRR29548607	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 92.8%; Drop-seq 100.0%; ScaleBio RNA 64.9%
+bd_rhapsody	PRJNA1242361		SRR32869878	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 85.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1242361		SRR32869879	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 83.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1265170		SRR33626860	ok	no known layout (best support under 30%)		75	Drop-seq 100.0%; ScaleBio RNA 66.7%; inDrops 66.7%
+bd_rhapsody	PRJNA1265170		SRR33626861	ok	no known layout (best support under 30%)		75	Drop-seq 100.0%; inDrops 66.7%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1142942		SRR30089244	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 94.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1142942		SRR30089245	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 95.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1143418		SRR30111730	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 80.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1143418		SRR30111731	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 80.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1183407		SRR31273785	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 88.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1183407		SRR31273786	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 89.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1299441		SRR34797688	ok	BD Rhapsody (original V1 beads)	HIGH	66	BD Rhapsody (original V1 beads) 86.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1299441		SRR34797689	ok	BD Rhapsody (original V1 beads)	HIGH	66	BD Rhapsody (original V1 beads) 85.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1301943		SRR34876676	ok	BD Rhapsody (Enhanced Beads)	HIGH	47	BD Rhapsody (Enhanced Beads) 90.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1301943		SRR34876677	ok	BD Rhapsody (Enhanced Beads)	HIGH	47	BD Rhapsody (Enhanced Beads) 90.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1302469		SRR34891458	ok	BD Rhapsody (Enhanced Beads)	HIGH	85	BD Rhapsody (Enhanced Beads) 95.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1302469		SRR34891459	ok	BD Rhapsody (Enhanced Beads)	HIGH	85	BD Rhapsody (Enhanced Beads) 97.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1134211		SRR29767579	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 94.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1134211		SRR29767580	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 95.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1265136		SRR33633895	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 85.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1265136		SRR33633896	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 85.4%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1308104		SRR35038870	ok	BD Rhapsody (Enhanced V2/V3 beads)	LOW	61	Drop-seq 100.0%; BD Rhapsody (Enhanced V2/V3 beads) 67.7%; ScaleBio RNA 58.3%
+bd_rhapsody	PRJNA1308104		SRR35038871	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	61	BD Rhapsody (Enhanced V2/V3 beads) 93.7%; Drop-seq 100.0%; ScaleBio RNA 66.2%
+bd_rhapsody	PRJNA1309078		SRR35083789	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.3%; Drop-seq 100.0%; ScaleBio RNA 63.8%
+bd_rhapsody	PRJNA1309078		SRR35083790	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.4%; Drop-seq 100.0%; ScaleBio RNA 64.1%
+bd_rhapsody	PRJNA1153967		SRR30476313	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 80.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1153967		SRR30476314	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 81.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA997227		SRR25382408	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 92.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA997227		SRR25382409	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 82.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1089941		SRR28394890	ok	BD Rhapsody (original V1 beads)	HIGH	62	BD Rhapsody (original V1 beads) 84.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1090521		SRR28412910	ok	BD Rhapsody (Enhanced Beads)	HIGH	101	BD Rhapsody (Enhanced Beads) 89.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1090521		SRR28412913	ok	BD Rhapsody (Enhanced Beads)	HIGH	101	BD Rhapsody (Enhanced Beads) 91.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1314125		SRR35231292	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.4%; Drop-seq 100.0%; ScaleBio RNA 66.1%
+bd_rhapsody	PRJNA1314125		SRR35231293	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.2%; Drop-seq 100.0%; ScaleBio RNA 65.5%
+bd_rhapsody	PRJEB85409		ERR14226277	ok	BD Rhapsody (Enhanced Beads)	HIGH	75	BD Rhapsody (Enhanced Beads) 95.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJEB85409		ERR14226278	ok	BD Rhapsody (Enhanced Beads)	HIGH	75	BD Rhapsody (Enhanced Beads) 95.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1089941		SRR28394889	ok	BD Rhapsody (original V1 beads)	HIGH	62	BD Rhapsody (original V1 beads) 84.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1117924		SRR29224907	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1117924		SRR29224908	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1172307		SRR30976084	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 81.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1172307		SRR30976085	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 92.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1195830		SRR31646921	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 85.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1195830		SRR31646924	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 90.3%; Drop-seq 100.0%; ScaleBio RNA 64.0%
+bd_rhapsody	PRJNA1314038		SRR35231309	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 95.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1314038		SRR35231310	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 94.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA932028		SRR23353773	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 80.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA932028		SRR23353774	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 84.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1217789		SRR32188671	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 86.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1217789		SRR32188672	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 84.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJDB35991		DRR734225	ok	BD Rhapsody (Enhanced Beads)	HIGH	100	BD Rhapsody (Enhanced Beads) 94.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1295188		SRR34677856	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	82	BD Rhapsody (Enhanced V2/V3 beads) 97.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJEB79586		ERR13620654	ok	BD Rhapsody (original V1 beads)	HIGH	101	BD Rhapsody (original V1 beads) 88.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJEB79586		ERR13620655	ok	BD Rhapsody (original V1 beads)	HIGH	101	BD Rhapsody (original V1 beads) 89.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1064100		SRR27505709	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 70.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1152502		SRR30398611	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	75	BD Rhapsody (Enhanced V2/V3 beads) 89.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1152502		SRR30398612	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	75	BD Rhapsody (Enhanced V2/V3 beads) 71.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1284218		SRR34310014	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 97.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1284218		SRR34310015	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 95.1%; Drop-seq 100.0%; ScaleBio RNA 64.6%
+bd_rhapsody	PRJNA1284223		SRR34296678	ok	BD Rhapsody (Enhanced Beads)	HIGH	51	BD Rhapsody (Enhanced Beads) 96.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1284225		SRR34315236	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 97.6%; Drop-seq 100.0%; ScaleBio RNA 66.6%
+bd_rhapsody	PRJNA1284225		SRR34315237	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 95.4%; Drop-seq 100.0%; ScaleBio RNA 64.3%
+bd_rhapsody	PRJNA1284236		SRR34314015	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 94.6%; Drop-seq 100.0%; ScaleBio RNA 64.3%
+bd_rhapsody	PRJNA1305995		SRR34988302	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 98.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1305995		SRR34988303	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1047664		SRR27022608	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 95.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1047664		SRR27022609	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 94.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA895016		SRR22066164	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 76.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1201752		SRR31802845	ok	BD Rhapsody (Enhanced Beads)	HIGH	51	BD Rhapsody (Enhanced Beads) 96.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1201753		SRR31802864	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 94.4%; Drop-seq 100.0%; ScaleBio RNA 64.5%
+bd_rhapsody	PRJNA1201753		SRR31802865	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 95.3%; Drop-seq 100.0%; ScaleBio RNA 64.8%
+bd_rhapsody	PRJNA1099218		SRR28628781	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 94.6%; Drop-seq 100.0%; ScaleBio RNA 65.5%
+bd_rhapsody	PRJNA1099218		SRR28628782	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.0%; Drop-seq 100.0%; ScaleBio RNA 65.6%
+bd_rhapsody	PRJEB90159		ERR15096938	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	101	BD Rhapsody (Enhanced V2/V3 beads) 95.6%; Drop-seq 100.0%; ScaleBio RNA 65.9%
+bd_rhapsody	PRJEB90159		ERR15096939	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	101	BD Rhapsody (Enhanced V2/V3 beads) 96.2%; Drop-seq 100.0%; ScaleBio RNA 66.0%
+bd_rhapsody	PRJNA911198		SRR22696100	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 76.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA911198		SRR22696101	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 77.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1227469		SRR32467292	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 97.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1227469		SRR32467293	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 80.5%; Drop-seq 100.0%; ScaleBio RNA 60.8%
+bd_rhapsody	PRJNA1301396		SRR34861707	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 97.8%; Drop-seq 100.0%; ScaleBio RNA 64.7%
+bd_rhapsody	PRJNA1301396		SRR34861708	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 91.9%; Drop-seq 100.0%; ScaleBio RNA 64.4%
+bd_rhapsody	PRJNA1048443		SRR27048870	ok	BD Rhapsody (Enhanced Beads)	HIGH	67	BD Rhapsody (Enhanced Beads) 98.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1048443		SRR27048871	ok	BD Rhapsody (Enhanced Beads)	HIGH	67	BD Rhapsody (Enhanced Beads) 96.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1141502		SRR30031971	ok	no known layout (best support under 30%)		150	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 66.7%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1141502		SRR30031972	ok	no known layout (best support under 30%)		150	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 67.2%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1332726		SRR35564511	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 87.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1332726		SRR35564512	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 84.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1235166		SRR32671707	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 88.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1235166		SRR32671708	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 89.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1375648		SRR36325838	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.2%; Drop-seq 100.0%; ScaleBio RNA 64.6%
+bd_rhapsody	PRJNA1375648		SRR36325839	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 96.1%; Drop-seq 100.0%; ScaleBio RNA 66.1%
+bd_rhapsody	PRJEB104009		ERR15904669	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 94.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJEB104009		ERR15904670	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 95.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1184133		SRR31297894	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 92.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1184133		SRR31297895	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 93.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1368787		SRR36178468	ok	no known layout (best support under 30%)		75	Drop-seq 100.0%; ScaleBio RNA 59.2%; Illumina Single Cell 3' / PIPseq v3-v4 59.1%
+bd_rhapsody	PRJNA1389642		SRR36477117	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; ScaleBio RNA 66.7%; inDrops 66.7%
+bd_rhapsody	PRJNA1389642		SRR36477118	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 66.9%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1163392		SRR30751203	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 94.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1163392		SRR30751204	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 93.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1367918		SRR36139322	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 82.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1367918		SRR36139323	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 83.3%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJDB38194		DRR821823	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 95.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJDB38194		DRR821824	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 84.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1196373		SRR31667195	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 91.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1196373		SRR31667196	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 85.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1263549		SRR33590454	ok	BD Rhapsody (Enhanced Beads)	HIGH	51	BD Rhapsody (Enhanced Beads) 96.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1322389		SRR35330867	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 93.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1249038		SRR33098709	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 93.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1249038		SRR33098710	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 95.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1149742		SRR30296201	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 94.4%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1005681		SRR25649725	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 95.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1242283		SRR32868200	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	85	BD Rhapsody (Enhanced V2/V3 beads) 98.0%; Drop-seq 100.0%; ScaleBio RNA 66.5%
+bd_rhapsody	PRJNA1298153		SRR34749361	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 94.2%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1033336		SRR26557432	ok	no known layout (best support under 30%)		75	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 67.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1033336		SRR26557433	ok	BD Rhapsody (Enhanced Beads)	HIGH	75	BD Rhapsody (Enhanced Beads) 97.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1281532		SRR34167886	ok	BD Rhapsody (Enhanced Beads)	HIGH	67	BD Rhapsody (Enhanced Beads) 97.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1281532		SRR34167887	ok	BD Rhapsody (Enhanced Beads)	HIGH	67	BD Rhapsody (Enhanced Beads) 90.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1281535		SRR34142094	ok	BD Rhapsody (Enhanced Beads)	HIGH	75	BD Rhapsody (Enhanced Beads) 98.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1281535		SRR34142095	ok	BD Rhapsody (Enhanced Beads)	HIGH	75	BD Rhapsody (Enhanced Beads) 97.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1397170		SRR36659246	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1397170		SRR36659247	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1334314		SRR35618484	ok	10x 3' v3/v3.1	HIGH	150	10x 3' v3/v3.1 96.9%; Drop-seq 100.0%; ScaleBio RNA 48.8%
+bd_rhapsody	PRJNA1214799		SRR32104638	ok	BD Rhapsody (Enhanced Beads)	HIGH	60	BD Rhapsody (Enhanced Beads) 80.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1414659		SRR36994711	ok	BD Rhapsody (Enhanced Beads)	HIGH	85	BD Rhapsody (Enhanced Beads) 78.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1414659		SRR36994712	ok	BD Rhapsody (Enhanced Beads)	HIGH	85	BD Rhapsody (Enhanced Beads) 79.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1422218		SRR37197912	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 76.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1422218		SRR37197913	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 80.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1235686		SRR32684192	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 83.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1235686		SRR32684193	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 83.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1405578		SRR36895264	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 91.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1405578		SRR36895265	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 88.2%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1163292		SRR30735017	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1163292		SRR30735018	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1185734		SRR31333535	ok	BD Rhapsody (Enhanced Beads)	HIGH	51	BD Rhapsody (Enhanced Beads) 95.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1185734		SRR31333536	ok	BD Rhapsody (Enhanced Beads)	HIGH	51	BD Rhapsody (Enhanced Beads) 95.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1205695		SRR31872261	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 95.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1205695		SRR31872262	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 95.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1232824		SRR32601363	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 82.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1232824		SRR32601366	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 76.1%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1244311		SRR32923311	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1244311		SRR32923312	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1365156		SRR36055142	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	75	BD Rhapsody (Enhanced V2/V3 beads) 85.3%; Drop-seq 100.0%; ScaleBio RNA 66.6%
+bd_rhapsody	PRJNA1365156		SRR36055143	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	75	BD Rhapsody (Enhanced V2/V3 beads) 85.8%; Drop-seq 100.0%; ScaleBio RNA 66.5%
+bd_rhapsody	PRJNA1367928		SRR36163536	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 93.5%; Drop-seq 100.0%; ScaleBio RNA 64.2%
+bd_rhapsody	PRJNA1367928		SRR36163537	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 92.2%; Drop-seq 100.0%; ScaleBio RNA 64.0%
+bd_rhapsody	PRJNA1391006		SRR36507629	ok	BD Rhapsody (Enhanced Beads)	HIGH	51	BD Rhapsody (Enhanced Beads) 98.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1391006		SRR36507630	ok	BD Rhapsody (Enhanced Beads)	HIGH	51	BD Rhapsody (Enhanced Beads) 97.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1196477		SRR31669164	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 94.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1196477		SRR31669165	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 89.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1306065		SRR34991669	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	100	BD Rhapsody (Enhanced V2/V3 beads) 86.4%; Drop-seq 100.0%; ScaleBio RNA 62.2%
+bd_rhapsody	PRJNA1306065		SRR34991670	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	100	BD Rhapsody (Enhanced V2/V3 beads) 91.8%; Drop-seq 100.0%; ScaleBio RNA 63.7%
+bd_rhapsody	PRJNA1307302		SRR35023414	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	100	BD Rhapsody (Enhanced V2/V3 beads) 95.1%; Drop-seq 100.0%; ScaleBio RNA 65.6%
+bd_rhapsody	PRJNA1307302		SRR35023415	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	100	BD Rhapsody (Enhanced V2/V3 beads) 94.2%; Drop-seq 100.0%; ScaleBio RNA 65.0%
+bd_rhapsody	PRJNA1307580		SRR35031046	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 86.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1307580		SRR35031047	ok	BD Rhapsody (original V1 beads)	HIGH	100	BD Rhapsody (original V1 beads) 87.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1333950		SRR35599534	ok	no known layout (best support under 30%)		150	Drop-seq 100.0%; Illumina Single Cell 3' / PIPseq v3-v4 27.4%; inDrops 21.5%
+bd_rhapsody	PRJNA1333950		SRR35599535	ok	no known layout (best support under 30%)		150	Drop-seq 85.9%; Illumina Single Cell 3' / PIPseq v3-v4 22.7%; inDrops 14.8%
+bd_rhapsody	PRJNA1381477		SRR36448822	ok	no known layout (best support under 30%)		50	Drop-seq 58.5%; Illumina Single Cell 3' / PIPseq v3-v4 26.6%; inDrops 18.9%
+bd_rhapsody	PRJNA1381477		SRR36448823	ok	no known layout (best support under 30%)		50	Drop-seq 77.0%; Illumina Single Cell 3' / PIPseq v3-v4 28.1%; inDrops 20.7%
+bd_rhapsody	PRJEB111587		ERR17018165	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 95.0%; Drop-seq 100.0%; ScaleBio RNA 65.1%
+bd_rhapsody	PRJEB111587		ERR17018166	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 94.8%; Drop-seq 100.0%; ScaleBio RNA 65.2%
+bd_rhapsody	PRJNA1207009		SRR31901406	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 82.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1207009		SRR31901407	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 81.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1225668		SRR32397677	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 91.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1225668		SRR32397678	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 91.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1259022		SRR33436900	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; inDrops 66.7%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1259022		SRR33436901	ok	no known layout (best support under 30%)		151	Drop-seq 100.0%; ScaleBio RNA 66.7%; inDrops 66.7%
+bd_rhapsody	PRJNA1294823		SRR34657515	ok	BD Rhapsody (original V1 beads)	HIGH	62	BD Rhapsody (original V1 beads) 75.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1294823		SRR34657516	ok	BD Rhapsody (original V1 beads)	HIGH	62	BD Rhapsody (original V1 beads) 76.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1311085		SRR35145952	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	151	BD Rhapsody (Enhanced V2/V3 beads) 71.4%; Drop-seq 100.0%; ScaleBio RNA 65.1%
+bd_rhapsody	PRJNA1423618		SRR37231950	ok	BD Rhapsody (Enhanced Beads)	HIGH	85	BD Rhapsody (Enhanced Beads) 72.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1423618		SRR37231953	ok	BD Rhapsody (Enhanced Beads)	HIGH	51	BD Rhapsody (Enhanced Beads) 96.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1428852		SRR37377078	ok	BD Rhapsody (original V1 beads)	HIGH	60	BD Rhapsody (original V1 beads) 93.3%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1428852		SRR37377079	ok	BD Rhapsody (original V1 beads)	HIGH	60	BD Rhapsody (original V1 beads) 93.3%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1435830		SRR37576167	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 96.1%; Drop-seq 100.0%; ScaleBio RNA 65.6%
+bd_rhapsody	PRJNA1435830		SRR37576168	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	51	BD Rhapsody (Enhanced V2/V3 beads) 96.0%; Drop-seq 100.0%; ScaleBio RNA 65.3%
+bd_rhapsody	PRJNA896570		SRR22129946	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 92.2%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA896570		SRR22129947	ok	BD Rhapsody (original V1 beads)	HIGH	67	BD Rhapsody (original V1 beads) 98.0%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJEB110934		ERR16932653	ok	BD Rhapsody (Enhanced Beads)	HIGH	67	BD Rhapsody (Enhanced Beads) 97.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1418777		SRR37113105	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	101	BD Rhapsody (Enhanced V2/V3 beads) 96.1%; Drop-seq 100.0%; ScaleBio RNA 64.2%
+bd_rhapsody	PRJNA1418777		SRR37113106	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	101	BD Rhapsody (Enhanced V2/V3 beads) 96.2%; Drop-seq 100.0%; ScaleBio RNA 64.3%
+bd_rhapsody	PRJEB106938		ERR16125104	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 94.8%; Drop-seq 100.0%; ScaleBio RNA 66.4%
+bd_rhapsody	PRJEB106938		ERR16125105	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 94.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1373573		SRR36306160	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 93.7%; Drop-seq 100.0%; ScaleBio RNA 62.9%
+bd_rhapsody	PRJNA1373573		SRR36306161	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.2%; Drop-seq 100.0%; ScaleBio RNA 64.8%
+bd_rhapsody	PRJNA874066		SRR21227470	ok	BD Rhapsody (original V1 beads)	HIGH	108	BD Rhapsody (original V1 beads) 80.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA972726		SRR24577255	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 75.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA972726		SRR24577256	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 76.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1282053		SRR34177982	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 93.6%; Drop-seq 100.0%; ScaleBio RNA 65.5%
+bd_rhapsody	PRJNA1282053		SRR34177983	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 93.1%; Drop-seq 100.0%; ScaleBio RNA 65.5%
+bd_rhapsody	PRJNA1380457		SRR36429363	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	50	BD Rhapsody (Enhanced V2/V3 beads) 98.0%; Drop-seq 100.0%; ScaleBio RNA 64.7%
+bd_rhapsody	PRJNA1422619		SRR37202753	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 92.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1422619		SRR37202754	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1429326		SRR37391250	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	70	BD Rhapsody (Enhanced V2/V3 beads) 97.1%; Drop-seq 100.0%; ScaleBio RNA 65.5%
+bd_rhapsody	PRJNA1429326		SRR37391251	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	70	BD Rhapsody (Enhanced V2/V3 beads) 97.2%; Drop-seq 100.0%; ScaleBio RNA 65.6%
+bd_rhapsody	PRJNA1309623		SRR35090019	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 90.4%; Drop-seq 100.0%; ScaleBio RNA 64.9%
+bd_rhapsody	PRJNA1309623		SRR35090020	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 89.9%; Drop-seq 100.0%; ScaleBio RNA 64.7%
+bd_rhapsody	PRJNA1369497		SRR36195053	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 90.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1369497		SRR36195054	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 82.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1265081		SRR33619612	ok	BD Rhapsody (original V1 beads)	HIGH	75	BD Rhapsody (original V1 beads) 90.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJDB36774		DRR977485	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 97.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJDB36774		DRR977486	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 97.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJDB39562		DRR983898	ok	10x 3' v3/v3.1	HIGH	150	10x 3' v3/v3.1 96.3%; Drop-seq 100.0%; inDrops 23.2%
+bd_rhapsody	PRJDB39562		DRR983899	ok	10x 3' v3/v3.1	HIGH	150	10x 3' v3/v3.1 97.5%; Drop-seq 100.0%; inDrops 26.1%
+bd_rhapsody	PRJDB41105		DRR994004	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 94.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJDB41105		DRR994005	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 94.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJDB41605		DRR1033572	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 94.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJDB41605		DRR1033573	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 86.1%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1283135		SRR34269801	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1283135		SRR34269802	ok	BD Rhapsody (Enhanced Beads)	HIGH	150	BD Rhapsody (Enhanced Beads) 96.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1388536		SRR36474725	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 89.6%; Drop-seq 100.0%; ScaleBio RNA 59.8%
+bd_rhapsody	PRJNA1388536		SRR36474726	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 92.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1290257		SRR34502120	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 90.5%; Drop-seq 100.0%; ScaleBio RNA 63.9%
+bd_rhapsody	PRJNA1290257		SRR34502121	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 92.9%; Drop-seq 100.0%; ScaleBio RNA 64.5%
+bd_rhapsody	PRJNA1474987		SRR39003515	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 80.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1474987		SRR39003516	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 80.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1469556		SRR38804271	ok	BD Rhapsody (Enhanced Beads)	HIGH	46	BD Rhapsody (Enhanced Beads) 89.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1139048		SRR29924589	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 85.8%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1139048		SRR29924590	ok	BD Rhapsody (original V1 beads)	HIGH	76	BD Rhapsody (original V1 beads) 86.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1447975		SRR37919438	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 100.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1447975		SRR37919439	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 100.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1281616		SRR34148108	ok	BD Rhapsody (Enhanced Beads)	HIGH	62	BD Rhapsody (Enhanced Beads) 95.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1281616		SRR34148109	ok	BD Rhapsody (Enhanced Beads)	HIGH	51	BD Rhapsody (Enhanced Beads) 95.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1378122		SRR36379604	ok	BD Rhapsody (original V1 beads)	HIGH	151	BD Rhapsody (original V1 beads) 78.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1151660		SRR30352760	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 89.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1151660		SRR30352761	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 80.7%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1177862		SRR31118955	ok	BD Rhapsody (original V1 beads)	HIGH	60	BD Rhapsody (original V1 beads) 82.9%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA944144		SRR23829319	ok	BD Rhapsody (Enhanced Beads)	HIGH	67	BD Rhapsody (Enhanced Beads) 98.0%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA944144		SRR23829320	ok	BD Rhapsody (Enhanced Beads)	HIGH	67	BD Rhapsody (Enhanced Beads) 95.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1285703		SRR34353016	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 95.1%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJNA1285703		SRR34353017	ok	BD Rhapsody (original V1 beads)	HIGH	150	BD Rhapsody (original V1 beads) 95.1%; Drop-seq 100.0%; inDrops 66.7%
+bd_rhapsody	PRJEB115938		ERR17507840	ok	BD Rhapsody (Enhanced Beads)	MEDIUM	76	BD Rhapsody (Enhanced Beads) 62.6%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJEB115938		ERR17507841	ok	BD Rhapsody (Enhanced Beads)	MEDIUM	76	BD Rhapsody (Enhanced Beads) 62.5%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1291681		SRR34544158	ok	no known layout (best support under 30%)		150	Drop-seq 85.4%; Illumina Single Cell 3' / PIPseq v3-v4 23.4%; inDrops 13.5%
+bd_rhapsody	PRJNA1291681		SRR34544159	ok	no known layout (best support under 30%)		150	Drop-seq 67.5%; Illumina Single Cell 3' / PIPseq v3-v4 18.8%; inDrops 8.5%
+bd_rhapsody	PRJNA1420649		SRR37166431	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.6%; Drop-seq 100.0%; ScaleBio RNA 65.9%
+bd_rhapsody	PRJNA1420649		SRR37166432	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 93.3%; Drop-seq 100.0%; ScaleBio RNA 64.7%
+bd_rhapsody	PRJNA1422043		SRR37188391	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.5%; Drop-seq 100.0%; ScaleBio RNA 66.4%
+bd_rhapsody	PRJNA1422043		SRR37188392	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 94.7%; Drop-seq 100.0%; ScaleBio RNA 65.7%
+bd_rhapsody	PRJNA1458120		SRR38282167	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 98.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1458120		SRR38282168	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.3%; Drop-seq 100.0%; ScaleBio RNA 66.7%
+bd_rhapsody	PRJNA1510809		SRR40105067	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 97.3%; Drop-seq 100.0%; ScaleBio RNA 66.0%
+bd_rhapsody	PRJNA1510809		SRR40105068	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 94.7%; Drop-seq 100.0%; ScaleBio RNA 64.3%
+bd_rhapsody	PRJEB115176		ERR17424947	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 92.0%; Drop-seq 100.0%; ScaleBio RNA 62.3%
+bd_rhapsody	PRJEB115176		ERR17424948	ok	BD Rhapsody (Enhanced V2/V3 beads)	HIGH	150	BD Rhapsody (Enhanced V2/V3 beads) 95.8%; Drop-seq 100.0%; ScaleBio RNA 65.4%
+bd_rhapsody	PRJEB121213		ERR17588677	ok	BD Rhapsody (Enhanced Beads)	HIGH	151	BD Rhapsody (Enhanced Beads) 95.4%; Drop-seq 100.0%; ScaleBio RNA 66.7%
