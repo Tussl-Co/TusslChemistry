@@ -39,6 +39,9 @@ tchem --whitelists ~/whitelists nanopore_reads.bam       # long reads: FASTQ or 
 tchem --whitelists ~/whitelists SRR19374511              # a public run, read directly from ENA
 ```
 
+To install from bioconda: `conda install -c conda-forge -c bioconda tussl-chemistry`. The
+container is `quay.io/biocontainers/tussl-chemistry:0.1.0--hfa8f182_0`.
+
 Each GitHub release also has prebuilt archives with their sha256. The Linux builds (x86_64 and
 aarch64) are static. The macOS builds are for Apple silicon and Intel. CI builds the Intel one,
 but does not run it. An archive holds `bin/tchem` and the fetcher.
@@ -70,8 +73,10 @@ For each set of files, tchem reports:
 - **The cause of a no match.** For example, the barcode read is missing, a common fault in ENA's
   two-file exports. Or the reads have a fixed structure that no known layout has.
 
-A run takes about 1.3 seconds of CPU time for short reads (median of 72 public runs). It takes
-about 0.1 seconds for long reads.
+A run takes about 1.3 seconds of CPU time for short reads (median of 72 public runs, gzip files
+already on disk). It takes about 0.1 seconds for long reads. On 1,227 runs of their own pipeline,
+the cellgeni team measured a median of 4.3 seconds. Their input included index files and
+uncompressed FASTQ.
 
 For long reads, the verdict gives the setting for the long-read pipeline:
 
@@ -543,15 +548,40 @@ We found these gaps on the held-out runs on 10 Oct 2026. They are not yet fixed:
   TSO. 3' v2 has the same barcode list. When the cDNA read shows no strand, tchem cannot tell
   these kits apart.
 
+The Cellular Genetics team of the Wellcome Sanger Institute (cellgeni) measured tchem 0.1.0 on
+1,227 runs of their pipeline, on 19 Oct 2026. Their report is `docs/tchem-benchmark.md` in
+[cellgeni/nf-reprocessing-public-10x](https://github.com/cellgeni/nf-reprocessing-public-10x).
+They found these gaps in 0.1.0:
+
+- **5' feature libraries:** tchem typed 0 of 23 labelled 5' antibody, CITE-seq and hashtag
+  libraries as tag libraries. It typed them as gene expression. In these libraries the tag starts
+  at base 11 of the cDNA read, and tchem looked only at base 1.
+- **Strand of a tag library:** tchem used the polyA runs of a CITE-seq library to call 3' v2, at
+  MEDIUM. The reads of a tag library do not come from a transcript, so they do not show 3' or 5'.
+- **VDJ on the 737K list:** tchem left 24 VDJ runs ambiguous between 3' v2 and 5' v1/v2. 10x
+  makes VDJ kits only as 5' kits.
+- **Small files:** tchem made 13 HIGH calls on files of fewer than 1,000 reads. The smallest had 4
+  reads.
+- **Inputs:** tchem refused index reads of 16 bases, and a run with ENA's unpaired third file
+  beside `_1` and `_2`. A run that it reads by accession already drops that file.
+- **Barcode lists:** tchem needs every list in one directory, under its own file names. A
+  pipeline that already holds the 10x lists must keep a second copy.
+- **Not supported:** 10x 3' v1, ATAC and bzip2 input.
+
 A fix for PIPseq or inDrops changes detection. Thus the fix waits for a release with a new
 coverage pass. The design-data rule applies: the runs that we use for the fix become design runs.
 
 ### Comparison with Sanger's tool
 
-We compared tchem with the Wellcome Sanger Institute's `infer_10x_chemistry.py` (Cellular
-Genetics). It is the most similar existing tool. The test used 483 held-out public experiments from
-Arc Institute's scBaseCount (`bench/head_to_head`). We froze the selection plan before either tool
-ran. Both tools can process 445 of the gene-expression experiments:
+We compared tchem with `infer_10x_chemistry.py` from the Wellcome Sanger Institute's Cellular
+Genetics team (cellgeni/nf-reprocessing-public-10x, commit `a861162`). We ran it with
+`--dry-run --allow-missing-whitelists`. Their pipeline does not run this script. Its step
+`RENAME10XRUN` runs `infer_10x_run_recommended.py`. That script samples more reads, accepts
+variable read lengths and has the `--prefer-gex` option. Thus this table compares tchem with an
+older script, not with the pipeline.
+
+The test used 483 held-out public experiments from Arc Institute's scBaseCount
+(`bench/head_to_head`). We froze the selection plan before either tool ran. Both tools can process 445 of the gene-expression experiments:
 
 | | tchem | Sanger's tool |
 |---|---|---|
@@ -561,8 +591,10 @@ ran. Both tools can process 445 of the gene-expression experiments:
 | CPU time per experiment (median of 72, one at a time) | 1.35 s | 7.08 s |
 
 scBaseCount's barcode list is itself found from the reads, so the first row shows agreement, not
-proof. The truth for 3' and 5' comes from ENA titles and a strand referee on nuclear genes. Each
-tool told 3' from 5' on a different set of experiments, so the totals in the third row differ.
+proof. Their script does not separate 3' v2 from 5' v1/v2, by design: it returns
+`gex_3pv2_or_5pv1v2`, and a STARsolo test alignment in the pipeline decides. The truth for 3' and
+5' comes from ENA titles and a strand referee on nuclear genes. Each tool told 3' from 5' on a
+different set of experiments, so the totals in the third row differ.
 
 No HIGH call from tchem was wrong. The library type was correct for all 42 CRISPR guide libraries
 with a title, and for 53 of 57 VDJ libraries with a title. We set the library-type thresholds on

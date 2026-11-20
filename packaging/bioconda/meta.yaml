@@ -1,5 +1,4 @@
-# For bioconda-recipes (recipes/tussl-chemistry/). Built and linted locally against a git archive
-# of the source (packaging/README.md); fill sha256 from the published v0.1.0 tarball before the PR.
+# Mirror of bioconda-recipes recipes/tussl-chemistry/meta.yaml as merged (bioconda/bioconda-recipes#70284).
 {% set name = "tussl-chemistry" %}
 {% set version = "0.1.0" %}
 
@@ -9,7 +8,7 @@ package:
 
 source:
   url: https://github.com/Tussl-Co/TusslChemistry/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: FILL_IN_FROM_THE_RELEASE_TARBALL
+  sha256: 12a229441398020fffcbb5e4bba2b0085ba70c7a34f5d61efd10aeb5042c03ea
 
 build:
   number: 0
@@ -70,4 +69,4 @@ extra:
     - linux-aarch64
     - osx-arm64
   recipe-maintainers:
-    - Tussl-Co
+    - artymisterJ

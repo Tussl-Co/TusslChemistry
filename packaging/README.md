@@ -4,9 +4,10 @@
 [bioconda-recipes](https://github.com/bioconda/bioconda-recipes) (`recipes/tussl-chemistry/`).
 `nf-core/modules/tchem/` holds two modules for
 [nf-core/modules](https://github.com/nf-core/modules) (`modules/nf-core/tchem/`):
-`TCHEM_FETCHLISTS` and `TCHEM_DETECT`. Both were built and tested here, locally. Nothing was
-published: the checks below were made on local builds. The steps to publish are in
-"Steps to publish" below, with a box for each one.
+`TCHEM_FETCHLISTS` and `TCHEM_DETECT`. The bioconda package is published (bioconda-recipes
+#70284, merged 28 Oct 2026), and so is its container,
+`quay.io/biocontainers/tussl-chemistry:0.1.0--hfa8f182_0`. The nf-core modules are not yet
+submitted. The steps to publish are in "Steps to publish" below, with a box for each one.
 
 ## What the package holds
 
@@ -121,23 +122,23 @@ or sha256 differs from the registry. The recipe's tests check that `data/` holds
 
 The maintainer does these steps in this order, and ticks each box when the step is done.
 
-- [ ] **Make the repository public** (Tussl-Co/TusslChemistry). Bioconda, BioContainers and
+- [x] **Make the repository public** (Tussl-Co/TusslChemistry). Bioconda, BioContainers and
       nf-core all fetch from it.
-- [ ] **Tag `v0.1.0`** and publish the draft release that `.github/workflows/release.yml`
+- [x] **Tag `v0.1.0`** and publish the draft release that `.github/workflows/release.yml`
       creates. The workflow checks that the coverage is fresh and builds static Linux and macOS
       archives with their sha256. Read the draft before you publish it.
 - [ ] **Re-check at the tagged commit.** The report embeds the validation counts, which the
       bench/coverage work changes. The byte-check references and the detect snapshots' md5s
       therefore hold for 56a3eac only. At the tag, rebuild the package, repeat the byte check,
       and run nf-test again. Regenerate the snapshots if the report changed.
-- [ ] **Fill the sha256** in `bioconda/meta.yaml` from
+- [x] **Fill the sha256** in `bioconda/meta.yaml` from
       `https://github.com/Tussl-Co/TusslChemistry/archive/refs/tags/v0.1.0.tar.gz`. Compute
       it with `curl -sL <url> | sha256sum` after the tag exists. It may differ from the sha256
       of the local archive. Never reuse the local value.
-- [ ] **Bioconda PR:** copy `bioconda/` to `recipes/tussl-chemistry/` in bioconda-recipes and
+- [x] **Bioconda PR:** copy `bioconda/` to `recipes/tussl-chemistry/` in bioconda-recipes and
       open the pull request. Its CI also builds linux-aarch64 and osx-arm64, which were not built
       here.
-- [ ] **BioContainers tags:** after the bioconda merge, BioContainers builds
+- [x] **BioContainers tags:** after the bioconda merge, BioContainers builds
       `quay.io/biocontainers/tussl-chemistry:0.1.0--<build>` and the Galaxy Singularity image.
       Put both tags in place of `0.1.0--FILL_IN` in the two `main.nf` files. nf-core also
       accepts Seqera containers built from `environment.yml`.

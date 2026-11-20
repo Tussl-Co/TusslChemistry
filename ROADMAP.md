@@ -73,6 +73,15 @@ its layout (`layout.validation`):
     needs.
   - A fix to either kit changes detection. The runs that we use become design runs (the
     design-data rule), and we do the coverage pass again.
+- **0.1.1: the gaps that cellgeni found** (README, "Known gaps"). These changes are in
+  development and wait for the same coverage pass:
+  - The tag test also counts read starts at base 11, where 5' feature libraries put the tag.
+  - A tag or guide library's strand does not decide 3' or 5'. A VDJ library decides 5'.
+  - A HIGH call needs at least 1,000 reads.
+  - tchem sets aside index reads of up to 19 bases, and ENA's unpaired third file.
+  - `scripts/fetch_whitelists.sh --from <dir>` takes the lists from a directory that a pipeline
+    already has, under any names, by their sha256.
+  - The runs of their report that we use become design runs.
 - **Assertions in detection, with the same coverage pass.** A change to a detection file makes
   the held-out record old, so these changes wait for that pass:
   - Remove the assertions that only repeat the line above them. A code review on 10 Oct 2026
@@ -156,8 +165,8 @@ Then, approximately in the sequence of how frequent each kit is in public data:
 
 ### Distribution and upkeep
 
-- Publish: tag `v0.1.0`, then submit the bioconda recipe and the nf-core module. Both are in
-  `packaging/`, and we built and tested both locally.
+- Publish the nf-core modules (`packaging/nf-core`). The bioconda package and its container are
+  published (28 Oct 2026). The modules must pass `nf-core modules lint` and nf-test again first.
 - Library type: tchem typed reads that start with an adapter as a tag library. In ERR15993554,
   70% of reads start with the SMART oligo. tchem must skip known adapter starts when it counts
   read starts.

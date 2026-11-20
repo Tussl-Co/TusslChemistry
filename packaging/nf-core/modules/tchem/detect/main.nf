@@ -4,8 +4,8 @@ process TCHEM_DETECT {
 
     conda "${moduleDir}/environment.yml"
     container "${workflow.containerEngine in ['singularity', 'apptainer'] && !task.ext.singularity_pull_docker_container
-        ? 'https://depot.galaxyproject.org/singularity/tussl-chemistry:0.1.0--FILL_IN'
-        : 'quay.io/biocontainers/tussl-chemistry:0.1.0--FILL_IN'}"
+        ? 'https://depot.galaxyproject.org/singularity/tussl-chemistry:0.1.0--hfa8f182_0'
+        : 'quay.io/biocontainers/tussl-chemistry:0.1.0--hfa8f182_0'}"
 
     input:
     tuple val(meta), path(reads)
