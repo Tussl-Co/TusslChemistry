@@ -568,6 +568,8 @@ They found these gaps in 0.1.0:
   pipeline that already holds the 10x lists must keep a second copy.
 - **Not supported:** 10x 3' v1, ATAC and bzip2 input.
 
+[docs/cellgeni.md](docs/cellgeni.md) gives what we changed for each gap, and how we tested it.
+
 A fix for PIPseq or inDrops changes detection. Thus the fix waits for a release with a new
 coverage pass. The design-data rule applies: the runs that we use for the fix become design runs.
 

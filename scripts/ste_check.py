@@ -28,7 +28,7 @@ from invariant import invariant  # noqa: E402
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 FILES = ["README.md", "CONTRIBUTING.md", "ROADMAP.md", "CHANGELOG.md", "SECURITY.md",
          "bench/VALIDATION.md", "docs/glossary.md", "docs/json.md", "docs/emit.md",
-         "docs/validation.md"]
+         "docs/validation.md", "docs/cellgeni.md"]
 GLOSSARY = "docs/glossary.md"
 
 WORDS_DESCRIPTION_MAX = 25
